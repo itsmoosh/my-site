@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="studentEvals.xsl"?>
+
+<!DOCTYPE studentEvals [
+	<!ELEMENT studentEvals (excerpt)>
+	<!ELEMENT excerpt (question, response)>
+	<!ATTLIST excerpt qtr CDATA #REQUIRED>
+	<!ATTLIST excerpt crs CDATA #REQUIRED>
+	<!ATTLIST excerpt typ CDATA #REQUIRED>
+	<!ELEMENT question (#PCDATA)>
+	<!ELEMENT response (#PCDATA)>
+]>
+
+<studentEvals>
+	<excerpt qtr="152" crs="lab" typ="online">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			The questions asked by the TA are always very effective for critical thinking, keeping myself and the rest of the student eager to comprehend more fully.
+		</response>
+	</excerpt>	
+	
+	<excerpt qtr="144" crs="tut" typ="online">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			Yes. The TA's often led me to new conclusions about concepts that I never considered before. On several occasions I left class with a completely new understanding of a physics concept.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="144" crs="tut" typ="online">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			Definitely. The level of thinking that the QSI's wanted from us was above anything I've experienced before.	The homework also required starting from the basics and building up on top, instead of using what you already know.
+		</response>
+	</excerpt>
+
+	<excerpt qtr="144" crs="tut" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			The element of teamwork and the fact that the instructor walked around and asked stimulating questions was something I've never experienced before. For me, its was quite beneficial in helping me learn.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="144" crs="tut" typ="online">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			Yeah, this was a great way of stretching my thinking. There was many times where my intuition changed and I had a different understanding of physics. Marshall is the best TA I have ever had. He really makes students think and does not give them the answers. He also makes sure that all students get involved which means there is no easy way to not put the effort in to learn the material. Thanks Marshall.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="144" crs="tut" typ="online">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			Yeah, you had to think a lot. It went beyond the lecture. My QSI was super great. Very helpful.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="144" crs="tut" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			Talking to Marshall about additional information was extremely helpful and helped me to understand a lot of those misconceptions.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="144" crs="tut" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			The critique/comments on my homework really helped me get a better understanding of the concepts. Keep writing those comments!
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="144" crs="lab" typ="online">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			This class was definitely challenging. Marshall constantly questioned our explanations and asked us to expand what we were learning to new ideas and questions.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="144" crs="lab" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			The instructor's interest in the students' sucess
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="144" crs="lab" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			My lab instructor was amazing and so was my tutorial helper. Teacher was very clear and concise.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="144" crs="lab" typ="online">
+		<question>
+			What suggestions do you have for improving the class?
+		</question>
+		<response>
+			Get more TAs like Marshall. He wouldn't let you leave until he was confidence you had some level of understanding of the material.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="144" crs="lab" typ="online">
+		<question>
+			What suggestions do you have for improving the class?
+		</question>
+		<response>
+			Keep finding awesome TA's who go out of their way to help students in need, whether it's help in the classroom or helping coordinate incessant schedule conflicts. We need more TA's like Marshall.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="141" crs="tut" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			You are a great TA. Very helpful and your explanations are great. Harsh grader though, compared grades to a friend who answered the same and I got a lower score :( maybe he just has a really easy grader though.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="141" crs="tut" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			Getting feedback from graded homeworks + answers of questions raised in class
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="141" crs="tut" typ="written">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			(Yes) Marshall, you took the time to really answer the questions that were being asked instead of dismissing them as not relevant to the tutorial, which increased my understanding of not only the tutorial questions but of the class as a whole.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="141" crs="tut" typ="written">
+		<question>
+			What suggestions do you have for improving the class?
+		</question>
+		<response>
+			Smile more marshall, you're awesome! You're a great tutorial instructor and a really cool guy. Thanks a bunch, you went above and beyond.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="141" crs="tut" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			Felt comfortable asking TA questions, very helpful responses.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="141" crs="tut" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			The TA was extremely knowledgable. His explanations, questions presented, and examples helped me learn a lot.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="141" crs="tut" typ="written">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			Yes, you provoked very interesting conversation that went beyond the classroom. Very rare to have that.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="141" crs="tut" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			Most TA's don't walk around, and check that you know the info, but instead just sit and wait for questions. I thought not only were you there to answer all my questions w/ the help of tyson, but also helped create a fun atmosphere that made tutorial bearable. Thank you for that.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="141" crs="tut" typ="written">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			you always asked us questions to make sure we are understanding the physics
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="141" crs="tut" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			Marshall asked prompting questions and helped whenever we had any questions. so nice! made useful analogies or told us how he looks at things which was helpful. 
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="132" crs="lab" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			Marshall was an excellent TA. I have never had a more helpful and passionate TA willing to do so much for the students. 
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="132" crs="lab" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			That you made sure we understood the concepts by going to every group, being very attentive to student needs, and staying afterwards to help. Clarifications as well 
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="132" crs="lab" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			But really, Marshall was the best TA/Lab Instructor I've ever had. Super Helpful. Lots of tips and explanations. Well done. 
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="131" crs="lab" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			 Talking with Lab TA really put what I was observing in the lab and the material being learned together. Really help implement the lab work into learning.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="131" crs="lab" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			 Marshall is always very responsive &amp; direct with his emails. His sharp attire always lets me feel comfortable in his knowledge.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="131" crs="lab" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			 TA Marshall helped a lot during lab time. great explanations and always took time to help
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="131" crs="lab" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			 Explanations from TA on what's important and what to note when doing experiments. as to apply to physics as a whole for tests and further knowledge.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="131" crs="lab" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			 you were one of the best TAs I've ever had. I like how you did the labs yourself first to ensure you understood each one. It made class much easier when you knew how to answer everyone's problems. you're really funny! your cool personality and knowledge made this a really fun lab. keep it up!
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="131" crs="lab" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			 Marshall was enthusiastic, knowledgable, and professional while remaining unintimidating to talk to.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="131" crs="lab" typ="written">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			 The videos on the pre-lab. Marshall's an awesome TA. My lab TA last quarter didn't seem too happy about being a lab TA, but you I can tell that Marshall enjoys being a TA and wants us to learn the material. Also, you're patient with answering questions and don't make us feel stupid when asking questions.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="124" crs="lab" typ="written">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			 (Yes) Instructor was really efficient in the questions he asked to make sure we knew what we were supposed to get out of lab.
+		</response>
+	</excerpt>
+</studentEvals>
