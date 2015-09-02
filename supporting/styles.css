@@ -36,6 +36,12 @@ th {
 }
 
 /*	Creating new style classes (alphabetized)	*/
+
+.at {
+	width: 15px;
+	height: 15px;
+}
+
 .banner {
 	margin-left: auto;
 	margin-right: auto;
@@ -99,13 +105,22 @@ th {
 .footer {
 	margin-top: 20px;
 	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
 	color: #666666;
 	text-align: center;
+	max-width: 705px;
 }
 
 .homelogo {
 	float: left;
 	margin: 10px;	
+}
+
+.liclogo {
+	width: 88px;
+	height: 31px;
+	border: 0px;
 }
 
 .logospane {
