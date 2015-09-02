@@ -109,7 +109,7 @@ th {
 	margin-right: auto;
 	color: #666666;
 	text-align: center;
-	max-width: 705px;
+	max-width: 740px;
 }
 
 .homelogo {
@@ -121,6 +121,12 @@ th {
 	width: 88px;
 	height: 31px;
 	border: 0px;
+}
+
+.licdiv {
+	width: 720px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .logospane {

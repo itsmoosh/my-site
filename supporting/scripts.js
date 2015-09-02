@@ -29,9 +29,3 @@ function toggleAnim(running) {
 	running = !running;
 	return running;
 };
-
-function makeFooter() {
-	var footerXML = loadXMLDoc("supporting/footer.xml");
-	var footerHTML = footerXML.getElementsByTagName('footer')[0].childNodes[0].nodeValue;
-	document.getElementById('contact').innerHTML = footerHTML;
-};

@@ -31,9 +31,9 @@
 			<ul class="navlist">
 				<li><a class="navlink" href="">Home</a></li>
 				<li class="navcurrent">Teaching</li>
-				<li><a class="navlink" href="pages/construction.html">Research</a></li>
-				<li><a class="navlink" href="pages/construction.html">Experience</a></li>
-				<li><a class="navlink" href="pages/personal.html">Personal</a></li>
+				<li><a class="navlink" href="pages/research.shtml">Research</a></li>
+				<li><a class="navlink" href="pages/experience.shtml">Experience</a></li>
+				<li><a class="navlink" href="pages/personal.shtml">Personal</a></li>
 			</ul>
 			
 			<h4 class="navlabel">External</h4>
@@ -128,7 +128,7 @@
 				 <blockquote>I am here to help you learn.</blockquote>
 			<p>
 				Students are encouraged to ask questions by email, day or night. Office hours are also available upon request
-				 or during scheduled study center hours (see <a href="pages/teaching.html#assignment">the table above</a> for scheduling).
+				 or during scheduled study center hours (see <a href="pages/teaching.shtml#assignment">the table above</a> for scheduling).
 			</p>
 							
 			<p>				
@@ -173,8 +173,8 @@
 		
 		<hr style="max-width:1024px;">
 	</div>
-	<div class="footer">This website was lovingly hand-coded by the owner. Please send any questions, comments, or conversation to 
-		<strong style="color:black;">mjstyczi<img title="(at)" src="images/at.gif" alt="(at)" style="width:15px; height:15px;">uw.edu</strong>
+	<div class="footer">
+		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>

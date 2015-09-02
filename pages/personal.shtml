@@ -30,9 +30,9 @@
 			<h3 class="navlabel">Navigation</h3>
 			<ul class="navlist">
 				<li><a class="navlink" href="">Home</a></li>
-				<li><a class="navlink" href="pages/teaching.html">Teaching</a></li>
-				<li><a class="navlink" href="pages/construction.html">Research</a></li>
-				<li><a class="navlink" href="pages/construction.html">Experience</a></li>
+				<li><a class="navlink" href="pages/teaching.shtml">Teaching</a></li>
+				<li><a class="navlink" href="pages/research.shtml">Research</a></li>
+				<li><a class="navlink" href="pages/experience.shtml">Experience</a></li>
 				<li class="navcurrent">Personal</li>
 			</ul>
 			
@@ -60,7 +60,7 @@
 				Marshall J. Styczinski was born in Dublin, California in 1988. He received his high school diploma in 2006 from Portola High School in eastern California.
 				 Four years later, he completed his Bachelor of Science degree in physics with Highest Honors at the University of California, Davis. He joined
 				 the Physics Department at the University of Washington in 2012; for more information on Marshall's experience and qualifications,
-				 <a href="pages/construction.html">visit the experience page.</a>
+				 <a href="pages/experience.shtml">visit the experience page.</a>
 			</p>
 			
 			<p>
@@ -147,8 +147,8 @@
 		
 		<hr style="max-width:1024px;">
 	</div>
-	<div class="footer">This website was lovingly hand-coded by the owner. Please send any questions, comments, or conversation to 
-		<strong style="color:black;">mjstyczi<img title="(at)" src="images/at.gif" alt="(at)" style="width:15px; height:15px;">uw.edu</strong>
+	<div class="footer">
+		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>

@@ -34,23 +34,23 @@
 				<img src="images/map.png" class="map" usemap="#sitemap" title="Site map" alt="Clickable visual site layout">
 				<map name="sitemap">
 					<area shape="circle" coords="251,285,135"  href="">
-					<area shape="rect" coords="0,0,254,291" href="pages/teaching.html">
-					<area shape="rect" coords="254,0,509,291" href="pages/construction.html">
-					<area shape="rect" coords="0,291,254,582" href="pages/construction.html">
-					<area shape="rect" coords="254,291,509,582" href="pages/personal.html">
+					<area shape="rect" coords="0,0,254,291" href="pages/teaching.shtml">					
+					<area shape="rect" coords="0,291,254,582" href="pages/experience.shtml">
+					<area shape="rect" coords="254,0,509,291" href="pages/research.shtml">
+					<area shape="rect" coords="254,291,509,582" href="pages/personal.shtml">
 				</map>
 			</div>
 			<br>
-			<hr>
+			<hr style="max-width:1024px;">
 			<h2>Textual</h2>
 			<div class="middiv" style="width:509px;">
 			<ul class="navlist">
 				<li><a class="mapnavlink" href="">Home</a>
 				<ul class="navlist">
-					<li><a class="mapnavlink" href="pages/teaching.html">Teaching</a></li>
-					<li><a class="mapnavlink" href="pages/construction.html">Research (under construction)</a></li>
-					<li><a class="mapnavlink" href="pages/construction.html">Experience (under construction)</a></li>
-					<li><a class="mapnavlink" href="pages/personal.html">Personal</a></li>
+					<li><a class="mapnavlink" href="pages/teaching.shtml">Teaching</a></li>
+					<li><a class="mapnavlink" href="pages/research.shtml">Research (under construction)</a></li>
+					<li><a class="mapnavlink" href="pages/experience.shtml">Experience (under construction)</a></li>
+					<li><a class="mapnavlink" href="pages/personal.shtml">Personal</a></li>
 				</ul></li>
 			</ul>
 			<br>
@@ -65,11 +65,11 @@
 			</ul>
 			</div>
 		</div>
-		<hr>
-		<p>
-			Contact: <strong>mjstyczi<img title="(at)" src="images/at.gif" alt='(at)'>uw.edu</strong>
-			<br>
-		</p>
+		<hr style="max-width:1024px;">
+		
+		<div class="footer">
+			<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
+		</div>
 		
 	</div>
 	</body>
