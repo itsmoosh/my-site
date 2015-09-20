@@ -35,8 +35,8 @@
 				<map name="sitemap">
 					<area shape="circle" coords="251,285,135"  href="">
 					<area shape="rect" coords="0,0,254,291" href="pages/teaching.shtml">					
-					<area shape="rect" coords="0,291,254,582" href="pages/experience.shtml">
-					<area shape="rect" coords="254,0,509,291" href="pages/research.shtml">
+					<area shape="rect" coords="0,291,254,582" href="pages/research.shtml">
+					<area shape="rect" coords="254,0,509,291" href="pages/experience.shtml">
 					<area shape="rect" coords="254,291,509,582" href="pages/personal.shtml">
 				</map>
 			</div>
