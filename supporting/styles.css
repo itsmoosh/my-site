@@ -50,9 +50,9 @@ th {
 	height: 120px;
 	text-align: center;
 	
-	padding: 10px;
+	padding: 9px;
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/images/porthole_border.png");
+	border-image-source: url("http://students.washington.edu/mjstyczi/images/porthole_border2.png");
 	border-image-slice: 60;
 	border-image-width: 4;
 	border-image-outset: 0;
@@ -232,9 +232,9 @@ th {
 	background-repeat: no-repeat;
 	background-position: center;
 	
-	padding: 10px;
+	padding: 9px;
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/images/porthole_border.png");
+	border-image-source: url("http://students.washington.edu/mjstyczi/images/porthole_border2.png");
 	border-image-slice: 60;
 	border-image-width: 4;
 	border-image-outset: 0;
