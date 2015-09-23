@@ -12,6 +12,51 @@
 ]>
 
 <studentEvals>
+	<excerpt qtr="153" crs="tut" typ="online">
+		<question>
+			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
+		</question>
+		<response>
+			Of all of the components of physics 122 I felt this was the one that, while difficult, was most beneficial to my learning. Marshall was very good about making sure to never give us answers outright but instead asking questions that helped us arrive at the answers on our own. Whenever I asked him questions about concepts that I didn't understand he would help me to reason out my answers on my own, and was relentless in doing so. That is to say, even if it took me a while, his line of questioning always led to me to answers that I was confident in and felt I understood completely. I didn't really like physics but I always looked forward to tutorial sections.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="153" crs="tut" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			Whiteboard explanations of concepts by the TA while working through worksheets with my group. The instructor always had thorough explanations as well as alternate solutions to show us when we just didn't get it. Contributed a lot to my understanding of the course as a whole by taking the time to work through other problems in parts of the course with us when tutorial finished early or had time during passing period.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="152" crs="tut" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			The explanations given by the instructor. As someone who struggles more with the concepts introduced, I had a lot of questions about the worksheets. All these questions were answered with great explanations and he made sure that I understood everything before leaving.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="152" crs="tut" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			The homework assignments and working through them from my first incomplete reasoning to a logically sound conclusion with lots of help from the QSI was a very satisfying, if effort- and time-intensive procedure. Marshall was an amazing QSI not because he led an easy QS but because he really put the time in and wanted to make sure that students learn and reason correctly.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="152" crs="tut" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			Attending tutorial was beneficial in the examples given by the instructor and his help. He was very open and willing to provide as much help as possible and he genuinely wanted us all to exceed.
+		</response>
+	</excerpt>
+	
 	<excerpt qtr="152" crs="lab" typ="online">
 		<question>
 			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
