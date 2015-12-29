@@ -12,6 +12,33 @@
 ]>
 
 <studentEvals>
+	<excerpt qtr="154" crs="lab" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			Criticism from TA's and guided work. I enjoyed working with a TA who seemed as if he genuinely cared about his students learning and wanted to help them do well on exams and post labs. Best TA guidance thus far.			
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="154" crs="tut" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			The feedback from the homework was incredibly helpful. Getting back the graded homework allowed me to identify the flaws in my understanding of the subject. Marshall was a great help to addressing and fixing those flaws in his office hours, and reviewing the material with him gave me more confidence in my understanding of it.
+		</response>
+	</excerpt>
+	
+	<excerpt qtr="154" crs="tut" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			My TA! One of the most helpful TA's that I have had at this university. His explanations, examples, and the questions that he raised were all extremely helpful in grasping the material. Furthermore, while some graders don't necessarily write comments when grading tutorial homework or the essay questions in lab, he takes the time to write out comments for every problem he grades. Excellent job!
+		</response>
+	</excerpt>
+
 	<excerpt qtr="153" crs="tut" typ="online">
 		<question>
 			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
