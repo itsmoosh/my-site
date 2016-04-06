@@ -12,7 +12,7 @@
 ]>
 
 <studentEvals>
-	<excerpt qtr="162" crs="lab" typ="online">
+	<excerpt qtr="161" crs="lab" typ="online">
 		<question>
 			What aspects of this class contributed most to your learning?
 		</question>
@@ -21,7 +21,7 @@
 		</response>
 	</excerpt>
 	
-	<excerpt qtr="162" crs="lab" typ="online">
+	<excerpt qtr="161" crs="lab" typ="online">
 		<question>
 			What aspects of this class contributed most to your learning?
 		</question>
@@ -30,7 +30,7 @@
 		</response>
 	</excerpt>
 	
-	<excerpt qtr="162" crs="lab" typ="online">
+	<excerpt qtr="161" crs="lab" typ="online">
 		<question>
 			What aspects of this class contributed most to your learning?
 		</question>
@@ -39,7 +39,7 @@
 		</response>
 	</excerpt>
 	
-	<excerpt qtr="162" crs="lab" typ="online">
+	<excerpt qtr="161" crs="lab" typ="online">
 		<question>
 			What suggestions do you have for improving the class?
 		</question>
