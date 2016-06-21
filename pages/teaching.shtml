@@ -57,7 +57,7 @@
 			
 			<h2>Current teaching assignments</h2>
 			<table id="assignment">
-				<caption>Quarter: Spring 2015</caption>
+				<caption>Quarter: Summer 2016</caption>
 				<tr>
 					<th>Course</th>
 					<th>Allotment</th>
@@ -65,12 +65,12 @@
 				</tr>
 				<tr>
 					<td><a href="http://depts.washington.edu/uwphyttl/">122 Tutorials</a></td>
-					<td><a href="http://depts.washington.edu/uwphyttl/CurrentSchedules/122_tut_sched.pdf">5 in-class sections</a></td>
+					<td><a href="http://depts.washington.edu/uwphyttl/CurrentSchedules/122_tut_sched.pdf">2 in-class sections</a></td>
 					<td>Head TA</td>
 				</tr>
 				<tr>
 					<td><a href="http://courses.washington.edu/phys122z/">122 Laboratory</a></td>
-					<td><a href="http://courses.washington.edu/phys122z/TAinfo.php">0 in-class sections</a></td>
+					<td><a href="http://courses.washington.edu/phys122z/TAinfo.php">2 in-class sections</a></td>
 					<td>Head TA</td>
 				</tr>
 				<!--<tr>
@@ -80,7 +80,7 @@
 				</tr>-->
 				<tr>
 					<td><a href="https://sharepoint.washington.edu/phys/ugrad/1xx/Pages/Study-Center.aspx">Study Center</a></td>
-					<td>Th 11:30a - 12:30p</td>
+					<td>T 12:00 - 1:00p</td>
 					<td>Physics Study Center, room AM018</td>
 				</tr>
 				<!--<tr>
