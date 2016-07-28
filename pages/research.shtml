@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="supporting/styles.css">
 	<script src="supporting/scripts.js"></script>
 		
-	<meta name="description" content="Personal web page for Marshall Styczinski: this page under construction">
+	<meta name="description" content="Personal web page for Marshall Styczinski: Research">
 	<meta name="author" content="Marshall Styczinski">
 	<meta charset="UTF-8">
 	</head>
@@ -19,9 +19,9 @@
 	</div>
 
 	<div id="heading">
-		<div class="bannercontainer"><a href=""><div class="banner" style="background-image:url('banners/kerry.jpg');"> </div></a></div>
+		<div class="bannercontainer"><a href=""><div class="banner" style="background-image:url('banners/tower_at_moher.jpg');"> </div></a></div>
 		
-		<h1>This page is under construction.</h1>
+		<h1>Research</h1>
 		<hr style="max-width:1024px;">
 	</div>
 	
@@ -49,14 +49,66 @@
 		</div>		
 			
 		<div id="maincontent" class="main">
+			<h2>This page is under construction.</h2>
 			<div class="warning">
 				<img src="images/working.gif" class="warning" title="under construction" alt="construction warning sign">
 			</div>
-			<br>
-			<div class="footer">
-				<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
-			</div>
+			
+			<h2>Physics Education Research</h2>
+			<p>
+				Marshall's area of specialization is in physics education research (PER).
+				 PER is an example of <dfn>discipline-based education research,</dfn> in that
+				 it is generally conducted by researchers in a physics department, most often
+				 with formal academic training in physics. Physics education researchers are 
+				 uniquely well-suited to study the teaching and learning of physics because
+				 they are intimately well-acquainted with the subject matter, and they are 
+				 scientists first and foremost.
+			</p>
+			<p>
+				As the name suggests, <em>physics</em> education research is primarily 
+				 concerned with improving the teaching and learning of physics. Learning
+				 is very complicated, so there are many sub-fields and specializations under the 
+				 blanket of PER. As with all science, theoretical modeling and experimental
+				 data collection are involved and are rarely independent. Most groups have
+				 a primary thematic focus, like one or more of these examples:
+			</p>
+			<ul>
+				<li>K-12 teacher training and scientific literacy</li>
+				<li>Progression of development from novice-like to expert-like reasoning</li>
+				<li>Instructional practice and classroom structure</li>
+				<li>Student attitudes toward physics or science</li>
+			<\ul>
+			<p>
+				The primary focus of the Physics Education Group at the University of Washington
+				 (UWPEG) is understanding and addressing student conceptual difficulties in physics.
+				 Student understanding is probed and researched via carefully constructed pretests
+				 and post-tests; detailed curricular materials are created to help students 
+				 recognize, assess, and build on their own model; researchers are also instructors
+				 in the class and can observe first-hand how students respond to the curricula.
+				 The process of development of curriculum, research, and instruction is rarely
+				 linear, and most often there is a complex inter-play between these three facets.
+			</p>
+			<p>
+				UWPEG has released two primary curricula based on and validated by research, 
+				<em>Physics by Inquiry</em> and <em>Tutorials in Introductory Physics</em>.
+				While both are still in active development, these resources are widely used in the
+				US, with several international sites using them as well. For more information,
+				<a href="http://depts.washington.edu/uwpeg/">visit the UWPEG web site.</a>
+			</p>
+			
+			<h2>Research Focus</h2>
+			<p>
+				Marshall studies the time students spend in class and on assignments, aiming to 
+				 find areas where we can do more with less.
+
+			</p>
+			
 		</div>
+		
+		<hr style="max-width:1024px;">
+	</div>
+	<div class="footer">
+		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>
