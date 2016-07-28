@@ -49,11 +49,6 @@
 		</div>		
 			
 		<div id="maincontent" class="main">
-			<h2>This page is under construction.</h2>
-			<div class="warning">
-				<img src="images/working.gif" class="warning" title="under construction" alt="construction warning sign">
-			</div>
-			
 			<h2>Physics Education Research</h2>
 			<p>
 				Marshall's area of specialization is in physics education research (PER).
@@ -77,7 +72,7 @@
 				<li>Progression of development from novice-like to expert-like reasoning</li>
 				<li>Instructional practice and classroom structure</li>
 				<li>Student attitudes toward physics or science</li>
-			<\ul>
+			</ul>
 			<p>
 				The primary focus of the Physics Education Group at the University of Washington
 				 (UWPEG) is understanding and addressing student conceptual difficulties in physics.
@@ -90,17 +85,61 @@
 			</p>
 			<p>
 				UWPEG has released two primary curricula based on and validated by research, 
-				<em>Physics by Inquiry</em> and <em>Tutorials in Introductory Physics</em>.
-				While both are still in active development, these resources are widely used in the
-				US, with several international sites using them as well. For more information,
-				<a href="http://depts.washington.edu/uwpeg/">visit the UWPEG web site.</a>
+				 <em>Physics by Inquiry</em> and <em>Tutorials in Introductory Physics.</em>
+				 While both are still in active development, these resources are widely used in the
+				 US, with several international sites using them as well. For more information,
+				 <a href="http://depts.washington.edu/uwpeg/">visit the UWPEG web site.</a>
 			</p>
 			
-			<h2>Research Focus</h2>
+			<h2>Research Focus: Doing more with less</h2>
 			<p>
-				Marshall studies the time students spend in class and on assignments, aiming to 
-				 find areas where we can do more with less.
-
+				Budgeting time is challenging. As an instructor, choices about what to cover and
+				 in how much detail are always close at hand. Much of Marshall's research is devoted
+				 to maximizing what students take away from class-related activities, especially in-class
+				 group work and homework. Getting more out of the time spent, or &quot;doing more
+				 with less,&quot; is the main goal. Occupying less time allows for other fruitful in-class
+				 activities, and everyone wants students to learn more from the time they spend.   
+			</p>
+			<p>
+				A strong research tradition precedes Marshall, and he carries it forward with pride.
+				 The <em>Tutorials in Introductory Physics</em> created by current and former members of
+				 UWPEG have seen decades of research, validation, instruction, and gradual improvement.
+				 The research literature is always growing, and there are often golden nuggets to be
+				 found therein that can help enhance the <em>Tutorials.</em> Marshall's recent work
+				 has centered on poring over tutorials from Electricity and Magnetism, aiming to condense
+				 topics to take less in-class time to cover.
+			</p>
+			<p>
+				The <em>Tutorials</em> are not only based on research on difficult topics, they are also
+				 carefully validated. Careful studies controlling for students' experiences 
+				 demonstrate that each tutorial worksheet has an overall impact, helping many students
+				 learn the concepts better than alternatives like solving textbook problems. To maintain this
+				 research validation, every major change (like combining tutorials) is followed by another
+				 careful validation study&mdash;we want students to learn as well or better than before.
+				 Marshall is in the midst of a study re-validating several tutorials he reconfigured to
+				 take less time.  
+			</p>
+			<p>
+				Supporting his work on improving time spent in-class, Marshall is beginning a project
+				 for characterizing the types of student behavior when working through tutorials in groups.
+				 Understanding how students engage with the questions and their group can be used to 
+				 guide the development of better tutorial worksheets&emdash;by ensuring students are maximizing
+				 effective behaviors like explaining their reasoning to each other, we ensure they get the
+				 most out of their time with their group and instructors.
+			</p>
+			<p>
+				On the horizon, Marshall will also be studying avenues to combine interactive simulations
+				 with student homework assignments, with the ultimate goal of improving what students
+				 learn from completing homework without spending more time than they do already. Many research
+				 studies show great potential for student learning with 
+				 <a href="https://phet.colorado.edu/" target="_blank">interactive simulations, like the PhETs.</a>
+				 Students are always under a burdensome, stressful workload, however. We can't simply ask them
+				 to spend their free time using a simulation, and cutting out other effective assignments 
+				 might do more harm than good. That's where Marshall's careful research and experience 
+				 rewriting curriculum comes in. He'll be consulting the research literature to form a well-grounded
+				 plan, choosing which exercises to remove or tailor to an added simulation in order for students
+				 to get the most out of the time they spend on homework. 
+				 simulation
 			</p>
 			
 		</div>
