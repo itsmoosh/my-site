@@ -97,6 +97,12 @@ th {
 	top: -10px;
 }
 
+/*	Lighten default color for external links, which appear on a BG of dark water	*/
+.extlinks a:link{color:cyan; background-color:transparent; text-decoration:underline;}
+.extlinks a:visited {color:purple; background-color:transparent; text-decoration:underline;}
+.extlinks a:hover {color:cyan; background-color:transparent; text-decoration:underline;}
+.extlinks a:active {color:red; background-color:transparent; text-decoration:underline;}
+
 .fakelink {
 	color: blue;
 	text-decoration: underline;
@@ -228,7 +234,7 @@ th {
 	line-height: 40px;
 	text-align: left;
 	vertical-align: middle;
-	background-image: url("http://students.washington.edu/mjstyczi/images/nav_BG_light.jpg");
+	background-image: url("http://students.washington.edu/mjstyczi/images/nav_BG.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	
