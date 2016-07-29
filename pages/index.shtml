@@ -48,8 +48,8 @@
 				<li><a class="mapnavlink" href="">Home</a>
 				<ul class="navlist">
 					<li><a class="mapnavlink" href="pages/teaching.shtml">Teaching</a></li>
-					<li><a class="mapnavlink" href="pages/research.shtml">Research (under construction)</a></li>
-					<li><a class="mapnavlink" href="pages/experience.shtml">Experience (under construction)</a></li>
+					<li><a class="mapnavlink" href="pages/research.shtml">Research</a></li>
+					<li><a class="mapnavlink" href="pages/experience.shtml">Experience</a></li>
 					<li><a class="mapnavlink" href="pages/personal.shtml">Personal</a></li>
 				</ul></li>
 			</ul>
