@@ -117,12 +117,11 @@
 				<p> 
 					The unique challenge represented in overcoming engineering hurdles in a true-to-form physical context
 					 affords the player a unique sense of accomplishment in completing in-game goals, such as landing on planets and moons. Below is an image from 
-					 Kerbal Space Program, wherein three Kerbals are commemorating having landed their rocket on the M&#252;n (the moon of planet Kerbin,
-					 home of the Kerbals and analogous to Earth).
+					 Kerbal Space Program, wherein three Kerbals are commemorating having landed on a moon of planet Jool, analogous to Jupiter.
 				</p>		
 				
 				<div class="portrait" style="width:558px; height:418px;">
-					<a href="images/kerbal.png"><img src="images/kerbal.png" class="portrait" style="width:558px; height:418px;" title="Kerbals Landed on the M&#252;n" alt="Three green aliens on a lunar surface, in Kerbal Space Program."></a>
+					<a href="images/kerbal.png"><img src="images/kerbal_Tylo_rove.png" class="portrait" style="width:558px; height:418px;" title="Kerbals roving around on Tylo, a moon of Jool." alt="Three green aliens on a cratered surface, in Kerbal Space Program."></a>
 				</div>	
 				
 				<h3>Outdoors</h3>
