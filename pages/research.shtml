@@ -121,8 +121,8 @@
 				 has centered on poring over tutorials from Electricity and Magnetism, aiming to condense
 				 topics to take less in-class time to cover.
 			</p>
-			<div class="wrapimg" style="width:374px; height:624px; float:right;">
-				<a href="images/AAPT.jpg"><img src="images/AAPT.jpg" class="portrait" style="width:374px; height:624px;" title="Marshall presents his research at the American Association of Physics Teachers national conference" alt="Marshall speaking from behind a podium on stage."></a>
+			<div class="wrapimg" style="width:374px; height:624px;">
+				<a href="images/AAPT.jpg"><img src="images/AAPT.jpg" class="wrapimg" style="width:374px; height:624px;" title="Marshall presents his research at the American Association of Physics Teachers national conference" alt="Marshall speaking from behind a podium on stage."></a>
 			</div>			
 			<p>
 				The <em>Tutorials</em> are not only based on research on difficult topics, they are also
