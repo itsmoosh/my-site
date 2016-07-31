@@ -76,6 +76,9 @@
 				 and LaTeX, Marshall has constructed hundreds of documents--curricular materials, written coursework, research papers, memoranda for 
 				 collaborators, personal documents, and more. 
 			</p>
+			<div class="portrait" style="width:625px; height:342px;">
+				<a href="http://www.glowscript.org/#/user/Mesons/folder/ColorPalettes/program/StandardColors"><img src="images/color_palettes.png" class="portrait" style="width:625px; height:342px;" title="A 4-color palette amenable to colorblind users that Marshall developed for use in interactive simulations. Click for more palettes." alt="4 vibrantly colored, highly contrasting boxes with multiple color definitions. The page is headed with Colorblind-Friendly Palettes."></a>
+			</div>
 			<p>
 				Marshall's programming expertise is both broad and deep. He has worked extensively with C++, JavaScript, Python, LabVIEW, and HTML.
 				 He has also involved smaller projects utilizing ROOT, C, BASH, Mathematica, jQuery, Assembly, GlowScript, and XML in his coursework,
@@ -87,7 +90,6 @@
 				 Recreationally, he has also used Redmine bug tracking software as a volunteer tester for the video games
 				 <a href="https://kerbalspaceprogram.com/">Kerbal Space Program</a> and <a href="https://openmw.org/">the OpenMW project</a>. The linux
 				 computer Marshall uses to play-test these programs he personally built from component parts. 
-				 
 			</p>
 			<p>				 
 				Marshall has also engaged in several hardware projects in a laboratory setting. His background and training includes cryogens;
@@ -105,6 +107,18 @@
 				 <dfn>formative assessment</dfn> during class time, monitoring and guiding student progress through direct in-class discussion.			 
 				 Further aiding classroom efficacy, Marshall is an expert in Socratic dialogue, the art and science of teaching by asking questions.
 			</p>
+			<div class="portrait" style="width:536px; height:365px;">
+				<a href="images/town_hall.jpg"><img src="images/town_hall.jpg" class="portrait" style="width:536px; height:365px;" title="Marshall presents an introduction to his field of research at Town Hall theater" alt="Marshall stands behind a podium with a spotlight trained on him."></a>
+			</div>
+			<p>
+				Half of science is communicating the results of your experiments. The audience for your results may be other scientists,
+				 the public, political leaders, or a more specific population. Marshall is proud to be a member of the board of directors
+				 for the <a href="http://engage-science.com">Engage science program,</a> which holds a class at UW each year to help
+				 graduate students learn practical skills for communicating their science. Most graduate students have never had formal
+				 instruction in communication, so this class provides an excellent opportunity to learn these critical skills. The class culminates in
+				 a formal public presentation at Town Hall theater in Seattle.
+				 <a href="pages/research.shtml#town_hall">A video of Marshall's Town Hall presentation is available on the Research page.</a> 
+			</p>
 			<p>
 				All scientific research requires well-developed analytical skills. Over the course of Marshall's previous laboratory and practical experience, 
 				 extensive coursework both in physics and other sciences, current research in physics education, and hobby programming, his logic and reasoning
@@ -115,8 +129,8 @@
 			<h2 id="exp">Experience</h2>
 			<p>			
 				Marshall has a wide range of laboratory, classroom, and collaborative experience. A brief formal summary may be found in his
-				 <a href="documents/Styczinski_CV.pdf">Curriculum Vitae, linked here</a>. Last updated: Aug 6, 2015. For more details about any item,
-				 please contact Marshall at the email address listed at the bottom of this page.
+				 <a href="documents/Styczinski_CV.pdf">Curriculum Vitae, linked here</a>. <!--#config timefmt="%D" -->Last updated <!--#flastmod file="documents/Styczinski_CV.pdf" -->.
+				 For more details about any item, please contact Marshall at the email address listed at the bottom of this page.
 			</p>
 			<p>
 				Ever since beginning his physics education in high school, Marshall has excelled at helping others learn physics. At first, 
@@ -148,6 +162,9 @@
 				 thorough documentation of this project in an honors thesis, Marshall was awarded the &quot;with Highest Honors&quot; distinction for 
 				 his B.S. in Physics. 
 			</p>
+			<div class="portrait" style="width:553px; height:581px;">
+				<a href="images/copper_shield.jpg"><img src="images/copper_shield.jpg" class="portrait" style="width:553px; height:581px;" title="A copper shield for protecting a cold space from radiated heat." alt="A shiny copper cylinder sitting on a table, surrounded by tools."></a>
+			</div>
 			<p>
 				Thanks to reputation earned with specialists working in labs at UC Davis, Marshall was recommended for a paid position as a technician
 				 in a different lab. The primary goal of this short-term position was to repair another damaged experimental system operating in high vacuum,
