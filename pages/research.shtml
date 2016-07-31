@@ -73,7 +73,7 @@
 				<li>Instructional practice and classroom structure</li>
 				<li>Student attitudes toward physics or science</li>
 			</ul>
-			<iframe class="portrait" style="width:748px; height:421px; clear:both; text-align:center;" width="748" height="421" src="https://www.youtube.com/embed/SmGC3uRvmig?start=69" frameborder="0" allowfullscreen></iframe>			
+			<iframe class="portrait" id="town_hall" width="748" height="421" src="https://www.youtube.com/embed/SmGC3uRvmig?start=69" frameborder="0" allowfullscreen></iframe>			
 			<p>	
 				In Spring 2016, Marshall was proud to present an introduction to PER and his research
 				 at Town Hall theater in Seattle as part of the
@@ -82,7 +82,7 @@
 				 Marshall's presentation, &quot;Making physics more accessible&quot;, is available
 				 below. Have a watch! 
 			</p>
-			<div class="logosq" style="width:265px; height:265px; float:right; margin:5px;">
+			<div class="logosq" id="peg_logo">
 				<a href="http://depts.washington.edu/uwpeg/" target="_blank"><img src="images/PEG_wheel.png" class="logosq" style="width:265px; height:265px;" title="University of Washington Physics Education Group logo" alt="A circular logo for UW PEG, with research, instruction, and curriculum written around the edge, implying cyclic interaction."></a>
 			</div>
 			<p>
