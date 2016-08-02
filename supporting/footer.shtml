@@ -12,3 +12,4 @@
 	<p><!--#config timefmt="%D" -->Last updated <!--#echo var="LAST_MODIFIED" -->. Please send any questions, comments, or conversation to 
 	 <strong style="color:black;">mjstyczi<img title="(at)" src="images/at.gif" alt="(at)" class="at"/>uw.edu</strong>
 	</p>
+	<p><a href="pages/">Site map</a></p>
