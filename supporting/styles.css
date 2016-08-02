@@ -50,11 +50,11 @@ th {
 	height: 120px;
 	text-align: center;
 	
-	padding: 9px;
+	padding: 0px;
 	border: 10px solid transparent;
 	border-image-source: url("http://students.washington.edu/mjstyczi/images/porthole_border_Cu.png");
 	border-image-slice: 60;
-	border-image-width: 4;
+	border-image-width: 35px;
 	border-image-outset: 0;
 	border-image-repeat: round;
 	
@@ -238,11 +238,11 @@ th {
 	background-repeat: no-repeat;
 	background-position: center;
 	
-	padding: 9px;
+	padding: 5px;
 	border: 10px solid transparent;
 	border-image-source: url("http://students.washington.edu/mjstyczi/images/porthole_border_Cu.png");
 	border-image-slice: 60;
-	border-image-width: 4;
+	border-image-width: 35px;
 	border-image-outset: 0;
 	border-image-repeat: round;
 }
