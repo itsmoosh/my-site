@@ -88,7 +88,7 @@
 				<p>
 					Similarly, Marshall enjoys creating 3-dimensional simulations, themselves electronic artwork. Some examples of his work may
 					 be found in his <a href="http://www.glowscript.org/#/user/Mesons/folder/My_Programs/">program staging area on the GlowScript website</a>. A sample
-					 animation is below--click the image to toggle animation.
+					 animation is below--<span style="font-weight:bold;">click the image to toggle animation.</span>
 					 <noscript> (Opens a separate tab when JavaScript is disabled; refresh the page if the image does not show up immediately.)</noscript>
 				</p>
 				
@@ -112,17 +112,16 @@
 					When the opportunity arises, Marshall delights in playing video games, especially with friends. One of his top favorites is
 					 <a href="http://kerbalspaceprogram.com">Kerbal Space Program</a>. It's a particularly enjoyable game, where spacecraft are built
 					 from the ground up, one functional piece at a time (like LEGOs), then flown in a virtual solar system, all according to 
-					 well-modelled physics.
+					 well-modeled physics.
 				</p>
 				<p> 
 					The unique challenge represented in overcoming engineering hurdles in a true-to-form physical context
 					 affords the player a unique sense of accomplishment in completing in-game goals, such as landing on planets and moons. Below is an image from 
-					 Kerbal Space Program, wherein three Kerbals are commemorating having landed their rocket on the M&#252;n (the moon of planet Kerbin,
-					 home of the Kerbals and analogous to Earth).
+					 Kerbal Space Program, wherein three Kerbals are commemorating having landed on a moon of planet Jool, analogous to Jupiter.
 				</p>		
 				
-				<div class="portrait" style="width:558px; height:418px;">
-					<a href="images/kerbal.png"><img src="images/kerbal.png" class="portrait" style="width:558px; height:418px;" title="Kerbals Landed on the M&#252;n" alt="Three green aliens on a lunar surface, in Kerbal Space Program."></a>
+				<div class="portrait" style="width:748px; height:286px;">
+					<a href="images/kerbal.png"><img src="images/kerbal_Tylo_rove.png" class="portrait" style="width:748px; height:286px;" title="Kerbals roving around on Tylo, a moon of Jool." alt="Three green aliens on a cratered surface, in Kerbal Space Program."></a>
 				</div>	
 				
 				<h3>Outdoors</h3>

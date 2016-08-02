@@ -255,6 +255,13 @@ th {
 	text-align: center;
 }
 
+#peg_logo {
+	width: 265px;
+	height: 265px;
+	float: right;
+	margin: 5px;
+}
+
 .portrait {
 	clear: both;
 	margin-left: auto;
@@ -266,6 +273,13 @@ th {
 	border: 0px;
 }
 
+#town_hall {
+	width: 748px;
+	height: 421px;
+	clear: both;
+	text-align: center;
+}
+
 .warning {
 	clear: both;
 	margin-left: auto;
@@ -273,4 +287,13 @@ th {
 	text-align: center;
 	width: 300px;
 	height: 264px;
+}
+
+.wrapimg {
+	width: 457px;
+	height: 653px;
+	box-shadow: 8px 8px 4px #999999;
+	border: 0px;
+	float: right;
+	margin: 5px;
 }
