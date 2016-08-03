@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="supporting/styles.css">
 	<script src="supporting/scripts.js"></script>
 		
-	<meta name="description" content="Personal web page for Marshall Styczinski: this page under construction">
+	<meta name="description" content="Personal web page for Marshall Styczinski: resources">
 	<meta name="author" content="Marshall Styczinski">
 	<meta charset="UTF-8">
 	</head>
@@ -19,7 +19,7 @@
 	</div>
 
 	<div id="heading">
-		<div class="bannercontainer"><a href=""><div class="banner" style="background-image:url('banners/kerry.jpg');"> </div></a></div>
+		<div class="bannercontainer"><a href=""><div class="banner" style="background-image:url('banners/clew_bay_islands.jpg');"> </div></a></div>
 		
 		<h1>This page is under construction.</h1>
 		<hr style="max-width:1024px;">
@@ -54,7 +54,8 @@
 			</div>
 			<br>
 			<p>
-				This page is not yet ready to see the light of day. While you wait, please enjoy this 
+				This page is not yet ready to see the light of day. Eventually, it will contain a large list of resources
+				 that I have found very helpful for my personal, technical, and educational development. While you wait, please enjoy this 
 				 lovely gif from Kerbal Space Program, <a href="https://redd.it/1wccwy">thanks to Reddit user Jankygoatsmugla:</a>
 			</p>
 			<div class="portrait" style="width:320px; height:180px;">

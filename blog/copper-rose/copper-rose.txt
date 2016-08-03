@@ -1,0 +1,7 @@
+A copper rose
+
+crafts metalworking
+
+This is a placeholder for aid in coding my blog web page. This text will appear in the body, paragraphs will be separated by <span style="font-weight:bold;">2 line breaks,</span> and a title and tags will appear before the first paragraph of body text.
+
+This second paragraph will be filled with a witty and well-worded introduction to my involvement or opinions of the latest.
