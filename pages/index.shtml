@@ -38,7 +38,7 @@
 					<area shape="poly" coords="369,218,525,0,619,0,619,345,450,345" alt="Link to experience page" title="Go to experience page" href="pages/experience.shtml">
 					<area shape="poly" coords="450,345,619,345,619,691,525,691,369,472" alt="Link to helpful resources page" title="Go to helpful resources page" href="pages/helpful.shtml">
 					<area shape="poly" coords="369,472,525,691,95,691,251,472" alt="Link to personal page" title="Go to personal page" href="pages/personal.shtml">
-					<area shape="poly" coords="95,691,0,691,0,345,170,345,251,472" alt="Link to personal blog" title="Go to personal blog" href="pages.blog.shtml">
+					<area shape="poly" coords="95,691,0,691,0,345,170,345,251,472" alt="Link to personal blog" title="Go to personal blog" href="pages/blog.shtml">
 					<area shape="poly" coords="0,345,170,345,251,218,95,0,0,0" alt="Link to research page" title="Go to research page" href="pages/research.shtml">
 				</map>
 			</div>

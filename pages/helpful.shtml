@@ -60,7 +60,7 @@
 			</p>
 			<div class="portrait" style="width:320px; height:180px;">
 				<img src="http://i.imgur.com/ElQCDd8.gif" class="portrait" style="width:320px; height:180px;">
-			<div>
+			</div>
 			
 			<div class="footer">
 				<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
