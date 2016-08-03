@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en-us">
+
+	<head>
+	<title>Marshall Styczinski</title>
+	<base href="http://students.washington.edu/mjstyczi/">	
+	<link rel="shortcut icon" href="logos/vectoricon.ico">
+	<link rel="stylesheet" href="supporting/styles.css">
+	<script src="supporting/scripts.js"></script>
+	
+		
+	<meta name="description" content="Personal web page for Marshall Styczinski: site map">
+	<meta name="author" content="Marshall Styczinski">
+	<meta charset="UTF-8">
+	</head>
+
+	<body>
+	<div class="homelogo">
+		<a href=""><img src="logos/Vector.png" class="logosq" title="Marshall Styczinski home"></a>
+	</div>
+
+	<div id="heading">
+		<div class="bannercontainer"><a href=""><div class="banner" style="background-image:url('banners/clew_bay_open.jpg');"> </div></a></div>
+		
+		<h1>Site Map</h1>
+		<hr style="max-width:1024px;">
+	</div>
+	
+	<div class="overall">	
+		
+		<div id="maincontent" class="mapmain">
+			<h2>Visual</h2>			
+			<div class="middiv">
+				<img src="images/map.png" class="map" usemap="#sitemap" title="Site map" alt="Clickable visual site layout">
+				<map name="sitemap">
+					<area shape="circle" coords="251,285,135"  href="">
+					<area shape="rect" coords="0,0,254,291" href="pages/teaching.shtml">					
+					<area shape="rect" coords="0,291,254,582" href="pages/research.shtml">
+					<area shape="rect" coords="254,0,509,291" href="pages/experience.shtml">
+					<area shape="rect" coords="254,291,509,582" href="pages/personal.shtml">
+				</map>
+			</div>
+			<br>
+			<hr style="max-width:1024px;">
+			<h2>Textual</h2>
+			<div class="middiv" style="width:509px;">
+			<ul class="navlist">
+				<li><a class="mapnavlink" href="">Home</a>
+				<ul class="navlist">
+					<li><a class="mapnavlink" href="pages/teaching.shtml">Teaching</a></li>
+					<li><a class="mapnavlink" href="pages/research.shtml">Research</a></li>
+					<li><a class="mapnavlink" href="pages/experience.shtml">Experience</a></li>
+					<li><a class="mapnavlink" href="pages/personal.shtml">Personal</a></li>
+					<li><a class="mapnavlink" href="pages/helpful.shtml">Resources</a></li>
+					<li><a class="mapnavlink" href="pages/blog.shtml">Blog</a></li>
+				</ul></li>
+			</ul>
+			<br>
+			<ul class="navlist">
+				<li>External Links (included due to affiliation)
+				<ul class="navlist">				
+					<li><a class="mapnavlink" href="http://www.washington.edu/">University of Washington (UW) main site</a></li>					
+					<li><a class="mapnavlink" href="http://depts.washington.edu/uwpeg/">UW Physics Education Group (PEG) site</a></li>
+					<li><a class="mapnavlink" href="http://depts.washington.edu/astrobio/">UW Astrobiology website</a></li>
+					<li><a class="mapnavlink" href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW web hosting information</a></li>
+					<li><a class="mapnavlink" href="http://www.nsf.gov/">National Science Foundation website</a></li>
+				</ul></li>
+			</ul>
+			</div>
+		</div>
+		<hr style="max-width:1024px;">
+		
+		<div class="footer">
+			<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
+		</div>
+		
+	</div>
+	</body>
+</html>
