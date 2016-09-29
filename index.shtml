@@ -82,7 +82,7 @@
 		<hr style="max-width:1024px;">
 	</div>
 	<div class="footer">
-		<!-- include virtual="/mjstyczi/supporting/footer.shtml" -->
+		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>
