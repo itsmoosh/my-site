@@ -62,10 +62,12 @@
 				<img src="http://i.imgur.com/ElQCDd8.gif" class="portrait" style="width:320px; height:180px;">
 			</div>
 			
-			<div class="footer">
-				<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
-			</div>
 		</div>
+		
+		<hr style="max-width:1024px;">
+	</div>
+	<div class="footer">
+				<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>
