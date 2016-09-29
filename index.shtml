@@ -62,7 +62,7 @@
 				For a terse introduction, please see his <a href="documents/Styczinski_CV.pdf">Curriculum Vitae.</a>
 			</p>
 			<div class="portrait" style="width:534px; height:653px;">
-				<a href="images/business.jpg"><img src="images/business.jpg" style="width:534px; height:653px;" class="portrait" title="The author" alt="A portrait of Marshall Styczinski"></a>
+				<a href="images/galaxy_portrait.jpg"><img src="images/galaxy_portrait.jpg" style="width:534px; height:653px;" class="portrait" title="The author" alt="A portrait of Marshall Styczinski"></a>
 			</div>
 			<p>
 				If you are a UW student, staff, or faculty member with an active NetID and you'd like your own web page, visit
@@ -82,7 +82,7 @@
 		<hr style="max-width:1024px;">
 	</div>
 	<div class="footer">
-		<!-- include virtual="/mjstyczi/supporting/footer.shtml" -->
+		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>
