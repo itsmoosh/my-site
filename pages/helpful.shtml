@@ -21,7 +21,7 @@
 	<div id="heading">
 		<div class="bannercontainer"><a href=""><div class="banner" style="background-image:url('banners/clew_bay_islands.jpg');"> </div></a></div>
 		
-		<h1>This page is under construction.</h1>
+		<h1>Helpful Resources</h1>
 		<hr style="max-width:1024px;">
 	</div>
 	
@@ -61,11 +61,35 @@
 			<div class="portrait" style="width:320px; height:180px;">
 				<img src="http://i.imgur.com/ElQCDd8.gif" class="portrait" style="width:320px; height:180px;">
 			</div>
+			<div id="w3schools" class="resdiv"><a href="http://www.w3schools.com/">
+				<img class="resimg" src="logos/w3schools.png">
+				<p class="resource">
+					<strong>W3Schools</strong> is a fantastic website filled to the brim with simple, easy-to-follow, well-organized tutorials 
+					 in everything pertaining to web-based coding. You can bet that if you Google &quot;how do I _______ in 
+					 HTML/PHP/jQuery/CSS?&quot;, W3Schools will be among the top hits. If you want to get started in any web-based
+					 language, W3Schools is a great place to look. Their website makes a respectable reference for intermediate
+					 coders, too.
+				</p>				
+			</a></div>
 			
-			<div class="footer">
-				<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
+			
+			<div id="usability">
+				<a href="https://www.usability.gov/sites/default/files/documents/guidelines_book.pdf"><img class="resimg" src="logos/HHS_seal.png"></a>
+				<p class="resource">
+					<strong>The usability.gov research-based web design and UI guide</strong> has made a strong impact on
+					 the way I have planned this website and affected the way I handle other websites I'm involved in. Though
+					 I won't profess to have read the entire document (not even close), a treasure trove of insight awaits
+					 you inside. The recommendations all come from research and are geared at making your website easier to use
+					 and more accessible for those with impairments.
+				</p>
 			</div>
+			
 		</div>
+		
+		<hr style="max-width:1024px;">
+	</div>
+	<div class="footer">
+		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>

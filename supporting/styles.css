@@ -273,6 +273,22 @@ th {
 	border: 0px;
 }
 
+.resource {
+	margin-left: 100px;
+}
+
+.resdiv {
+	border: 1px;
+	border-radius: 15px;
+	margin: 5px;
+}
+
+.resimg {
+	float: left;
+	margin: 5px;
+	width: 95px;
+}
+
 #town_hall {
 	width: 748px;
 	height: 421px;
