@@ -172,7 +172,7 @@
 				Please note: The following excerpts are transcribed <em>verbatim</em> from anonymous end-of-quarter course evaluations.
 			</p>
 			<div id="testimonial">
-				<table style="width:100%;">
+				<table style="border-collapse: collapse;">
 					<tr>
 						<th id="evalQhdr">Evaluation question:</th>						
 						<td id="evalQ"></td>
