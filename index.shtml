@@ -72,8 +72,8 @@
 		</div>
 		
 		<hr style="max-width:1024px;">
-		<script>logosPane();</script>
 		<div id="logospane" class="logospane-yel">
+			<script>logosPane();</script>
 			<a href="pages/"><img title="Marshall Styczinski Site Map" src="logos/Vector.png" alt="Marshall Styczinski logo" class="logosq"></a>
 			<a href="http://www.washington.edu/"><img title="UW main site" src="logos/UW_Seal.png" alt="University of Washington seal" class="logosq"></a>
 			<a href="http://depts.washington.edu/uwpeg/"><img title="UW PEG site" src="logos/PEG_wheel.png" alt="UW Physics Education Group logo" class="logosq"></a>
