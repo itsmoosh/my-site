@@ -319,13 +319,22 @@ th {
 
 .resource {
 	border: none;
-	background-color: #DEBDEF;
+	background-color: #F4F1FF;
 	vertical-align: middle;
+	text-decoration:none;
 }
 
 .resdiv {
-	width: 100%;
-	border-radius: 15px;
+	width: 95%;
+	background-color: #F4F1FF;
+	padding: 10px;
+	
+	border: 10px solid transparent;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
+	border-image-slice: 60;
+	border-image-width: 4;
+	border-image-outset: 0;
+	border-image-repeat: round;
 }
 
 .resimg {
@@ -333,6 +342,11 @@ th {
 	max-width: 95px;
 	width: auto;
 	height: auto;
+}
+
+.reslink {
+	text-decoration: none;
+	color: black;
 }
 
 #town_hall {
