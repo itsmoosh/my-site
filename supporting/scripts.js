@@ -32,24 +32,23 @@ function toggleAnim(running) {
 
 function logosPane() {
 	var colorNum = Math.floor(Math.random()*3);	// choose an integer index in the range [0, 3) (3 colors created)
-	var paneHTML = '';
 	
 	switch(colorNum){	// chooses which color to set colored elements to
 		case 0:
-			document.getElementById('logospane').className = "logospane-blu"	// sets panel background to match images
-			document.getElementById('uwab-logo').src = "logos/UW-AB_blu.png"	// rewrites colored-BG image to match
+			document.getElementById('logospane').className = "logospane-blu";	// sets panel background to match images
+			document.getElementById('uwab-logo').src = "logos/UW-AB_blu.png";	// rewrites colored-BG image to match
 			break;
 		case 1:
-			document.getElementById('logospane').className = "logospane-grn"
-			document.getElementById('uwab-logo').src = "logos/UW-AB_grn.png"
+			document.getElementById('logospane').className = "logospane-grn";
+			document.getElementById('uwab-logo').src = "logos/UW-AB_grn.png";
 			break;
 		case 2:
-			document.getElementById('logospane').className = "logospane-yel"
-			document.getElementById('uwab-logo').src = "logos/UW-AB_yel.png"
+			document.getElementById('logospane').className = "logospane-yel";
+			document.getElementById('uwab-logo').src = "logos/UW-AB_yel.png";
 			break;
 		default:
-			document.getElementById('logospane').className = "logospane-yel"
-			document.getElementById('uwab-logo').src = "logos/UW-AB_yel.png"
+			document.getElementById('logospane').className = "logospane-yel";
+			document.getElementById('uwab-logo').src = "logos/UW-AB_yel.png";
 			break;
 	}
 };

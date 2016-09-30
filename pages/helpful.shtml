@@ -61,16 +61,35 @@
 			<div class="portrait" style="width:320px; height:180px;">
 				<img src="http://i.imgur.com/ElQCDd8.gif" class="portrait" style="width:320px; height:180px;">
 			</div>
-			<div id="w3schools" class="resdiv"><a href="http://www.w3schools.com/">
-				<img class="resimg" src="logos/w3schools.png">
-				<p class="resource">
-					<strong>W3Schools</strong> is a fantastic website filled to the brim with simple, easy-to-follow, well-organized tutorials 
-					 in everything pertaining to web-based coding. You can bet that if you Google &quot;how do I _______ in 
-					 HTML/PHP/jQuery/CSS?&quot;, W3Schools will be among the top hits. If you want to get started in any web-based
-					 language, W3Schools is a great place to look. Their website makes a respectable reference for intermediate
-					 coders, too.
-				</p>				
-			</a></div>
+			
+			<!--#include virtual="/mjstyczi/supporting/logospane.shtml" -->			
+			<p>
+				The icons in this pane link to the home page of this site, the primary University of Washington (UW) site,
+				 the UW Physics Education Group site, the UW Astrobiology site, and the primary National Science Foundation
+				 site. I use most of these very frequently for checking policies, finding files and guide pages, and other
+				 looking-stuff-up sorts of activities.
+			</p>
+			
+			<a href="http://www.w3schools.com/">
+				<div id="w3schools" class="resdiv">
+					<table style="width:100%;">
+					<tr>
+						<td class="resimg">
+							<img class="resimg" src="logos/w3schools.png">
+						</td>						
+						<td class="resource">
+							<p class="resource">
+								<strong>W3Schools</strong> is a fantastic website filled to the brim with simple, easy-to-follow, well-organized tutorials 
+								 in everything pertaining to web-based coding. You can bet that if you Google &quot;how do I _______ in 
+								 HTML/PHP/jQuery/CSS?&quot;, W3Schools will be among the top hits. If you want to get started in any web-based
+								 language, W3Schools is a great place to look. Their website makes a respectable reference for intermediate
+								 coders, too.
+							</p>
+						</td>
+					</tr>
+					</table>
+				</div>
+			</a>
 			
 			
 			<div id="usability">
