@@ -327,6 +327,7 @@ th {
 	width: 95%;
 	background-color: #F4F1FF;
 	padding: 10px;
+	margin-bottom: 30px;
 	
 	border: 10px solid transparent;
 	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
