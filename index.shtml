@@ -72,10 +72,7 @@
 		</div>
 		
 		<hr style="max-width:1024px;">
-		<div id="logospane" class="logospane-yel">
-			<!--#include virtual="/mjstyczi/supporting/logospane.shtml" -->
-		</div>
-		<script>window.onLoad = logosPane();</script>
+		<!--#include virtual="/mjstyczi/supporting/logospane.shtml" -->
 		<hr style="max-width:1024px;">
 		
 	</div>
