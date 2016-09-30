@@ -36,20 +36,20 @@ function logosPane() {
 	
 	switch(colorNum){	// chooses which color's SHTML file will be inserted
 		case 0:
-			paneHTML = '<!--#include virtual="/mjstyczi/supporting/logospane-blu.shtml" -->';	// rewrites icons for new color selection
 			document.getElementById('logospane').className = "logospane-blu"	// sets panel background to match images
+			document.getElementById('uwab-logo').src = "logos/UW-AB_blu.png"	// rewrites colored-BG image to match
 			break;
 		case 1:
-			paneHTML = '<!--#include virtual="/mjstyczi/supporting/logospane-grn.shtml" -->';
 			document.getElementById('logospane').className = "logospane-grn"
+			document.getElementById('uwab-logo').src = "logos/UW-AB_grn.png"
 			break;
 		case 2:
-			paneHTML = '<!--#include virtual="/mjstyczi/supporting/logospane-yel.shtml" -->';
 			document.getElementById('logospane').className = "logospane-yel"
+			document.getElementById('uwab-logo').src = "logos/UW-AB_yel.png"
 			break;
 		default:
-			paneHTML = '<!--#include virtual="/mjstyczi/supporting/logospane-yel.shtml" -->';
 			document.getElementById('logospane').className = "logospane-yel"
+			document.getElementById('uwab-logo').src = "logos/UW-AB_yel.png"
 			break;
 	}
 	
