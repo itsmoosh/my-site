@@ -34,7 +34,7 @@ function logosPane() {
 	var colorNum = Math.floor(Math.random()*3);	// choose an integer index in the range [0, 3) (3 colors created)
 	var paneHTML = '';
 	
-	switch(colorNum){	// chooses which color's SHTML file will be inserted
+	switch(colorNum){	// chooses which color to set colored elements to
 		case 0:
 			document.getElementById('logospane').className = "logospane-blu"	// sets panel background to match images
 			document.getElementById('uwab-logo').src = "logos/UW-AB_blu.png"	// rewrites colored-BG image to match
@@ -52,6 +52,4 @@ function logosPane() {
 			document.getElementById('uwab-logo').src = "logos/UW-AB_yel.png"
 			break;
 	}
-	
-	document.getElementById('logospane').innerHTML = paneHTML;	// inserts selected SHTML file into the page
 };
