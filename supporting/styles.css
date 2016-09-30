@@ -135,7 +135,51 @@ th {
 	margin-right: auto;
 }
 
-.logospane {
+.logospane-blu {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	vertical-align: middle;
+	white-space: nowrap;	
+	
+	background-color: #a8d7fe;
+	width: 695px;
+	height: 120px;
+	
+	padding: 10px;
+	border: 10px solid transparent;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_blu.png");
+	border-image-slice: 60;
+	border-image-width: 4;
+	border-image-outset: 0;
+	border-image-repeat: round;
+}
+
+.logospane-grn {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	vertical-align: middle;
+	white-space: nowrap;	
+	
+	background-color: #7fd3a1;
+	width: 695px;
+	height: 120px;
+	
+	padding: 10px;
+	border: 10px solid transparent;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_grn.png");
+	border-image-slice: 60;
+	border-image-width: 4;
+	border-image-outset: 0;
+	border-image-repeat: round;
+}
+
+.logospane-yel {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
@@ -150,7 +194,7 @@ th {
 	
 	padding: 10px;
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border.png");
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_yel.png");
 	border-image-slice: 60;
 	border-image-width: 4;
 	border-image-outset: 0;
