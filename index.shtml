@@ -80,7 +80,7 @@
 			<a href="http://www.nsf.gov/"><img title="NSF home" src="logos/NSF.png" alt="National Science Foundation logo" class="logosq"></a>	
 		</div>
 		
-		<script>logospane();</script>
+		<script>logosPane();</script>
 
 		<hr style="max-width:1024px;">
 	</div>
