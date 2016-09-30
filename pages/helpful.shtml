@@ -71,14 +71,14 @@
 			</p>
 			
 			<a href="http://www.w3schools.com/">
-				<div id="w3schools" class="resdiv">
-					<table style="width:100%;">
+				<div id="w3schools">
+					<table class="resdiv">
 					<tr>
-						<td class="resimg">
+						<td class="resource">
 							<img class="resimg" src="logos/w3schools.png">
 						</td>						
 						<td class="resource">
-							<p class="resource">
+							<p>
 								<strong>W3Schools</strong> is a fantastic website filled to the brim with simple, easy-to-follow, well-organized tutorials 
 								 in everything pertaining to web-based coding. You can bet that if you Google &quot;how do I _______ in 
 								 HTML/PHP/jQuery/CSS?&quot;, W3Schools will be among the top hits. If you want to get started in any web-based
