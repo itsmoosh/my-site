@@ -318,21 +318,21 @@ th {
 }
 
 .resource {
-	padding: 5px;
+	border: none;
+	background-color: #DEBDEF;
+	vertical-align: middle;
 }
 
 .resdiv {
 	width: 100%;
-	border: 1px solid black;
 	border-radius: 15px;
-	padding: 5px;
-	margin: 5px;
 }
 
 .resimg {
-	float: left;
-	padding: 5px;
-	width: 95px;
+	display: block;
+	max-width: 95px;
+	width: auto;
+	height: auto;
 }
 
 #town_hall {
