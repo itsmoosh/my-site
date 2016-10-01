@@ -80,13 +80,7 @@
 			
 			<!--#include virtual="/mjstyczi/supporting/resources/mathformat.shtml" -->
 			
-			<div id="latex" class="columns">
-				<!--#include virtual="/mjstyczi/supporting/doc-template.shtml" -->
-				
-				<!--#include virtual="/mjstyczi/supporting/beamer-template.shtml" -->
-				
-				<!--#include virtual="/mjstyczi/supporting/getlatex.shtml" -->
-			</div>
+			<!--#include virtual="/mjstyczi/supporting/resources/latex.shtml" -->
 			
 		</div>
 		
