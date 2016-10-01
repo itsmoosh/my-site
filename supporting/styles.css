@@ -71,6 +71,11 @@ th {
 	margin-right: auto;
 }
 
+.columns {
+	max-width: 95%;
+	white-space: nowrap;
+}
+
 #evalQ {
 	height: 2.3em;
 }
@@ -347,6 +352,11 @@ th {
 .reslink {
 	text-decoration: none;
 	color: black;
+}
+
+.third-col {
+	width: 304px;
+	margin-right: 30px;
 }
 
 #town_hall {

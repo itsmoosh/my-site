@@ -1,0 +1,20 @@
+<a href="http://htmledit.squarefree.com/" class="reslink">
+	<div id="htmledit">
+		<table class="resdiv">
+		<tr>
+			<td class="resource">
+				<img class="resimg" title="no logo" alt="glowing question mark" src="logos/question.png">
+			</td>						
+			<td class="resource">
+				<p>
+					<strong>This instant HTML editor</strong> was incredibly helpful for me getting started writing HTML. I still
+					 find it very useful when I want to test out a new idea, because I can make small tweaks and immediately see
+					 exactly how it will look on a web page. At the bottom of the page, Jesse Ruderman is listed as the author.
+					 He has a blog at www.squarefree.com called &quot;Indistinguishable from Jesse&quot; where he posts about
+					 online security, bug testing, and development of the Firefox browser.			 
+				</p>
+			</td>
+		</tr>
+		</table>
+	</div>
+</a>

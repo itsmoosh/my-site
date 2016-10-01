@@ -1,0 +1,20 @@
+<a href="http://www.tug.org/TUGboat/Articles/tb18-1/tb54becc.pdf" class="reslink">
+	<div id="mathformat">
+		<table class="resdiv">
+		<tr>
+			<td class="resource">
+				<img class="resimg" title="TUG logo" alt="logo for Tex Users Group" src="logos/tug.png">
+			</td>						
+			<td class="resource">
+				<p>
+					<strong>This document from the TeX Users Group (TUG)</strong> details formatting conventions
+					 for the finer details of numbers and expressions in scientific writing. It's a bit long-winded,
+					 but that's because it tries to give some background for how the conventions were agreed on
+					 for this type of writing. Standards are created for a reason, and I've found this document
+					 helpful for guiding style choices in formatting equations and numbers.
+				</p>
+			</td>
+		</tr>
+		</table>
+	</div>
+</a>
