@@ -80,9 +80,17 @@ th {
 	vertical-align: middle;
 }
 
+.col-third-mid {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
 .columns {
-	max-width: 750px;
+	max-width: 770px;
 	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
 }
 
 #evalQ {
@@ -360,6 +368,8 @@ th {
 	padding: 10px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
 	
 	border: 10px solid transparent;
 	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
