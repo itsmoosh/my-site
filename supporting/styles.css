@@ -346,6 +346,7 @@ th {
 	background-color: #F4F1FF;
 	padding: 10px;
 	margin-bottom: 30px;
+	clear: none;
 	
 	border: 10px solid transparent;
 	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
@@ -362,6 +363,7 @@ th {
 	margin-bottom: 30px;
 	display: inline-block;
 	text-align: center;
+	table-layout:fixed;
 	
 	border: 10px solid transparent;
 	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
