@@ -70,6 +70,10 @@
 			
 			<!--#include virtual="/mjstyczi/supporting/resources/latex.shtml" -->
 			
+			<!--#include virtual="/mjstyczi/supporting/resources/stackexchange.shtml" -->
+			
+			<!--#include virtual="/mjstyczi/supporting/resources/chasteen.shtml" -->
+			
 		</div>
 		
 		<hr style="max-width:1024px;">
