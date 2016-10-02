@@ -72,9 +72,10 @@ th {
 }
 
 .col-third {
-	width: 230px;
+	width: 239px;
 	height: 100%;
-	margin-right: 30px;
+	margin-right: auto;
+	margin-left: auto;
 	display: inline-block;
 	vertical-align: middle;
 }
@@ -346,7 +347,6 @@ th {
 	padding-bottom: 5px;
 	padding-left: 15px;
 	padding-right: 15px;
-	margin-bottom: 30px;	
 	
 	border: none;
 	background-color: #F4F1FF;
@@ -358,7 +358,6 @@ th {
 	width: 750px;
 	background-color: #F4F1FF;
 	padding: 10px;
-	margin-bottom: 30px;
 	margin-left: auto;
 	margin-right: auto;
 	
@@ -371,12 +370,12 @@ th {
 }
 
 .resdiv-col {
-	width: 230px;
 	background-color: #F4F1FF;
 	padding: 10px;
 	display: inline-block;
 	text-align: center;
 	table-layout:fixed;
+	width: auto;
 	
 	border: 10px solid transparent;
 	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
