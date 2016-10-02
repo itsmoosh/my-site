@@ -1,11 +1,10 @@
 <a href="http://www.w3schools.com/" class="reslink">
 	<div id="w3schools">
-		<table class="resdiv">
-		<tr>
-			<td class="resource">
+		<div class="resdiv">
+			<div class="resource">
 				<img class="resimg" title="W3Schools logo" alt="logo for W3Schools" src="logos/w3schools.png">
-			</td>						
-			<td class="resource">
+			</div>						
+			<div class="resource">
 				<p>
 					<strong>W3Schools</strong> is a fantastic website filled to the brim with simple, easy-to-follow, well-organized tutorials 
 					 in everything pertaining to web-based coding. You can bet that if you Google &quot;how do I _______ in 
@@ -13,8 +12,7 @@
 					 language, W3Schools is a great place to look. Their website makes a respectable reference for intermediate
 					 coders, too.
 				</p>
-			</td>
-		</tr>
-		</table>
+			</div>
+		</div>
 	</div>
 </a>
