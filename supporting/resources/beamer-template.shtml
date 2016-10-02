@@ -1,19 +1,15 @@
 <a href="documents/latex_beamer_template.tex" class="reslink" download>
 	<div id="beamer-template" class="col-third">
-		<table class="resdiv-col">
-		<tr>
-			<td class="resource-col">
+		<div class="resdiv-col">
+			<div class="resource-col">
 				<img class="resimg" title="Latex beamer template zip file" alt="zip file icon for Latex beamer template" src="logos/zip.png">
-			</td>
-		</tr>
-		<tr>					
-			<td class="resource-col">
+			</div>				
+			<div class="resource-col">
 				<p>
 					<strong>A presentation template</strong> I created is how I start writing presentation slides.
 					 Click to download a zip file, then compile beamer_template.tex to create a presentation.
 				</p>
-			</td>
-		</tr>
-		</table>
+			</div>
+		</div>
 	</div>
 </a>
