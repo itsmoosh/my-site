@@ -343,7 +343,6 @@ th {
 	padding-bottom: 5px;
 	padding-left: 15px;
 	padding-right: 15px;
-	display: inline-block;
 	
 	border: none;
 	background-color: #F4F1FF;
@@ -397,7 +396,7 @@ th {
 }
 
 .resimg {
-	display: inline-block;
+	display: block;
 	max-width: 95px;
 	width: auto;
 	height: auto;
