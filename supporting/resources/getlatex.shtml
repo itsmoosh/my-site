@@ -1,13 +1,13 @@
 <a href="https://www.latex-project.org/get/" class="reslink">
-	<div id="getlatex" class="third-col">
-		<table class="resdiv">
+	<div id="getlatex" class="col-third">
+		<table class="resdiv-col">
 		<tr>
-			<td class="resource">
+			<td class="resource-col">
 				<img class="resimg" title="The Latex project logo" alt="logo for The Latex Project" src="logos/latex.png">
 			</td>
 		</tr>
 		<tr>					
-			<td class="resource">
+			<td class="resource-col">
 				<p>
 					<strong>Get started with Latex</strong> by following the directions for your operating system at this link to
 					 The Latex Project website.

@@ -71,9 +71,15 @@ th {
 	margin-right: auto;
 }
 
+.col-third {
+	width: 304px;
+	margin-right: 30px;
+}
+
 .columns {
-	max-width: 95%;
+	max-width: 973px;
 	white-space: nowrap;
+	text-align: center;
 }
 
 #evalQ {
@@ -325,11 +331,32 @@ th {
 	border: none;
 	background-color: #F4F1FF;
 	vertical-align: middle;
-	text-decoration:none;
+	text-decoration: none;
+}
+
+.resource-col {
+	border: none;
+	background-color: #F4F1FF;
+	text-decoration: none;
 }
 
 .resdiv {
-	width: 95%;
+	width: 304px;
+	background-color: #F4F1FF;
+	padding: 10px;
+	margin-bottom: 30px;
+	display: inline-block;
+	
+	border: 10px solid transparent;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
+	border-image-slice: 60;
+	border-image-width: 4;
+	border-image-outset: 0;
+	border-image-repeat: round;
+}
+
+.resdiv-col {
+	width: 973px;
 	background-color: #F4F1FF;
 	padding: 10px;
 	margin-bottom: 30px;
@@ -352,11 +379,6 @@ th {
 .reslink {
 	text-decoration: none;
 	color: black;
-}
-
-.third-col {
-	width: 304px;
-	margin-right: 30px;
 }
 
 #town_hall {

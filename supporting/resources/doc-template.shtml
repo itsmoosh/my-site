@@ -1,13 +1,13 @@
 <a href="documents/latex_doc_template.tex" class="reslink" download>
-	<div id="doc-template" class="third-col">
-		<table class="resdiv">
+	<div id="doc-template" class="col-third">
+		<table class="resdiv-col">
 		<tr>
-			<td class="resource">
+			<td class="resource-col">
 				<img class="resimg" title="Latex document template download" alt="Text document icon for Latex document template" src="logos/tex.png">
 			</td>
 		</tr>
 		<tr>					
-			<td class="resource">
+			<td class="resource-col">
 				<p>
 					<strong>This handy template</strong> is how I get started writing a new Latex document quickly.
 					 Feel free to adapt it to your own use!
