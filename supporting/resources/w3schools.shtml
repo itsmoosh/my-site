@@ -4,9 +4,7 @@
 		<tr>
 			<td class="resource">
 				<img class="resimg" title="W3Schools logo" alt="logo for W3Schools" src="logos/w3schools.png">
-			</td>
-		</tr>
-		<tr>						
+			</td>						
 			<td class="resource">
 				<p>
 					<strong>W3Schools</strong> is a fantastic website filled to the brim with simple, easy-to-follow, well-organized tutorials 
