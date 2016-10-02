@@ -72,12 +72,15 @@ th {
 }
 
 .col-third {
-	width: 243px;
+	width: 230px;
+	height: 100%;
 	margin-right: 30px;
+	display: inline-block;
+	vertical-align: middle;
 }
 
 .columns {
-	max-width: 757px;
+	max-width: 750px;
 	text-align: center;
 }
 
@@ -342,7 +345,8 @@ th {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-left: 15px;
-	padding-right: 15px;	
+	padding-right: 15px;
+	margin-bottom: 30px;	
 	
 	border: none;
 	background-color: #F4F1FF;
@@ -351,7 +355,7 @@ th {
 }
 
 .resdiv {
-	width: 747px;
+	width: 750px;
 	background-color: #F4F1FF;
 	padding: 10px;
 	margin-bottom: 30px;
@@ -367,10 +371,9 @@ th {
 }
 
 .resdiv-col {
-	width: 243px;
+	width: 230px;
 	background-color: #F4F1FF;
 	padding: 10px;
-	margin-bottom: 30px;
 	display: inline-block;
 	text-align: center;
 	table-layout:fixed;
