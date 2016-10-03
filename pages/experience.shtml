@@ -26,27 +26,8 @@
 	</div>
 	
 	<div class="overall">	
-		<div class="navpane">
-			<h3 class="navlabel">Navigation</h3>
-			<ul class="navlist">
-				<li><a class="navlink" href="">Home</a></li>
-				<li><a class="navlink" href="pages/teaching.shtml">Teaching</a></li>
-				<li><a class="navlink" href="pages/research.shtml">Research</a></li>
-				<li class="navcurrent">Experience</li>
-				<li><a class="navlink" href="pages/personal.shtml">Personal</a></li>
-			</ul>
-			
-			<h4 class="navlabel">External</h4>
-			<span class="extlinks">
-				<ul class="navlist">				
-					<li><a class="navlink" href="http://depts.washington.edu/uwpeg/">UW PEG</a></li>
-					<li><a class="navlink" href="http://depts.washington.edu/astrobio/">UW Astrobiology</a></li>
-					<li><a class="navlink" href="http://www.washington.edu/">UW home</a></li>
-					<li><a class="navlink" href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW web hosting</a></li>
-					<li><a class="navlink" href="http://www.nsf.gov/">NSF home</a></li>
-				</ul>
-			</span>
-		</div>		
+		
+		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->		
 			
 		<div id="maincontent" class="main">
 
