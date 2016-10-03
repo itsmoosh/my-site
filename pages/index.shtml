@@ -51,9 +51,9 @@
 				<ul class="navlist">
 					<li><a class="mapnavlink" href="pages/teaching.shtml">Teaching</a></li>
 					<li><a class="mapnavlink" href="pages/research.shtml">Research</a></li>
-					<li><a class="mapnavlink" href="pages/experience.shtml">Experience</a></li>
-					<li><a class="mapnavlink" href="pages/personal.shtml">Personal</a></li>
+					<li><a class="mapnavlink" href="pages/experience.shtml">Experience</a></li>					
 					<li><a class="mapnavlink" href="pages/helpful.shtml">Resources</a></li>
+					<li><a class="mapnavlink" href="pages/personal.shtml">Personal</a></li>
 					<li><a class="mapnavlink" href="pages/blog.shtml">Blog</a></li>
 				</ul></li>
 			</ul>
