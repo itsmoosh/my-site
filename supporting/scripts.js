@@ -52,3 +52,16 @@ function logosPane() {
 			break;
 	}
 };
+
+function selfnav() {
+	var pageurl = window.location.pathname;	// gets current page URL
+	var pagefile = pageurl.split('/').pop();	// takes the string consisting of everything after the final / character from current URL
+	var selfname = pagefile.split('.').shift();	// takes everything in the page's filename that precedes the extension (typically .shtml)
+	
+	if(selfname === '' || selfname === 'index'){	// checks for if the current page is the home page
+		selfname = "home";
+	}
+	
+	document.getElementById(selfname).className = "navcurrent";	// sets class of current page's link to be highlighted
+	document.getElementById(selfname).innerHTML = selfname;	// removes a tag from current page entry in nav list
+};

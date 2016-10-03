@@ -263,6 +263,7 @@ th {
 	list-style-type: disc;
 	color: #009900;
 	font-weight: bold;
+	text-transform: capitalize;
 }
 
 .navlabel {
