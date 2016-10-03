@@ -312,6 +312,18 @@ th {
 	border-image-repeat: round;
 }
 
+.navpane6 {
+	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_6link.jpg");
+}
+
+.navpane7 {
+	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_7link.jpg");
+}
+
+.navpane8 {
+	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_8link.jpg");
+}
+
 .overall {
 	position: relative;
 	max-width: 1024px;
