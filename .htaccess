@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^marshall-styczinski$ / [R=301,L]
+RewriteRule ^marshall-styczinski$ /mjstyczi/ [R=301,L]
