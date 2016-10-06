@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^marshall-styczinski$ / [R=301,L]
