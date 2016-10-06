@@ -6,9 +6,7 @@
 	<title>Marshall Styczinski</title>
 	<base href="http://students.washington.edu/mjstyczi/">	
 	<link rel="shortcut icon" href="logos/vectoricon.ico">
-	
-	<link rel="preload" href="supporting/styles.css" as="style" onload="this.rel='stylesheet'">
-	<noscript><link rel="stylesheet" href="supporting/styles.css"></noscript>
+	<link rel="stylesheet" href="supporting/styles.css">
 	<script src="supporting/scripts.js" async></script>
 		
 	<meta name="description" content="Personal web page for Marshall Styczinski">
