@@ -58,7 +58,7 @@ function selfnav() {
 	var pagefile = pageurl.split('/').pop();	// takes the string consisting of everything after the final / character from current URL
 	var selfname = pagefile.split('.').shift();	// takes everything in the page's filename that precedes the extension (typically .shtml)
 	
-	if(selfname === '' || selfname === 'index'){	// checks for if the current page is the home page
+	if( selfname === null || (selfname === '' || selfname === 'index') ){	// checks for if the current page is the home page
 		selfname = "home";
 	}
 	
