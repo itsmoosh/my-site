@@ -13,12 +13,18 @@
 		<meta charset="UTF-8"/>
 	</head>
 	<body style="width:1024px;">
-	<h2>Site map</h2>
+	<h1>Site map</h1>
 
-		<xsl:for-each select="url">
+		<xsl:for-each select="urlset/url">
 			<table style="padding:15px; margin-bottom:20px; width:95%;">
 				<tr>
-					<td style="padding:15px; background-color:#DDDDDD; width:300px;"><xsl:value-of select="loc"/></td>
+					<td style="padding:15px; background-color:#D5D5D5; width:300px;"><xsl:value-of select="loc"/></td>
+				</tr>
+				<tr>
+					<td style="padding:15px 15px 15px 25px; background-color:#EEEEEE; width:300px;">
+						Changes approximately: <xsl:value-of select="changefreq"/><br/>						
+						Relative importance: <xsl:value-of select="priority"/> out of 1.0
+					</td>
 				</tr>
 			</table>
 		</xsl:for-each>
