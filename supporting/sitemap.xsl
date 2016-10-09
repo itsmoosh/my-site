@@ -16,9 +16,11 @@
 	<h1>Site map</h1>
 
 		<xsl:for-each select="urlset/url">
-			<table style="padding:15px; margin-bottom:20px; width:95%;">
+			<table style="padding:15px; margin-bottom:20px;">
 				<tr>
-					<td style="padding:15px; background-color:#D5D5D5; width:300px;"><xsl:value-of select="loc"/></td>
+					<td style="padding:15px; background-color:#D5D5D5; width:300px;">
+						URL: <a href='<xsl:value-of select="loc"/>'><xsl:value-of select="loc"/></a>
+					</td>
 				</tr>
 				<tr>
 					<td style="padding:15px 15px 15px 25px; background-color:#EEEEEE; width:300px;">
