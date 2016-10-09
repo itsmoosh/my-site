@@ -9,8 +9,7 @@
 	<!ELEMENT priority (#PCDATA)>
 ]>
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<urlset>
 	<url>
 		<loc>http://students.washington.edu/mjstyczi/</loc>
 		<changefreq>monthly</changefreq>
@@ -58,5 +57,4 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
-
 </urlset>
