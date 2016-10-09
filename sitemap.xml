@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="supporting/sitemap.xsl"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+		<loc>http://courses.washington.edu/mjstyczi/</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+	<url>
+		<loc>http://courses.washington.edu/mjstyczi/pages/</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+	
+	<url>
+		<loc>http://courses.washington.edu/mjstyczi/pages/teaching.shtml</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.9</priority>
+	</url>
+	
+	<url>
+		<loc>http://courses.washington.edu/mjstyczi/pages/research.shtml</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+	
+	<url>
+		<loc>http://courses.washington.edu/mjstyczi/pages/experience.shtml</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.7</priority>
+	</url>
+	
+	<url>
+		<loc>http://courses.washington.edu/mjstyczi/pages/resources.shtml</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.4</priority>
+	</url>
+	
+	<url>
+		<loc>http://courses.washington.edu/mjstyczi/pages/personal.shtml</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	
+	<url>
+		<loc>http://courses.washington.edu/mjstyczi/pages/blog.shtml</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+
+</urlset>
