@@ -19,13 +19,13 @@
 			<table style="padding:15px; margin-bottom:20px;">
 				<tr>
 					<td style="padding:15px; background-color:#D5D5D5; width:300px;">
-						URL: <a href="{loc}"><xsl:value-of select="loc"/></a>
+						<span>URL&#58; </span><a href="{loc}"><xsl:value-of select="loc"/></a>
 					</td>
 				</tr>
 				<tr>
 					<td style="padding:15px 15px 15px 25px; background-color:#EEEEEE; width:300px;">
-						Changes approximately: <xsl:value-of select="changefreq"/><br/>						
-						Relative importance: <xsl:value-of select="priority"/> out of 1.0
+						<span>Changes approximately&#58; </span><xsl:value-of select="changefreq"/><br/>						
+						<span>Relative importance&#58; </span><xsl:value-of select="priority"/> out of 1.0
 					</td>
 				</tr>
 			</table>
