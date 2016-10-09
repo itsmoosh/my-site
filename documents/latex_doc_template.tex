@@ -1,0 +1,90 @@
+\documentclass[12pt,letterpaper]{article}
+
+
+% Latex Template file created by Marshall J. Styczinski.
+% Example constructs are commented out so that this document immediately compiles for full-featured Latex installations.
+% Visit https://www.latex-project.org/get/ for information on how to install Latex.
+% I recommend TexStudio for writing latex documents on all major operating systems.
+
+
+\usepackage{wrapfig}                % For text-wrapping figures
+\usepackage{graphicx}        % For making figures (.png, .jpg, and .pdf supported)
+\usepackage{color}        % For a variety of text recoloring options
+\usepackage{amsmath}        % For non-italic \text{} in subscripts--included if using mhchem
+\usepackage{mathtools}        % For declaring paired delimiters
+\usepackage{multirow}        % For tables with rows taller than 1 line
+\usepackage[version=3]{mhchem}        % For typesetting chemical formulae
+\usepackage{setspace}        % For configuring line spacing
+%\usepackage[ampersand]{easylist}        % For making lists easily
+\usepackage{pifont}        % For using wingdings (check and X, specifically)
+\usepackage[top=1in, left=1.25in, bottom=1in, right=1.25in]{geometry}        % Sets margins
+
+
+\newcommand{\ch}{\textcolor{green}{\ding{51}}}        % Insert a green check mark by typing {\ch}
+\DeclarePairedDelimiter\abs{\lvert}{\rvert}        % For absolute value signs
+
+
+\title{A Nice Big Long Title\\ \vspace{0.25cm} \large{Subtitled as such}}
+\author{Marshall J. Styczinski}
+\date{October 1, 2016}        % last updated
+
+
+\begin{document}
+\maketitle
+%\pagebreak
+\onehalfspacing
+
+
+%\begin{easylist}[itemize]        % Change [itemize] to [enumerate] for numbered easylists
+%        & Item 1
+%        & Item 2
+%        && Item 2a
+%        & Item 3
+%\end{easylist}
+
+
+%\begin{figure}[t]\begin{center}
+%        \includegraphics[width=0.95\textwidth]{picname.png}
+%        \caption{A picture as y’like.}\label{thelabel}
+%\end{center}\end{figure}
+
+
+%\begin{wrapfigure}{r}{0.5\textwidth}
+%        \begin{center}
+%                \includegraphics[width=0.48\textwidth]{smallfig.png}        % Note: actual size for .png files can usually be specified by changing [width= … ] to [scale=1.0]
+%                \caption{A smaller figure, with text wrapped around it.}\label{wraplabel}
+%        \end{center}
+%\end{wrapfigure}
+
+
+%\begin{table}[t]
+%\begin{center}\begin{tabular}{ c | l }
+%Mark & Meaning\\
+%\hline
+%\ch & Correct answer with correct reasoning\\
+%\hline
+%X & Incorrect answer with incorrect or incomplete reasoning\\
+%\hline
+%R & Correct answer with incorrect reasoning\\
+%\hline
+%\multirow{2}{*}\C & Incorrect answer, but consistently extended from previous\\& answers %(superposition)\\
+%\hline
+%I & No explanation given or part of experimental setup ignored\\
+%\hline
+%Par & Incorrect answer with partially correct reasoning\\
+%\hline
+%\end{tabular}
+%\caption{Student response categories for the administered pretest.}\label{nicetable}
+%\end{table}
+
+
+
+
+Here is the body text. \ce{H2O} does a body good.
+
+
+%\bibliographystyle{plain}
+%\bibliography{thebibfile.bib}
+
+
+\end{document}

@@ -26,27 +26,8 @@
 	</div>
 	
 	<div class="overall">	
-		<div class="navpane">
-			<h3 class="navlabel">Navigation</h3>
-			<ul class="navlist">
-				<li><a class="navlink" href="">Home</a></li>
-				<li class="navcurrent">Teaching</li>
-				<li><a class="navlink" href="pages/research.shtml">Research</a></li>
-				<li><a class="navlink" href="pages/experience.shtml">Experience</a></li>
-				<li><a class="navlink" href="pages/personal.shtml">Personal</a></li>
-			</ul>
-			
-			<h4 class="navlabel">External</h4>
-			<span class="extlinks">
-				<ul class="navlist">				
-					<li><a class="navlink" href="http://depts.washington.edu/uwpeg/">UW PEG</a></li>
-					<li><a class="navlink" href="http://depts.washington.edu/astrobio/">UW Astrobiology</a></li>
-					<li><a class="navlink" href="http://www.washington.edu/">UW home</a></li>
-					<li><a class="navlink" href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW web hosting</a></li>
-					<li><a class="navlink" href="http://www.nsf.gov/">NSF home</a></li>
-				</ul>
-			</span>
-		</div>		
+		
+		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->
 			
 		<div id="maincontent" class="main">
 		
@@ -55,45 +36,7 @@
 				 full experience from this website.</strong></p>
 			</noscript>
 			
-			<h2>Current teaching assignments</h2>
-			<table id="assignment">
-				<caption>Quarter: Summer 2016</caption>
-				<tr>
-					<th>Course</th>
-					<th>Allotment</th>
-					<th>Notes</th>
-				</tr>
-				<tr>
-					<td><a href="http://depts.washington.edu/uwphyttl/">122 Tutorials</a></td>
-					<td><a href="http://depts.washington.edu/uwphyttl/CurrentSchedules/122_tut_sched.pdf">2 in-class sections</a></td>
-					<td>Head TA</td>
-				</tr>
-				<tr>
-					<td><a href="http://courses.washington.edu/phys122z/">122 Laboratory</a></td>
-					<td><a href="http://courses.washington.edu/phys122z/TAinfo.php">2 in-class sections</a></td>
-					<td>Head TA</td>
-				</tr>
-				<!--<tr>
-					<td><a href="http://faculty.washington.edu/ljrberg/AUT15_PHYS321/">321 Tutorials</a></td>
-					<td><a href="http://depts.washington.edu/uwphyttl/tiap/EM/321/">2 in-class sections</a></td>
-					<td> </td>
-				</tr>-->
-				<tr>
-					<td><a href="https://sharepoint.washington.edu/phys/ugrad/1xx/Pages/Study-Center.aspx">Study Center</a></td>
-					<td>T 12:00 - 1:00p</td>
-					<td>Physics Study Center, room AM018</td>
-				</tr>
-				<!--<tr>
-					<td>Office Hours</td>
-					<td>WF 9:30a - 10:20a</td>
-					<td>Physics/Astronomy Tower, room C221</td>
-				</tr>-->
-			</table>
-			<p>
-				<!--Note: for accessibility to students, Marshall will have office hours at the times listed above, since he has
-				 no assigned study center hours.--> For a full listing of TA assignments for courses in the UW Physics Department,
-				 <a href="https://sharepoint.washington.edu/phys/academics/Pages/TA-Assignments.aspx">click here</a>.
-			</p>	
+			<!--#include virtual="/mjstyczi/supporting/TA_assign.shtml" -->
 		
 			<h2>Teaching overview</h2>			
 			<p>
@@ -172,7 +115,7 @@
 				Please note: The following excerpts are transcribed <em>verbatim</em> from anonymous end-of-quarter course evaluations.
 			</p>
 			<div id="testimonial">
-				<table style="width:100%;">
+				<table style="border-collapse: collapse;">
 					<tr>
 						<th id="evalQhdr">Evaluation question:</th>						
 						<td id="evalQ"></td>

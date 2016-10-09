@@ -1,0 +1,20 @@
+<a href="https://en.wikibooks.org/wiki/LaTeX/Special_Characters" class="reslink" target="_blank">
+	<div id="latexwiki">
+		<table class="resdiv">
+		<tr>
+			<td class="resource">
+				<img class="resimg" title="Wikibooks logo" alt="logo for Wikibooks" src="logos/wikibooks.png">
+			</td>						
+			<td class="resource">
+				<p>
+					<strong>The Wikibooks Latex section</strong> has many pages I use as references. I write a lot of
+					 Latex files, so I have several reference pages bookmarked. The one linked here is probably the 
+					 page I use the most (for creating special characters like &eacute; and &euro;), though I come back
+					 to several others quite often: &quot;Floats, Figures and Captions&quot;; &quot;Mathematics&quot;;
+					 &quot;Labels and Cross-referencing&quot;; &quot;Hyperlinks&quot;; and &quot;Counters&quot;.
+				</p>
+			</td>
+		</tr>
+		</table>
+	</div>
+</a>

@@ -7,7 +7,7 @@
 	<base href="http://students.washington.edu/mjstyczi/">	
 	<link rel="shortcut icon" href="logos/vectoricon.ico">
 	<link rel="stylesheet" href="supporting/styles.css">
-	<script src="supporting/scripts.js"></script>
+	<script src="supporting/scripts.js" async></script>
 		
 	<meta name="description" content="Personal web page for Marshall Styczinski">
 	<meta name="author" content="Marshall Styczinski">
@@ -16,7 +16,7 @@
 
 	<body>
 	<div class="homelogo">
-		<a href=""><img src="logos/Vector.png" class="logosq" title="Marshall Styczinski home"></a>
+		<a href=""><img src="logos/Vector.png" class="logosq" title="Marshall Styczinski home" alt="vector creative logo"></a>
 	</div>
 
 	<div id="heading">
@@ -27,27 +27,8 @@
 	</div>
 	
 	<div class="overall">	
-		<div class="navpane">
-			<h3 class="navlabel">Navigation</h3>
-			<ul class="navlist">
-				<li class="navcurrent">Home</li>
-				<li><a class="navlink" href="pages/teaching.shtml">Teaching</a></li>
-				<li><a class="navlink" href="pages/research.shtml">Research</a></li>
-				<li><a class="navlink" href="pages/experience.shtml">Experience</a></li>
-				<li><a class="navlink" href="pages/personal.shtml">Personal</a></li>
-			</ul>
-			
-			<h4 class="navlabel">External</h4>
-			<span class="extlinks">
-				<ul class="navlist">				
-					<li><a class="navlink" href="http://depts.washington.edu/uwpeg/">UW PEG</a></li>
-					<li><a class="navlink" href="http://depts.washington.edu/astrobio/">UW Astrobiology</a></li>
-					<li><a class="navlink" href="http://www.washington.edu/">UW home</a></li>
-					<li><a class="navlink" href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW web hosting</a></li>
-					<li><a class="navlink" href="http://www.nsf.gov/">NSF home</a></li>
-				</ul>
-			</span>
-		</div>		
+		
+		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->		
 			
 		<div id="maincontent" class="main">
 			<p>
@@ -72,14 +53,9 @@
 		</div>
 		
 		<hr style="max-width:1024px;">
-		<div id="logos" class="logospane">
-			<a href="pages/"><img title="Marshall Styczinski Site Map" src="logos/Vector.png" alt="Marshall Styczinski logo" class="logosq"></a>
-			<a href="http://www.washington.edu/"><img title="UW main site" src="logos/UW_Seal.png" alt="University of Washington seal" class="logosq"></a>
-			<a href="http://depts.washington.edu/uwpeg/"><img title="UW PEG site" src="logos/PEG_wheel.png" alt="UW Physics Education Group logo" class="logosq"></a>
-			<a href="http://depts.washington.edu/astrobio/"><img title="UW Astrobiology home" src="logos/UW-AB_brief.png" alt="UW Astrobiology logo" class="logosq" style="width:174px;"></a>
-			<a href="http://www.nsf.gov/"><img title="NSF home" src="logos/NSF.png" alt="National Science Foundation logo" class="logosq"></a>
-		</div>
+		<!--#include virtual="/mjstyczi/supporting/logospane.shtml" -->
 		<hr style="max-width:1024px;">
+		
 	</div>
 	<div class="footer">
 		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->

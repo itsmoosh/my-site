@@ -14,7 +14,6 @@ table {
 	margin-right: auto;
 	clear: both;
 	border: 1px solid black;
-    border-collapse: collapse;
 }
 
 td{
@@ -72,6 +71,28 @@ th {
 	margin-right: auto;
 }
 
+.col-third {
+	width: 239px;
+	height: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.col-third-mid {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.columns {
+	max-width: 770px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
 #evalQ {
 	height: 2.3em;
 }
@@ -120,7 +141,8 @@ th {
 
 .homelogo {
 	float: left;
-	margin: 10px;	
+	margin: 10px;
+	text-align: center;	
 }
 
 .liclogo {
@@ -135,7 +157,51 @@ th {
 	margin-right: auto;
 }
 
-.logospane {
+.logospane-blu {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	vertical-align: middle;
+	white-space: nowrap;	
+	
+	background-color: #a8d7fe;
+	width: 695px;
+	height: 120px;
+	
+	padding: 10px;
+	border: 10px solid transparent;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_blu.png");
+	border-image-slice: 60;
+	border-image-width: 4;
+	border-image-outset: 0;
+	border-image-repeat: round;
+}
+
+.logospane-grn {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	vertical-align: middle;
+	white-space: nowrap;	
+	
+	background-color: #7fd3a1;
+	width: 695px;
+	height: 120px;
+	
+	padding: 10px;
+	border: 10px solid transparent;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_grn.png");
+	border-image-slice: 60;
+	border-image-width: 4;
+	border-image-outset: 0;
+	border-image-repeat: round;
+}
+
+.logospane-yel {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
@@ -150,7 +216,7 @@ th {
 	
 	padding: 10px;
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border.png");
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_yel.png");
 	border-image-slice: 60;
 	border-image-width: 4;
 	border-image-outset: 0;
@@ -198,6 +264,7 @@ th {
 	list-style-type: disc;
 	color: #009900;
 	font-weight: bold;
+	text-transform: capitalize;
 }
 
 .navlabel {
@@ -247,6 +314,18 @@ th {
 	border-image-repeat: round;
 }
 
+.navpane6 {
+	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_6link.jpg");
+}
+
+.navpane7 {
+	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_7link.jpg");
+}
+
+.navpane8 {
+	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_8link.jpg");
+}
+
 .overall {
 	position: relative;
 	max-width: 1024px;
@@ -274,19 +353,74 @@ th {
 }
 
 .resource {
-	margin-left: 100px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	
+	border: none;
+	background-color: #F4F1FF;
+	vertical-align: middle;
+	text-decoration: none;
+}
+
+.resource-col {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	
+	border: none;
+	background-color: #F4F1FF;
+	text-decoration: none;
+	text-align: left;
 }
 
 .resdiv {
-	border: 1px;
-	border-radius: 15px;
-	margin: 5px;
+	width: 750px;
+	background-color: #F4F1FF;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+	border: 10px solid transparent;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
+	border-image-slice: 60;
+	border-image-width: 4;
+	border-image-outset: 0;
+	border-image-repeat: round;
+}
+
+.resdiv-col {
+	background-color: #F4F1FF;
+	padding: 10px;
+	display: inline-block;
+	text-align: center;
+	table-layout:fixed;
+	width: auto;
+	
+	border: 10px solid transparent;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
+	border-image-slice: 60;
+	border-image-width: 4;
+	border-image-outset: 0;
+	border-image-repeat: round;
 }
 
 .resimg {
-	float: left;
-	margin: 5px;
-	width: 95px;
+	display: block;
+	max-width: 95px;
+	width: auto;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.reslink {
+	text-decoration: none;
+	color: black;
 }
 
 #town_hall {

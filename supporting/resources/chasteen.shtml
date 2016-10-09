@@ -1,0 +1,21 @@
+<a href="http://blog.sciencegeekgirl.com/" class="reslink" target="_blank">
+	<div id="chasteen">
+		<table class="resdiv">
+		<tr>
+			<td class="resource">
+				<img class="resimg" title="Chasteen Consulting logo" alt="logo for Chasteen Consulting" src="logos/chasteen.png">
+			</td>						
+			<td class="resource">
+				<p>
+					<strong>Stephanie Chasteen</strong> is a colleague for whom I have great respect. She has a very interesting
+					 history, meandering from physics to social science, back to physics, with science writing and communication
+					 thrown in the mix. She's now an education researcher and consultant, working to improve adoption of the
+					 products of physics education research. She has a great blog website where you can find a range of
+					 presentations and podcasts she's given. Her discussion of presenting research in science is particularly
+					 enlightening.
+				</p>
+			</td>
+		</tr>
+		</table>
+	</div>
+</a>

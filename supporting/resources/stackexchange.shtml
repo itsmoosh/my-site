@@ -1,0 +1,19 @@
+<a href="http://stackexchange.com/" class="reslink" target="_blank">
+	<div id="stackexchange">
+		<table class="resdiv">
+		<tr>
+			<td class="resource">
+				<img class="resimg" title="Stack Exchange logo" alt="logo for Stack Exchange" src="logos/se-logo.png">
+			</td>						
+			<td class="resource">
+				<p>
+					<strong>Stack Exchange</strong> is an online wonderland filled to the brim with well-asked and
+					 well-answered questions. The range of topic sections on Stack Exchange is vast, from graphic design
+					 to parenting to information security. Googling coding or Latex issues is likely to lead you here,
+					 as are well-worded searches regarding physics, math, or any other of the 160 Stack Exchange communities.
+				</p>
+			</td>
+		</tr>
+		</table>
+	</div>
+</a>
