@@ -88,39 +88,39 @@ function setHeader() {
 	
 	switch(selfName) {
 		case "home":
-			pageTitle += "Marshall Styczinski: Main Page";
+			pageTitle = "Marshall Styczinski: Main Page";
 			banner = "sunset_croagh_patrick.jpg";	// sets banner to page-specific one
 			break;
 		case "teaching":
-			pagetitle += "Teaching";
+			pagetitle = "Teaching";
 			banner = "across_lough_arrow.jpg";
 			break;
 		case "research":
-			pagetitle += "Research";
+			pagetitle = "Research";
 			banner = "tower_at_moher.jpg";
 			break;
 		case "experience":
-			pagetitle += "Experience and Qualifications";
+			pagetitle = "Experience and Qualifications";
 			banner = "over_muckross_head.jpg";			
 			break;
 		case "resources":
-			pagetitle += "Helpful Resources";
+			pagetitle = "Helpful Resources";
 			banner = "clew_bay_islands.jpg";
 			break;
 		case "personal":
-			pagetitle += "Personal Information";
+			pagetitle = "Personal Information";
 			banner = "croagh_patrick_together.jpg";
 			break;
 		case "blog":
-			pagetitle += "Blog";
+			pagetitle = "Blog";
 			banner = "croagh_patrick_peek.jpg";
 			break;
 		case "sitemap":
-			pagetitle += "Site Map";
+			pagetitle = "Site Map";
 			banner = "clew_bay_open.jpg";
 			break;
 		case "construction":
-			pagetitle += "This page is under construction.";
+			pagetitle = "This page is under construction.";
 			banner = "kerry.jpg";
 	}
 	
