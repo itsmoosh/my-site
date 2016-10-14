@@ -19,7 +19,7 @@
 	</div>
 
 	<div id="heading">
-		<div class="bannercontainer"><a href=""><div class="banner" style="background-image:url('banners/croagh_patrick_peek.jpg');"> </div></a></div>
+		<div class="bannercontainer"><a href=""><div class="banner" id="headbanner" style="background-image:url('banners/croagh_patrick_peek.jpg');"> </div></a></div>
 		
 		<h1>This page is under construction.</h1>
 		<hr style="max-width:1024px;">

@@ -10,7 +10,7 @@
 	</ul>
 		
 	<script>
-		selfnav();
+		selfNav();
 	</script>
 	
 	<h4 class="navlabel">External</h4>
