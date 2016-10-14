@@ -92,35 +92,35 @@ function setHeader() {
 			banner = "sunset_croagh_patrick.jpg";	// sets banner to page-specific one
 			break;
 		case "teaching":
-			pageinfo += ": teaching";
+			pageInfo += ": teaching";
 			banner = "across_lough_arrow.jpg";
 			break;
 		case "research":
-			pageinfo += ": research";
+			pageInfo += ": research";
 			banner = "tower_at_moher.jpg";
 			break;
 		case "experience":
-			pageinfo += ": experience and qualifications";
+			pageInfo += ": experience and qualifications";
 			banner = "over_muckross_head.jpg";			
 			break;
 		case "resources":
-			pageinfo += ": helpful resources";
+			pageInfo += ": helpful resources";
 			banner = "clew_bay_islands.jpg";
 			break;
 		case "personal":
-			pageinfo += ": personal information";
+			pageInfo += ": personal information";
 			banner = "croagh_patrick_together.jpg";
 			break;
 		case "blog":
-			pageinfo += ": blog";
+			pageInfo += ": blog";
 			banner = "croagh_patrick_peek.jpg";
 			break;
 		case "sitemap":
-			pageinfo += ": site map";
+			pageInfo += ": site map";
 			banner = "clew_bay_open.jpg";
 			break;
 		case "construction":
-			pageinfo += ": this page under construction";
+			pageInfo += ": this page under construction";
 			banner = "kerry.jpg";
 	}
 	
