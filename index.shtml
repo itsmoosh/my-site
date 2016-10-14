@@ -30,7 +30,8 @@
 	
 	<div class="overall">	
 		
-		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->		
+		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->
+		<script>selfNav();</script>		
 			
 		<div id="maincontent" class="main">
 			<p>
