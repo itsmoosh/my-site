@@ -80,53 +80,53 @@ function selfNav() {
 };
 
 
-/*	Adds text relevant to each page to the 'description' meta tag	*/
+/*	Sets banner image to individual selection made for each page	*/
 function setHeader() {
 	var selfName = getPage(window.location.pathname);	// gets page name
-	var pageInfo = "Personal web page for Marshall Styczinski";	// sets default meta description 
-	var banner = "sunset_croagh_patrick.jpg";	// sets default banner image
+	var pageTitle = "Marshall Styczinski";	// default text for page titles	
+	var banner = "sunset_croagh_patrick.jpg";	// default banner image
 	
 	switch(selfName) {
 		case "home":
-			pageInfo += "";	// sets meta description to have additional info for specific pages 
+			pageTitle += "Marshall Styczinski: Main Page";
 			banner = "sunset_croagh_patrick.jpg";	// sets banner to page-specific one
 			break;
 		case "teaching":
-			pageInfo += ": teaching";
+			pagetitle += "Teaching";
 			banner = "across_lough_arrow.jpg";
 			break;
 		case "research":
-			pageInfo += ": research";
+			pagetitle += "Research";
 			banner = "tower_at_moher.jpg";
 			break;
 		case "experience":
-			pageInfo += ": experience and qualifications";
+			pagetitle += "Experience and Qualifications";
 			banner = "over_muckross_head.jpg";			
 			break;
 		case "resources":
-			pageInfo += ": helpful resources";
+			pagetitle += "Helpful Resources";
 			banner = "clew_bay_islands.jpg";
 			break;
 		case "personal":
-			pageInfo += ": personal information";
+			pagetitle += "Personal Information";
 			banner = "croagh_patrick_together.jpg";
 			break;
 		case "blog":
-			pageInfo += ": blog";
+			pagetitle += "Blog";
 			banner = "croagh_patrick_peek.jpg";
 			break;
 		case "sitemap":
-			pageInfo += ": site map";
+			pagetitle += "Site Map";
 			banner = "clew_bay_open.jpg";
 			break;
 		case "construction":
-			pageInfo += ": this page under construction";
+			pagetitle += "This page is under construction.";
 			banner = "kerry.jpg";
 	}
 	
 	banner = "url('banners/" + banner + "')";	// formats banner string to be of the form 'url(banners/the_image.jpg)'
 	document.getElementById('headbanner').style.backgroundImage = banner;
-	document.getElementsByTagName('meta')[1].content = pageInfo;
+	document.getElementById('pagetitle').innerHTML = pageTitle;
 };
 
 
