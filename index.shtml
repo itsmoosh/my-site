@@ -5,14 +5,14 @@
 
 	<head>
 		<title>Marshall Styczinski</title>
-		<base href="http://students.washington.edu/mjstyczi/" />	
-		<link rel="icon" href="logos/vectoricon.ico" />
-		<link rel="stylesheet" href="supporting/styles.css" />
+		<base href="http://students.washington.edu/mjstyczi/">	
+		<link rel="icon" href="logos/vectoricon.ico">
+		<link rel="stylesheet" href="supporting/styles.css">
 		<script src="supporting/scripts.js"></script>
 			
-		<meta name="description" content="Personal web page for Marshall Styczinski" />
-		<meta name="author" content="Marshall Styczinski" />
-		<meta charset="UTF-8" />
+		<meta name="description" content="Personal web page for Marshall Styczinski">
+		<meta name="author" content="Marshall Styczinski">
+		<meta charset="UTF-8">
 		<meta property="og:image" content="images/galaxy_portrait.jpg" />
 	</head>
 
@@ -47,9 +47,9 @@
 			</p>
 		</div>
 		
-		<hr style="max-width:1024px;" />
+		<hr style="max-width:1024px;">
 		<!--#include virtual="/mjstyczi/supporting/logospane.shtml" -->
-		<hr style="max-width:1024px;" />
+		<hr style="max-width:1024px;">
 		
 	</div>
 	<div class="footer">
