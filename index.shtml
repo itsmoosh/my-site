@@ -1,6 +1,5 @@
 <!doctype html>
-<html lang="en-us" xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:fb="http://ogp.me/ns/fb#">
+<html lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 <!-- Welcome to choose your own adventure, 'the internet' edition! You get to literally choose where to navigate! Like a ship on the high seas! -->
 
 	<head>
@@ -10,11 +9,16 @@
 		<link rel="stylesheet" href="supporting/styles.css">
 		<script src="supporting/scripts.js"></script>
 			
-		<meta name="description" content="Personal web page for Marshall Styczinski">
+		<meta name="description" content="Personal web page of Marshall Styczinski">
 		<meta name="author" content="Marshall Styczinski">
 		<meta charset="UTF-8">
-		<meta property="og:image" content="images/galaxy_portrait.jpg" />
+		
+		<meta property="og:title" content="Marshall Styczinski">		
+		<meta property="og:url" content="http://students.washington.edu/mjstyczi/">		
+		<meta property="og:description" content="Personal web page of Marshall Styczinski. Marshall is a graduate student in the Physics Education Group at the University of Washington.">
+		<meta property="og:image" content="http://students.washington.edu/mjstyczi/images/galaxy_portrait.jpg">
 	</head>
+
 
 	<body>
 	
@@ -27,8 +31,8 @@
 			
 		<div id="maincontent" class="main">
 			<p>
-				This is the personal website for Marshall Styczinski, a PhD candidate at the University of Washington.
-				 He is actively engaged in research with the UW Physics Education Group. Click the links at left to find out more.
+				This is the personal website of Marshall Styczinski, a graduate student at the University of Washington.
+				 Marshall is a member of the UW Physics Education Group. Click the links at left to find out more.
 				 <noscript>
 				 <br><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the
 				 full experience from this website.</strong>
@@ -43,7 +47,8 @@
 			<p>
 				If you are a UW student, staff, or faculty member with an active NetID and you'd like your own web page, visit
 				 <a href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW Shared Web Hosting</a>
-				 for information.
+				 for information. <strong>Pro-tip:</strong> To see the HTML code that creates any item on any website, 
+				 right-click the item and select &quot;Inspect Element&quot;.
 			</p>
 		</div>
 		
