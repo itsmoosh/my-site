@@ -3,8 +3,9 @@
 /*	Welcome to my lair.	*/
 
 
-/*	Returns a string containing the page name (filename without extension, or Home).
-Inputs: pageURL (string) expects output of window.location.pathname	*/
+/*	Transforms URL to page name (filename without extension, or Home).
+Inputs: pageURL (string) expects output of window.location.pathname
+Returns:	page name (string) filename without extension	*/
 function getPage(pageURL) {
 	var pageFile = pageURL.split('/').pop();	// takes the string consisting of everything after the final / character from current URL
 	var selfName = pageFile.split('.').shift();	// takes everything in the page's filename that precedes the extension (typically .shtml)
@@ -18,7 +19,9 @@ function getPage(pageURL) {
 };
 
 
-/*	Loads an external file for reading in XML formatted data. 	*/
+/*	Loads an external file for reading in XML formatted data.
+Inputs:		fileURL (string) URL, can be relative if base href is specified in HTML file's header
+Returns:	fetched XML file (XML document object) see newEval() for example usage 	*/
 function loadXMLDoc(fileURL) {
 	var xhttp = new XMLHttpRequest();
 	xhttp.open('GET', fileURL, false);
@@ -30,7 +33,9 @@ function loadXMLDoc(fileURL) {
 };
 
 
-/*	Generates raised pane full of logos for site map and affiliated organizations.	*/
+/*	Generates raised pane full of logos for site map and affiliated organizations.
+Inputs:	none
+Returns:	none	*/
 function logosPane() {
 	var colorNum = Math.floor(Math.random()*3);	// choose an integer index in the range [0, 3) (3 colors created)
 	
@@ -55,7 +60,9 @@ function logosPane() {
 };
 
 
-/*	Randomly selects a student evaluation to display and inserts it into an existing table.	*/
+/*	Randomly selects a student evaluation to display and inserts it into an existing table.
+Inputs:	none
+Returns:	none	*/
 function newEval() {
 	var xmlDoc = loadXMLDoc("supporting/studentEvals.xml");
 	var numEvals = xmlDoc.getElementsByTagName('response').length;	
@@ -70,7 +77,9 @@ function newEval() {
 };
 
 
-/*	Rewrites navigation link for the current page to be highlighted, non-clickable text.	*/
+/*	Rewrites navigation link for the current page to be highlighted, non-clickable text.
+Inputs:	none
+Returns:	none	*/
 function selfNav() {
 	var pageURL = window.location.pathname;	// gets current page URL
 	var selfName = getPage(pageURL);	// converts URL to filename, sans extension
@@ -80,7 +89,9 @@ function selfNav() {
 };
 
 
-/*	Sets banner image to individual selection made for each page	*/
+/*	Sets banner image to individual selection made for each page
+Inputs:	none
+Returns:	none	*/
 function setHeader() {
 	var selfName = getPage(window.location.pathname);	// gets page name
 	var pageTitle = "Marshall Styczinski";	// default text for page titles	
@@ -130,7 +141,9 @@ function setHeader() {
 };
 
 
-/*	Toggles animation for screen capture of electromagnetic waves simulation.	*/
+/*	Toggles animation for screen capture of electromagnetic waves simulation.
+Inputs:	running (boolean) whether or not the animation is currently running. True if running.
+Returns:	running state (boolean) new animation condition. True if running.	*/
 function toggleAnim(running) {
 	if(running){document.getElementById('emw').src = "images/EM_waves_still.gif"}
 	else{document.getElementById('emw').src = "images/EM_waves.gif"}
