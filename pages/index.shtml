@@ -23,7 +23,7 @@
 		<div id="maincontent" class="mapmain">
 			<h2>Visual</h2>			
 			<div class="middiv">
-				<img src="images/site_map.png" style="width:620; height:692; border:none;" usemap="#site_map">
+				<img src="supporting/graphics/site_map.png" style="width:620; height:692; border:none;" usemap="#site_map">
 				<map name="site_map">
 					<area shape="circle" coords="310,345,140" alt="Link to home page" title="Go to home page" href="">
 					<area shape="poly" coords="95,0,251,218,369,218,525,0" alt="Link to teaching page" title="Go to teaching page" href="pages/teaching.shtml">
