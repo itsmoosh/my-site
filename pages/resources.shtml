@@ -14,16 +14,8 @@
 	</head>
 
 	<body>
-	<div class="homelogo">
-		<a href=""><img src="logos/Vector.png" class="logosq" title="Marshall Styczinski home"></a>
-	</div>
-
-	<div id="heading">
-		<div class="bannercontainer"><a href=""><div class="banner" style="background-image:url('banners/clew_bay_islands.jpg');"> </div></a></div>
-		
-		<h1>Helpful Resources</h1>
-		<hr style="max-width:1024px;">
-	</div>
+	
+	<!--#include virtual="/mjstyczi/supporting/header.shtml" -->
 	
 	<div class="overall">	
 		
