@@ -119,7 +119,7 @@
 				</table>
 				
 				<script>newEval();</script>
-				<noscript><br>Please enable JavaScript to see student testimonials.<br></noscript>
+				<noscript><br><strong>Please enable JavaScript to see student testimonials.</strong><br></noscript>
 				<button onclick="newEval();" style="margin:15px;">More testimonials</button>
 			</div>
 		</div>
