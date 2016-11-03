@@ -22,25 +22,20 @@
 		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->		
 			
 		<div id="maincontent" class="main">
-			<div class="warning">
-				<img src="images/working.gif" class="warning" title="under construction" alt="construction warning sign">
-			</div>
-			<br>
-			<p>
-				This page is not yet ready to see the light of day. Eventually, it will contain entries in my personal blog.
-				 While you wait, please enjoy this lovely gif from Kerbal Space Program,
-				 <a href="https://redd.it/1wccwy">thanks to Reddit user Jankygoatsmugla:</a>
-			</p>
-			<div class="portrait" style="width:320px; height:180px;">
-				<img src="http://i.imgur.com/ElQCDd8.gif" class="portrait" style="width:320px; height:180px;">
-			</div>
+			
+			<iframe scrolling="no" src="http://moosh-run.blogspot.com/">
+				<p>
+					Your browser does not support iframes. Please visit my blog at 
+					 <a href="http://moosh-run.blogspot.com/">http://moosh-run.blogspot.com/</a> .
+				</p>
+			</iframe>
 			
 		</div>
 		
 		<hr style="max-width:1024px;">
 	</div>
 	<div class="footer">
-				<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
+		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>

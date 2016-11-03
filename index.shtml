@@ -16,7 +16,9 @@
 		<meta property="og:title" content="Marshall Styczinski">		
 		<meta property="og:url" content="http://students.washington.edu/mjstyczi/">		
 		<meta property="og:description" content="Personal web page of Marshall Styczinski. Marshall is a graduate student in the Physics Education Group at the University of Washington.">
-		<meta property="og:image" content="http://students.washington.edu/mjstyczi/images/galaxy_portrait.jpg">
+		<meta property="og:image" content="http://students.washington.edu/mjstyczi/images/preview.jpg">
+		<meta property="og:image:width" content="1874">
+		<meta property="og:image:height" content="937">
 	</head>
 
 
@@ -47,7 +49,8 @@
 			<p>
 				If you are a UW student, staff, or faculty member with an active NetID and you'd like your own web page, visit
 				 <a href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW Shared Web Hosting</a>
-				 for information. <strong>Pro-tip:</strong> To see the HTML code that creates any item on any website, 
+				 for information.
+				 <br><strong>Pro-tip:</strong> To see the HTML code that creates any item on any website, 
 				 right-click the item and select &quot;Inspect Element&quot;.
 			</p>
 		</div>
