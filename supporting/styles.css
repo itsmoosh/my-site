@@ -10,8 +10,8 @@ h1 {
 }
 
 iframe {
-	width: 790px;
-	height: 950px;
+	width: 800px;
+	height: 1726px;
 }
 
 table {
@@ -298,7 +298,7 @@ th {
 	top: 0px;
 	left: 0px;
 	width: 150px;
-	margin-left: 10px;
+	margin-left: 0px;
 	margin-right: 35px;
 	margin-top: 10px;
 	margin-bottom: 10px;
