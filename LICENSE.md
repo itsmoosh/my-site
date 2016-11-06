@@ -1,7 +1,7 @@
 Creative Commons Attribution-ShareAlike 4.0 International Public
 License
 
-tl;dr: You are free to use/extend/reproduce my code, designs, plans, images, etc., as long as you 1. clearly state that you attribute me as their creator and 2. share everything in the same manner. I just want credit for the effort I've put into all this! And, if you're copying/adapting, others should be able to do the same off you.
+tl;dr: You are free to use/extend/reproduce my code, designs, plans, images, etc., as long as you (1) clearly state that you attribute me as their creator and (2) share everything in the same manner. I just want credit for the effort I've put into all this! And, if you're copying/adapting, others should be able to do the same off you.
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons

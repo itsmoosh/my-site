@@ -1,6 +1,6 @@
 <div class="licdiv">
 <div style="float:left;">
-	<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" class="liclogo" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"/></a>
+	<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" class="liclogo" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 </div>
 <div style="margin-left:96px;">
 	<p>This <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">personal website</span> was lovingly hand-coded by
@@ -10,6 +10,6 @@
 </div>
 </div>
 	<p><!--#config timefmt="%D" -->Last updated <!--#echo var="LAST_MODIFIED" -->. Please send any questions, comments, or conversation to 
-	 <strong style="color:black;">mjstyczi<img title="(at)" src="supporting/graphics/at.gif" alt="(at)" class="at"/>uw.edu</strong>
+	 <strong style="color:black;">mjstyczi<img title="(at)" src="supporting/graphics/at.gif" alt="(at)" class="at" />uw.edu</strong>
 	</p>
 	<p><a href="pages/">Site map</a></p>

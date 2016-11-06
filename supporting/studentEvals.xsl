@@ -5,12 +5,12 @@
 <xsl:template match="/">
 	<html lang="en-us">
 	<head>
-		<base href="http://students.washington.edu/mjstyczi/"/>
-		<link rel="stylesheet" href="supporting/styles.css"/>
+		<base href="http://students.washington.edu/mjstyczi/" />
+		<link rel="stylesheet" href="supporting/styles.css" />
 		<title>Marshall Styczinski</title>
-		<link rel="shortcut icon" href="logos/vectoricon.ico"/>
-		<meta name="description" content="Personal web page for Marshall Styczinski: student evaluation comments (data)"/>
-		<meta charset="UTF-8"/>
+		<link rel="shortcut icon" href="logos/vectoricon.ico" />
+		<meta name="description" content="Personal web page for Marshall Styczinski: student evaluation comments (data)" />
+		<meta charset="UTF-8" />
 	</head>
 	<body style="width:1024px;">
 	<h2>Selected student comments from course evaluations</h2>
@@ -52,7 +52,7 @@
 				</tr>
 			</table>
 		</xsl:for-each>
-	<hr style="margin-bottom:20px;"/>
+	<hr style="margin-bottom:20px;" />
 	
 	</body>
 	</html>

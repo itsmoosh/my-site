@@ -2,15 +2,15 @@
 <html lang="en-us">
 
 	<head>
-	<title>Marshall Styczinski</title>
-	<base href="http://students.washington.edu/mjstyczi/">	
-	<link rel="shortcut icon" href="logos/vectoricon.ico">
-	<link rel="stylesheet" href="supporting/styles.css">
-	<script src="supporting/scripts.js"></script>
-		
-	<meta name="description" content="Personal web page for Marshall Styczinski: experience and qualifications">
-	<meta name="author" content="Marshall Styczinski">
-	<meta charset="UTF-8">
+		<title>Marshall Styczinski</title>
+		<base href="http://students.washington.edu/mjstyczi/" />	
+		<link rel="shortcut icon" href="logos/vectoricon.ico" />
+		<link rel="stylesheet" href="supporting/styles.css" />
+		<script src="supporting/scripts.js"></script>
+			
+		<meta name="description" content="Personal web page for Marshall Styczinski: experience and qualifications" />
+		<meta name="author" content="Marshall Styczinski" />
+		<meta charset="UTF-8" />
 	</head>
 
 	<body>
@@ -50,7 +50,7 @@
 				 collaborators, personal documents, and more. 
 			</p>
 			<div class="portrait" style="width:625px; height:342px;">
-				<a href="http://www.glowscript.org/#/user/Mesons/folder/ColorPalettes/program/StandardColors"><img src="images/color_palettes.png" class="portrait" style="width:625px; height:342px;" title="A 4-color palette amenable to colorblind users that Marshall developed for use in interactive simulations. Click for more palettes." alt="4 vibrantly colored, highly contrasting boxes with multiple color definitions. The page is headed with Colorblind-Friendly Palettes."></a>
+				<a href="http://www.glowscript.org/#/user/Mesons/folder/ColorPalettes/program/StandardColors"><img src="images/color_palettes.png" class="portrait" style="width:625px; height:342px;" title="A 4-color palette amenable to colorblind users that Marshall developed for use in interactive simulations. Click for more palettes." alt="4 vibrantly colored, highly contrasting boxes with multiple color definitions. The page is headed with Colorblind-Friendly Palettes." /></a>
 			</div>
 			<p>
 				Marshall's programming expertise is both broad and deep. He has worked extensively with C++, JavaScript, Python, LabVIEW, and HTML.
@@ -81,7 +81,7 @@
 				 Further aiding classroom efficacy, Marshall is an expert in Socratic dialogue, the art and science of teaching by asking questions.
 			</p>
 			<div class="portrait" style="width:536px; height:365px;">
-				<a href="images/town_hall.jpg"><img src="images/town_hall.jpg" class="portrait" style="width:536px; height:365px;" title="Marshall presents an introduction to his field of research at Town Hall theater" alt="Marshall stands behind a podium with a spotlight trained on him."></a>
+				<a href="images/town_hall.jpg"><img src="images/town_hall.jpg" class="portrait" style="width:536px; height:365px;" title="Marshall presents an introduction to his field of research at Town Hall theater" alt="Marshall stands behind a podium with a spotlight trained on him." /></a>
 			</div>
 			<p>
 				Half of science is communicating the results of your experiments. The audience for your results may be other scientists,
@@ -136,7 +136,7 @@
 				 his B.S. in Physics. 
 			</p>
 			<div class="portrait" style="width:553px; height:581px;">
-				<a href="images/copper_shield.jpg"><img src="images/copper_shield.jpg" class="portrait" style="width:553px; height:581px;" title="A copper shield for protecting a cold space from radiated heat." alt="A shiny copper cylinder sitting on a table, surrounded by tools."></a>
+				<a href="images/copper_shield.jpg"><img src="images/copper_shield.jpg" class="portrait" style="width:553px; height:581px;" title="A copper shield for protecting a cold space from radiated heat." alt="A shiny copper cylinder sitting on a table, surrounded by tools." /></a>
 			</div>
 			<p>
 				Thanks to reputation earned with specialists working in labs at UC Davis, Marshall was recommended for a paid position as a technician
@@ -159,7 +159,7 @@
 			
 		</div>
 		
-		<hr style="max-width:1024px;">
+		<hr style="max-width:1024px;" />
 	</div>
 	<div class="footer">
 		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->

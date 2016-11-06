@@ -2,15 +2,15 @@
 <html lang="en-us">
 
 	<head>
-	<title>Marshall Styczinski</title>
-	<base href="http://students.washington.edu/mjstyczi/">	
-	<link rel="shortcut icon" href="logos/vectoricon.ico">
-	<link rel="stylesheet" href="supporting/styles.css">
-	<script src="supporting/scripts.js"></script>
-		
-	<meta name="description" content="Personal web page for Marshall Styczinski: personal information">
-	<meta name="author" content="Marshall Styczinski">
-	<meta charset="UTF-8">
+		<title>Marshall Styczinski</title>
+		<base href="http://students.washington.edu/mjstyczi/" />	
+		<link rel="shortcut icon" href="logos/vectoricon.ico" />
+		<link rel="stylesheet" href="supporting/styles.css" />
+		<script src="supporting/scripts.js"></script>
+			
+		<meta name="description" content="Personal web page for Marshall Styczinski: personal information" />
+		<meta name="author" content="Marshall Styczinski" />
+		<meta charset="UTF-8" />
 	</head>
 
 	<body>
@@ -40,7 +40,7 @@
 				Marshall lives in the Lake City neighborhood of Seattle with his partner, Nichole.
 			</p>
 			<div class="portrait" style="width:558px; height:424px;">
-				<a href="images/family.jpg"><img src="images/family.jpg" class="portrait" style="width:558px; height:424px;" title="The author's immediate family" alt="A portrait of the author and his immediate family"></a>
+				<a href="images/family.jpg"><img src="images/family.jpg" class="portrait" style="width:558px; height:424px;" title="The author's immediate family" alt="A portrait of the author and his immediate family" /></a>
 			</div>
 			
 			<h2>Recreation</h2>
@@ -55,7 +55,7 @@
 					 and metalworking. Shown below is his latest work-in-progress, the capstone of an extensive costume honoring <a href="http://kerbalspaceprogram.com">Kerbal Space Program</a>.
 				</p>
 				<div class="portrait" style="width:558px; height:424px;">
-					<a href="images/kerbal_helmet_ip.jpg"><img src="images/kerbal_helmet_ip.jpg" class="portrait" style="width:558px; height:424px;" title="An in-progress art project" alt="An in-progress art project: head and helmet for a Kerbal Space Program costume"></a>
+					<a href="images/kerbal_helmet_ip.jpg"><img src="images/kerbal_helmet_ip.jpg" class="portrait" style="width:558px; height:424px;" title="An in-progress art project" alt="An in-progress art project: head and helmet for a Kerbal Space Program costume" /></a>
 				</div>
 			
 				<p>
@@ -94,7 +94,7 @@
 				</p>		
 				
 				<div class="portrait" style="width:748px; height:286px;">
-					<a href="images/kerbal_Tylo_rove.png"><img src="images/kerbal_Tylo_rove.png" class="portrait" style="width:748px; height:286px;" title="Kerbals roving around on Tylo, a moon of Jool." alt="Three green aliens on a cratered surface, in Kerbal Space Program."></a>
+					<a href="images/kerbal_Tylo_rove.png"><img src="images/kerbal_Tylo_rove.png" class="portrait" style="width:748px; height:286px;" title="Kerbals roving around on Tylo, a moon of Jool." alt="Three green aliens on a cratered surface, in Kerbal Space Program." /></a>
 				</div>	
 				
 				<h3>Outdoors</h3>
@@ -103,7 +103,7 @@
 				</p>
 				
 				<div class="portrait" style="width:558px; height:418px;">
-					<a href="images/hoh_rainforest.jpg"><img src="images/hoh_rainforest.jpg" class="portrait" style="width:558px; height:418px;" title="Morning in the Hoh Rainforest" alt="On the trail in a lush forest"></a>
+					<a href="images/hoh_rainforest.jpg"><img src="images/hoh_rainforest.jpg" class="portrait" style="width:558px; height:418px;" title="Morning in the Hoh Rainforest" alt="On the trail in a lush forest" /></a>
 				</div>				
 				
 				<p>
@@ -112,12 +112,12 @@
 				</p>				
 				
 				<div class="portrait" style="width:558px; height:408px;">
-					<a href="images/kayaking.jpg"><img src="images/kayaking.jpg" class="portrait" style="width:558px; height:408px;" title="Kayaking in Seattle" alt="Marshall and Nichole kayaking"></a>
+					<a href="images/kayaking.jpg"><img src="images/kayaking.jpg" class="portrait" style="width:558px; height:408px;" title="Kayaking in Seattle" alt="Marshall and Nichole kayaking" /></a>
 				</div>
 				
 		</div>
 		
-		<hr style="max-width:1024px;">
+		<hr style="max-width:1024px;" />
 	</div>
 	<div class="footer">
 		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->

@@ -2,15 +2,15 @@
 <html lang="en-us">
 
 	<head>
-	<title>Marshall Styczinski</title>
-	<base href="http://students.washington.edu/mjstyczi/">	
-	<link rel="shortcut icon" href="logos/vectoricon.ico">
-	<link rel="stylesheet" href="supporting/styles.css">
-	<script src="supporting/scripts.js"></script>
-		
-	<meta name="description" content="Personal web page for Marshall Styczinski: this page under construction">
-	<meta name="author" content="Marshall Styczinski">
-	<meta charset="UTF-8">
+		<title>Marshall Styczinski</title>
+		<base href="http://students.washington.edu/mjstyczi/" />	
+		<link rel="shortcut icon" href="logos/vectoricon.ico" />
+		<link rel="stylesheet" href="supporting/styles.css" />
+		<script src="supporting/scripts.js"></script>
+			
+		<meta name="description" content="Personal web page for Marshall Styczinski: this page under construction" />
+		<meta name="author" content="Marshall Styczinski" />
+		<meta charset="UTF-8" />
 	</head>
 
 	<body>
@@ -23,15 +23,15 @@
 			
 		<div id="maincontent" class="main">
 			<div class="warning">
-				<img src="images/working.gif" class="warning" title="under construction" alt="construction warning sign">
+				<img src="images/working.gif" class="warning" title="under construction" alt="construction warning sign" />
 			</div>
-			<br>
+			<br />
 			<p>
 				This page is not yet ready to see the light of day. While you wait, please enjoy this 
 				 lovely gif from Kerbal Space Program, <a href="https://redd.it/1wccwy">thanks to Reddit user Jankygoatsmugla:</a>
 			</p>
 			<div class="portrait" style="width:320px; height:180px;">
-				<img src="http://i.imgur.com/ElQCDd8.gif" class="portrait" style="width:320px; height:180px;">
+				<img src="http://i.imgur.com/ElQCDd8.gif" class="portrait" style="width:320px; height:180px;" />
 			</div>
 			
 			<div class="footer">
