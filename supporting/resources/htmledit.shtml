@@ -3,7 +3,7 @@
 		<table class="resdiv">
 		<tr>
 			<td class="resource">
-				<img class="resimg" title="no logo" alt="glowing question mark" src="logos/question.png">
+				<img class="resimg" title="no logo" alt="glowing question mark" src="logos/question.png" />
 			</td>						
 			<td class="resource">
 				<p>

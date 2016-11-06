@@ -2,15 +2,15 @@
 <html lang="en-us">
 
 	<head>
-	<title>Marshall Styczinski</title>
-	<base href="http://students.washington.edu/mjstyczi/">	
-	<link rel="shortcut icon" href="logos/vectoricon.ico">
-	<link rel="stylesheet" href="supporting/styles.css">
-	<script src="supporting/scripts.js"></script>
-		
-	<meta name="description" content="Personal web page for Marshall Styczinski: Research">
-	<meta name="author" content="Marshall Styczinski">
-	<meta charset="UTF-8">
+		<title>Marshall Styczinski</title>
+		<base href="http://students.washington.edu/mjstyczi/" />	
+		<link rel="shortcut icon" href="logos/vectoricon.ico" />
+		<link rel="stylesheet" href="supporting/styles.css" />
+		<script src="supporting/scripts.js"></script>
+			
+		<meta name="description" content="Personal web page for Marshall Styczinski: Research" />
+		<meta name="author" content="Marshall Styczinski" />
+		<meta charset="UTF-8" />
 	</head>
 
 	<body>
@@ -56,7 +56,7 @@
 				 below. Have a watch! 
 			</p>
 			<div class="logosq" id="peg_logo">
-				<a href="http://depts.washington.edu/uwpeg/" target="_blank"><img src="logos/PEG_wheel.png" class="logosq" style="width:265px; height:265px;" title="University of Washington Physics Education Group logo" alt="A circular logo for UW PEG, with research, instruction, and curriculum written around the edge, implying cyclic interaction."></a>
+				<a href="http://depts.washington.edu/uwpeg/" target="_blank"><img src="logos/PEG_wheel.png" class="logosq" style="width:265px; height:265px;" title="University of Washington Physics Education Group logo" alt="A circular logo for UW PEG, with research, instruction, and curriculum written around the edge, implying cyclic interaction." /></a>
 			</div>
 			<p>
 				The primary focus of the Physics Education Group at the University of Washington
@@ -95,7 +95,7 @@
 				 topics to take less in-class time to cover.
 			</p>
 			<div class="wrapimg" style="width:374px; height:624px;">
-				<a href="images/AAPT.jpg"><img src="images/AAPT.jpg" class="wrapimg" style="width:374px; height:624px;" title="Marshall presents his research at the American Association of Physics Teachers national conference" alt="Marshall speaking from behind a podium on stage."></a>
+				<a href="images/AAPT.jpg"><img src="images/AAPT.jpg" class="wrapimg" style="width:374px; height:624px;" title="Marshall presents his research at the American Association of Physics Teachers national conference" alt="Marshall speaking from behind a podium on stage." /></a>
 			</div>			
 			<p>
 				The <em>Tutorials</em> are not only based on research on difficult topics, they are also
@@ -131,7 +131,7 @@
 			
 		</div>
 		
-		<hr style="max-width:1024px;">
+		<hr style="max-width:1024px;" />
 	</div>
 	<div class="footer">
 		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->

@@ -3,15 +3,15 @@
 <!-- It's a window into another world. After I decided to iframe my Blogger page, I was tickled when I noticed the title of the template I had selected on Blogger. It's called "picture window". The background picture is one I took near Goldmyer Hot Springs. -->
 
 	<head>
-	<title>Marshall Styczinski</title>
-	<base href="http://students.washington.edu/mjstyczi/">	
-	<link rel="shortcut icon" href="logos/vectoricon.ico">
-	<link rel="stylesheet" href="supporting/styles.css">
-	<script src="supporting/scripts.js"></script>
-		
-	<meta name="description" content="Personal web page for Marshall Styczinski: blog">
-	<meta name="author" content="Marshall Styczinski">
-	<meta charset="UTF-8">
+		<title>Marshall Styczinski</title>
+		<base href="http://students.washington.edu/mjstyczi/" />	
+		<link rel="shortcut icon" href="logos/vectoricon.ico" />
+		<link rel="stylesheet" href="supporting/styles.css" />
+		<script src="supporting/scripts.js"></script>
+			
+		<meta name="description" content="Personal web page for Marshall Styczinski: blog" />
+		<meta name="author" content="Marshall Styczinski" />
+		<meta charset="UTF-8" />
 	</head>
 
 	<body>
@@ -33,7 +33,7 @@
 			
 		</div>
 		
-		<hr style="max-width:1024px;">
+		<hr style="max-width:1024px;" />
 	</div>
 	<div class="footer">
 		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->

@@ -2,7 +2,7 @@
 	<div id="getlatex" class="col-third">
 		<div class="resdiv-col">
 			<div class="resource-col">
-				<img class="resimg" title="The Latex project logo" alt="logo for The Latex Project" src="logos/latex.png">
+				<img class="resimg" title="The Latex project logo" alt="logo for The Latex Project" src="logos/latex.png" />
 			</div>				
 			<div class="resource-col">
 				<p>

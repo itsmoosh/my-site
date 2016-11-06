@@ -2,7 +2,7 @@
 	<div id="beamer-template" class="col-third col-third-mid">
 		<div class="resdiv-col">
 			<div class="resource-col">
-				<img class="resimg" title="Latex beamer template zip file" alt="zip file icon for Latex beamer template" src="logos/zip.png">
+				<img class="resimg" title="Latex beamer template zip file" alt="zip file icon for Latex beamer template" src="logos/zip.png" />
 			</div>				
 			<div class="resource-col">
 				<p>

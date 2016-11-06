@@ -4,21 +4,21 @@
 
 	<head>
 		<title>Marshall Styczinski</title>
-		<base href="http://students.washington.edu/mjstyczi/">	
-		<link rel="icon" href="logos/vectoricon.ico">
-		<link rel="stylesheet" href="supporting/styles.css">
+		<base href="http://students.washington.edu/mjstyczi/" />	
+		<link rel="icon" href="logos/vectoricon.ico" />
+		<link rel="stylesheet" href="supporting/styles.css" />
 		<script src="supporting/scripts.js"></script>
 			
-		<meta name="description" content="Personal web page of Marshall Styczinski">
-		<meta name="author" content="Marshall Styczinski">
-		<meta charset="UTF-8">
+		<meta name="description" content="Personal web page of Marshall Styczinski" />
+		<meta name="author" content="Marshall Styczinski" />
+		<meta charset="UTF-8" />
 		
-		<meta property="og:title" content="Marshall Styczinski">		
-		<meta property="og:url" content="http://students.washington.edu/mjstyczi/">		
-		<meta property="og:description" content="Personal web page of Marshall Styczinski. Marshall is a graduate student in the Physics Education Group at the University of Washington.">
-		<meta property="og:image" content="http://students.washington.edu/mjstyczi/images/preview.jpg">
-		<meta property="og:image:width" content="1874">
-		<meta property="og:image:height" content="937">
+		<meta property="og:title" content="Marshall Styczinski" />		
+		<meta property="og:url" content="http://students.washington.edu/mjstyczi/" />		
+		<meta property="og:description" content="Personal web page of Marshall Styczinski. Marshall is a graduate student in the Physics Education Group at the University of Washington." />
+		<meta property="og:image" content="http://students.washington.edu/mjstyczi/images/preview.jpg" />
+		<meta property="og:image:width" content="1874" />
+		<meta property="og:image:height" content="937" />
 	</head>
 
 
@@ -36,7 +36,7 @@
 				This is the personal website of Marshall &quot;Moosh&quot; Styczinski, a graduate student at the University of Washington.
 				 Marshall is a member of the UW Physics Education Group. Click the links at left to find out more.
 				 <noscript>
-				 <br><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the
+				 <br /><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the
 				 full experience from this website.</strong>
 				 </noscript>
 			</p>
@@ -44,20 +44,20 @@
 				For a terse introduction, please see his <a href="documents/Styczinski_CV.pdf">Curriculum Vitae.</a>
 			</p>
 			<div class="portrait" style="width:534px; height:653px;">
-				<a href="images/galaxy_portrait.jpg"><img src="images/galaxy_portrait.jpg" style="width:534px; height:653px;" class="portrait" title="The author" alt="A portrait of Marshall Styczinski"></a>
+				<a href="images/galaxy_portrait.jpg"><img src="images/galaxy_portrait.jpg" style="width:534px; height:653px;" class="portrait" title="The author" alt="A portrait of Marshall Styczinski" /></a>
 			</div>
 			<p>
 				If you are a UW student, staff, or faculty member with an active NetID and you'd like your own web page, visit
 				 <a href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW Shared Web Hosting</a>
 				 for information.
-				 <br><strong>Pro-tip:</strong> To see the HTML code that creates any item on any website, 
+				 <br /><strong>Pro-tip:</strong> To see the HTML code that creates any item on any website, 
 				 right-click the item and select &quot;Inspect Element&quot;.
 			</p>
 		</div>
 		
-		<hr style="max-width:1024px;">
+		<hr style="max-width:1024px;" />
 		<!--#include virtual="/mjstyczi/supporting/logospane.shtml" -->
-		<hr style="max-width:1024px;">
+		<hr style="max-width:1024px;" />
 		
 	</div>
 	<div class="footer">
