@@ -1,4 +1,4 @@
-<div class="navpane navpane6">
+<div class="navpane navpane7">
 	<h3 class="navlabel">Navigation</h3>
 	<ul class="navlist">
 		<li id="home"><a class="navlink" href="">Home</a></li>
@@ -6,7 +6,8 @@
 		<li id="research"><a class="navlink" href="pages/research.shtml">Research</a></li>
 		<li id="experience"><a class="navlink" href="pages/experience.shtml">Experience</a></li>
 		<li id="resources"><a class="navlink" href="pages/resources.shtml">Resources</a></li>		
-		<li id="personal"><a class="navlink" href="pages/personal.shtml">Personal</a></li>
+		<li id="personal"><a class="navlink" href="pages/personal.shtml">Personal</a></li>				
+		<li id="blog"><a class="navlink" href="pages/blog.shtml">Blog</a></li>
 	</ul>
 		
 	<script>
