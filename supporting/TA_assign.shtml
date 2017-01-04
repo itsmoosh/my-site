@@ -7,6 +7,12 @@
 			<th>Notes</th>
 		</tr>
 		<tr>
+			<td><a href="https://canvas.uw.edu/courses/1097188">ASTR 150 discussion</a></td>	
+			<td><a href="https://www.washington.edu/students/timeschd/WIN2017/astro.html">2 in-class sections</a></td>
+			<td>First time TA for ASTR 150!</td>
+		</tr>
+
+		<!--<tr>
 			<td><a href="http://depts.washington.edu/uwphyttl/">122 Tutorials</a></td>
 			<td><a href="http://depts.washington.edu/uwphyttl/CurrentSchedules/122_tut_sched.pdf">3 in-class sections</a></td>
 			<td>Head TA</td>
@@ -15,22 +21,22 @@
 			<td><a href="http://courses.washington.edu/phys122z/">122 Laboratory</a></td>
 			<td><a href="http://courses.washington.edu/phys122z/TAinfo.php">1 in-class section</a></td>
 			<td>Head TA</td>
-		</tr>
+		</tr>-->
 		<!--<tr>
 			<td><a href="http://faculty.washington.edu/ljrberg/AUT15_PHYS321/">321 Tutorials</a></td>
 			<td><a href="http://depts.washington.edu/uwphyttl/tiap/EM/321/">2 in-class sections</a></td>
 			<td> </td>
 		</tr>-->
-		<tr>
+		<!--<tr>
 			<td><a href="https://sharepoint.washington.edu/phys/ugrad/1xx/Pages/Study-Center.aspx">Study Center</a></td>
 			<td>Mon 12:30p &ndash; 1:30p</td>
 			<td>Physics Study Center, room AM018</td>
-		</tr>
-		<!--<tr>
-			<td>Office Hours</td>
-			<td>WF 9:30a - 10:20a</td>
-			<td>Physics/Astronomy Tower, room C221</td>
 		</tr>-->
+		<tr>
+			<td>Office Hours</td>
+			<td>T 11:30a&ndash;12:30p, W 1:30p&ndash;2:30p</td>
+			<td>Physics/Astronomy Tower, room C221</td>
+		</tr>
 	</table>
 	<p>
 		<!--Note: for accessibility to students, Marshall will have office hours at the times listed above, since he has
