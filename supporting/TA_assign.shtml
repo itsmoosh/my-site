@@ -1,6 +1,6 @@
 <h2>Current teaching assignments</h2>
 	<table id="assignment">
-		<caption>Quarter: Autumn 2016</caption>
+		<caption>Quarter: Winter 2017</caption>
 		<tr>
 			<th>Course</th>
 			<th>Allotment</th>
@@ -9,7 +9,7 @@
 		<tr>
 			<td><a href="https://canvas.uw.edu/courses/1097188">ASTR 150 discussion</a></td>	
 			<td><a href="https://www.washington.edu/students/timeschd/WIN2017/astro.html">2 in-class sections</a></td>
-			<td>First time TA for ASTR 150!</td>
+			<td>First time teaching ASTR 150!</td>
 		</tr>
 
 		<!--<tr>
@@ -34,7 +34,7 @@
 		</tr>-->
 		<tr>
 			<td>Office Hours</td>
-			<td>T 11:30a&ndash;12:30p, W 1:30p&ndash;2:30p</td>
+			<td>T 11:30a&ndash;12:30p,<br>W 1:30p&ndash;2:30p</td>
 			<td>Physics/Astronomy Tower, room C221</td>
 		</tr>
 	</table>
