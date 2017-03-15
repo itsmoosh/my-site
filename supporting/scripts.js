@@ -3,6 +3,13 @@
 /*	Welcome to my lair.	*/
 
 
+/*	Pulls the most recent post from my personal blog to display on the blog page.	*/
+function getBlog() {
+	var blogURL = "http://blog.moosh.run/";
+	
+	
+};
+
 /*	Transforms URL to page name (filename without extension, or Home).
 Inputs: pageURL (string) expects output of window.location.pathname
 Returns:	page name (string) filename without extension	*/
