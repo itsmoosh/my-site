@@ -66,6 +66,30 @@ th {
 	background-position: center;
 }
 
+.blog-button-g {
+	display: flex;
+	flex-direction: column;
+	margin-left: 4px;
+}
+
+.blog-button-p {
+	display: flex;
+	flex-direction: column;
+	margin-right: 4px;
+}
+
+#blog-buttons {
+	white-space: nowrap;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.blog-title a:link{color:#007710; background-color:transparent; text-decoration:none;}
+.blog-title a:visited {color:#007710; background-color:transparent; text-decoration:none;}
+.blog-title a:hover {color:#11cc44; background-color:transparent; text-decoration:none;}
+.blog-title a:active {color:red; background-color:transparent; text-decoration:underline;}
+
 .bannercontainer {
 	margin-top: 6px;
 	margin-bottom: 6px;
@@ -344,6 +368,45 @@ th {
 	height: 265px;
 	float: right;
 	margin: 5px;
+}
+
+.porthole {
+	width: 85px;
+	height: 85px;
+	text-align: center;
+	float: left;
+	
+	padding: 0px;
+	border: 10px solid transparent;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/porthole_border_Cu.png");
+	border-image-slice: 60;
+	border-image-width: 35px;
+	border-image-outset: 0;
+	border-image-repeat: round;
+	
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.porthole-container {
+	height: 85px;
+	padding: 10px;
+	text-align: center;
+	display: table;
+	background-color: #DBDBDB;
+	
+	border: 10px solid transparent;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_gry.png");
+	border-image-slice: 60;
+	border-image-width: 4;
+	border-image-outset: 0;
+	border-image-repeat: round;
+}
+
+.porthole-text {
+	vertical-align: middle;
+	display: table-cell;
+	padding-left: 10px;
 }
 
 .portrait {

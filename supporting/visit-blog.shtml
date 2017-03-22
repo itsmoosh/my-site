@@ -1,0 +1,23 @@
+<div id="blog-buttons">
+	
+	<div class="blog-button-p blog-title">
+		<a href="http://blog.moosh.run/">
+			<div class="porthole-container">
+				<div id="blog-button" class="porthole" style="background-image:url('supporting/graphics/galaxy_port.png');">
+				</div>
+				<h3 class="porthole-text">Visit my personal blog on Blogger!</h3>	
+			</div>
+		</a>	
+	</div>
+	
+	<div class="blog-button-g blog-title">
+		<a href="http://guides.moosh.run/">
+			<div class="porthole-container">
+				<div id="blog-button" class="porthole" style="background-image:url('supporting/graphics/circuit_port.png');">
+				</div>
+				<h3 class="porthole-text">Visit my guides<br/> on Blogger!</h3>	
+			</div>
+		</a>	
+	</div>
+	
+</div>

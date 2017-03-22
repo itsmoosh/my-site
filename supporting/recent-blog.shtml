@@ -1,0 +1,42 @@
+<h1 class="blog-title"><a href="http://blog.moosh.run" title="Read on Blogger">I built my own computer and you can, too!</a></h1>
+
+<!--	1. CHANGE TITLE ABOVE	-->
+<!--	2. DELETE HTML BELOW	-->
+<!--	3. PASTE NEW HTML BELOW	-->
+<!--	4. CHECK FOR NEW CLASSES	-->
+
+<p>A couple years ago, I started down the path to glory: the glory of a Very Personal Computer. I was playing <a href="https://www.blogger.com/kerbalspaceprogram.com">Kerbal Space program,</a> which I highly recommend to everyone. A preview:</p>
+
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://imgur.com/gallery/42L5XPM" imageanchor="1" style="margin: 1em auto;"><img alt="A rocket launch in Kerbal Space Program goes awry" border="0" src="http://i.imgur.com/42L5XPM.gif" title="Another successful Kerbal launch. Credit: imgur user imnapster" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Source: imgur user imnapster</td></tr>
+</tbody></table>
+
+<h2>The impetus</h2>
+<p>Kerbal is ridiculously fun. Part of the fun comes from building ever-larger and more ridiculous rockets. There's a problem, though: the more parts your rocket has, the longer it takes to simulate all of their interactions. Enormous rockets are hard for your computer to handle, and my aging desktop couldn't cope very well.</p>
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="http://design.ubuntu.com/brand/ubuntu-logo" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img alt="Ubuntu logo" border="0" src="http://design.ubuntu.com/wp-content/uploads/ubuntu-logo32.png" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">The Ubuntu "circle of friends" logo.</td></tr>
+</tbody></table>
+
+<p>The first step I tried to take was to start using a Linux operating system, Ubuntu. <a href="http://forum.kerbalspaceprogram.com/" target="_blank">The Kerbal forums</a> are filled to the brim with savvy and helpful, like-minded players, some of whom suggested that the Linux version of the game was more capable.</p>
+
+<p>There are myriad guides for installing Ubuntu alongside Windows for first-time users, <a href="http://askubuntu.com/questions/1366/how-can-i-install-ubuntu-without-removing-windows">like this one</a>. Admittedly, I had an easier time of it due to moderate experience programming and using Linux as part of my undergraduate coursework. Programming experience is not required, but it helps a lot. To use Ubuntu, you certainly need to be ready to learn, but you don't have to give up Windows. Ultimately, I did notice an improvement with my large rockets in Kerbal, but my computer still struggled to keep up with my larger rockets.</p>
+
+<p>The next step I tried was to upgrade my graphics card. The computer I was using was an HP model with a value-class graphics card, ATI Radeon HD5450. It worked OK, but higher graphics settings on most games would slow things down. I upgraded to a Nvidia GeForce GTX 660, made by Asus. Installation was easy, just a matter of unplugging, gently pulling out the old one and inserting the new one, and re-plugging. This allowed me to run my graphics settings way up high. It looked good, but large rockets still slowed down my computer.</p>
+
+<p>After a little more digging and conversations on the Kerbal forums, I found that simulating all those parts was done by the central processor (CPU). A brief look at the options available for upgrading the CPU told me it was time to look into upgrading my whole system. I browsed options for pre-built systems from the major desktop manufacturers, but nothing I found at a reasonable price convinced me that it be an all-around good purchase. It was time to build a computer for myself.</p>
+
+<h2>This post is for you</h2>
+<p>I put in a huge amount of time researching how each component works, what sets the brands apart, how to decide what parts to get, and what a reasonable price would be for each piece. Now, I have compiled all of my research into a single post, for your benefit. If you are in the market for a new computer, or your current one needs upgrading, please check out <a href="http://guides.moosh.run/2017/03/build-your-own-computer.html" target="_blank">my handy guide for building your own computer.</a></p>
+
+<p>Climbing the learning curve on Ubuntu helped me take ownership of my system and learn how to make things work. These went a long way toward working up the confidence to tell myself "I can figure this out." Experience with Ubuntu also encouraged me to take the plunge and install <i>only </i>Ubuntu on my new computer, and not Windows. Ubuntu is free, so this cut costs a little bit. If you're going to install Ubuntu, I recommend trying to get some experience with it first, alongside your existing operating system like I did.</p>
+
+<h2>Worth the effort</h2>
+<p>Building my own computer was a great experience. I'm a lot more connected to the pieces inside the box, I know much better what each one is doing, and now I have a stellar system. I can build my rockets as big as I like, but then I run into other problems:</p>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://imgur.com/gallery/xhCkr2d" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://i.imgur.com/xhCkr2d.gif" height="404" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Source: imgur user imnapster</td></tr>
+</tbody></table>
+<p>They're much more fun problems to have.</p>
