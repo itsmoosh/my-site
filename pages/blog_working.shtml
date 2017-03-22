@@ -7,6 +7,7 @@
 		<base href="http://students.washington.edu/mjstyczi/" />	
 		<link rel="shortcut icon" href="logos/vectoricon.ico" />
 		<link rel="stylesheet" href="supporting/styles.css" />
+		<link rel="stylesheet" href="supporting/blog-styles.css" />
 		<script src="supporting/scripts.js"></script>
 			
 		<meta name="description" content="Personal web page for Marshall Styczinski: blog" />
@@ -30,10 +31,14 @@
 				</strong></p>
 			</noscript>
 			
+			<!--#include virtual="/mjstyczi/supporting/recent-blog.shtml" -->	
+			
+			<!--#include virtual="/mjstyczi/supporting/visit-blog.shtml" -->	
+		
 		</div>
 		
-		<script>
-			getBlog();
+		<script>			
+			//window.onload = getBlog();
 		</script>
 		
 		<hr style="max-width:1024px;" />

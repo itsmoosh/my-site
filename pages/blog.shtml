@@ -1,12 +1,13 @@
 <!doctype html>
 <html lang="en-us">
-<!-- It's a window into another world. After I decided to iframe my Blogger page, I was tickled when I noticed the title of the template I had selected on Blogger. It's called "picture window". The background picture is one I took near Goldmyer Hot Springs. -->
+<!-- It's a window into another world. -->
 
 	<head>
 		<title>Marshall Styczinski</title>
 		<base href="http://students.washington.edu/mjstyczi/" />	
 		<link rel="shortcut icon" href="logos/vectoricon.ico" />
 		<link rel="stylesheet" href="supporting/styles.css" />
+		<link rel="stylesheet" href="supporting/blog-styles.css" />
 		<script src="supporting/scripts.js"></script>
 			
 		<meta name="description" content="Personal web page for Marshall Styczinski: blog" />
@@ -23,15 +24,22 @@
 		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->		
 			
 		<div id="maincontent" class="main">
+			<noscript>
+				<p><strong>
+					Javascript is disabled for your browser. To get the full experience from this website, please enable Javascript.
+					Visit my blog at <a href="http://blog.moosh.run/">http://blog.moosh.run/</a>.
+				</strong></p>
+			</noscript>
 			
-			<iframe src="http://blog.moosh.run/">
-				<p>
-					Your browser does not support iframes. Please visit my blog at 
-					 <a href="http://blog.moosh.run/">http://blog.moosh.run/</a> .
-				</p>
-			</iframe>
+			<!--#include virtual="/mjstyczi/supporting/recent-blog.shtml" -->	
 			
+			<!--#include virtual="/mjstyczi/supporting/visit-blog.shtml" -->	
+		
 		</div>
+		
+		<script>			
+			//window.onload = getBlog();
+		</script>
 		
 		<hr style="max-width:1024px;" />
 	</div>

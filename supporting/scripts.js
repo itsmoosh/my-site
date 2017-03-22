@@ -3,12 +3,15 @@
 /*	Welcome to my lair.	*/
 
 
-/*	Pulls the most recent post from my personal blog to display on the blog page.	*/
+/*	Pulls the most recent post from my personal blog to display on the blog page. Expects blog post to be read in via iframe to the current page.
+Inputs:	none
+Returns: none	*/
 function getBlog() {
-	var blogURL = "http://blog.moosh.run/";
+	var blogRecent = document.getElementById('blogPost').contentWindow.document.getElementsByClassName('date-outer')[0];
 	
-	
+	//document.getElementById('maincontent').innerHTML = blogRecent;
 };
+
 
 /*	Transforms URL to page name (filename without extension, or Home).
 Inputs: pageURL (string) expects output of window.location.pathname
@@ -17,9 +20,9 @@ function getPage(pageURL) {
 	var pageFile = pageURL.split('/').pop();	// takes the string consisting of everything after the final / character from current URL
 	var selfName = pageFile.split('.').shift();	// takes everything in the page's filename that precedes the extension (typically .shtml)
 	
-	if( selfName === null || (selfName === '' || selfName === 'index') ){	// checks for if the current page is the home page
-		if( ~pageURL.indexOf('pages') )	{ selfName = "sitemap"; }	// site map page and home page are both 'index.shtml' pages, but site map is in pages/ folder
-		else{ selfName = "home"; }
+	if( selfName === null || (selfName === '' || selfName === 'index') ){	// checks for if the current page is a 'index.shtml' page
+		if( ~pageURL.indexOf('pages') )	{ selfName = "sitemap"; }	// true if 'pages' is found in the pageURL string 
+		else{ selfName = "home"; }	// site map page and home page are both 'index.shtml' pages, but site map is in pages/ folder
 	}
 	
 	return selfName;
