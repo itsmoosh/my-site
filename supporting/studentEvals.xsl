@@ -39,6 +39,9 @@
 							<xsl:when test="@crs = 'tut'">
 								<span>tutorial</span>
 							</xsl:when>
+							<xsl:when test="@crs = 'dl'">
+								<span>discussion-lab</span>
+							</xsl:when>
 							<xsl:otherwise>
 								<span>laboratory</span>
 							</xsl:otherwise>

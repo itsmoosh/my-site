@@ -1,23 +1,27 @@
 <h2>Current teaching assignments</h2>
 	<table id="assignment">
-		<caption>Quarter: Winter 2017</caption>
+		<caption>Quarter: Spring 2017</caption>
 		<tr>
 			<th>Course</th>
 			<th>Allotment</th>
 			<th>Notes</th>
 		</tr>
-		<tr>
+		<!--<tr>
 			<td><a href="https://canvas.uw.edu/courses/1097188">ASTR 150 discussion</a></td>	
 			<td>2 in-class sections<br><a href="documents/astr150_syllabus.pdf">Click for TA syllabus</a></td>
 			<td>First time teaching ASTR 150!</td>
-		</tr>
-
-		<!--<tr>
+		</tr>-->
+		<tr>
 			<td><a href="http://depts.washington.edu/uwphyttl/">122 Tutorials</a></td>
-			<td><a href="http://depts.washington.edu/uwphyttl/CurrentSchedules/122_tut_sched.pdf">3 in-class sections</a></td>
+			<td><a href="http://depts.washington.edu/uwphyttl/CurrentSchedules/122_tut_sched.pdf">4 in-class sections</a></td>
 			<td>Head TA</td>
 		</tr>
 		<tr>
+			<td><a href="http://courses.washington.edu/phys432/">432 Senior Labs</a></td>
+			<td><a href="http://courses.washington.edu/phys432/TAinfo.php">1 in-class section</a></td>
+			<td>First time teaching!</td>
+		</tr>
+		<!--<tr>
 			<td><a href="http://courses.washington.edu/phys122z/">122 Laboratory</a></td>
 			<td><a href="http://courses.washington.edu/phys122z/TAinfo.php">1 in-class section</a></td>
 			<td>Head TA</td>
@@ -27,16 +31,16 @@
 			<td><a href="http://depts.washington.edu/uwphyttl/tiap/EM/321/">2 in-class sections</a></td>
 			<td> </td>
 		</tr>-->
-		<!--<tr>
-			<td><a href="https://sharepoint.washington.edu/phys/ugrad/1xx/Pages/Study-Center.aspx">Study Center</a></td>
-			<td>Mon 12:30p &ndash; 1:30p</td>
-			<td>Physics Study Center, room AM018</td>
-		</tr>-->
 		<tr>
+			<td><a href="https://sharepoint.washington.edu/phys/ugrad/1xx/Pages/Study-Center.aspx">Study Center</a></td>
+			<td>TBD</td>
+			<td>Physics Study Center, room AM018</td>
+		</tr>
+		<!--<tr>
 			<td>Office Hours</td>
 			<td>T 11:30a&ndash;12:30p,<br>W 1:30p&ndash;2:30p</td>
 			<td><a href="images/PAT_map.png">Physics/Astronomy Tower, room C221</a></td>
-		</tr>
+		</tr>-->
 	</table>
 	<p>
 		<!--Note: for accessibility to students, Marshall will have office hours at the times listed above, since he has
