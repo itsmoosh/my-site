@@ -31,16 +31,16 @@
 			<td><a href="http://depts.washington.edu/uwphyttl/tiap/EM/321/">2 in-class sections</a></td>
 			<td> </td>
 		</tr>-->
-		<tr>
+		<!--<tr>
 			<td><a href="https://sharepoint.washington.edu/phys/ugrad/1xx/Pages/Study-Center.aspx">Study Center</a></td>
 			<td>TBD</td>
 			<td>Physics Study Center, room AM018</td>
-		</tr>
-		<!--<tr>
-			<td>Office Hours</td>
-			<td>T 11:30a&ndash;12:30p,<br>W 1:30p&ndash;2:30p</td>
-			<td><a href="images/PAT_map.png">Physics/Astronomy Tower, room C221</a></td>
 		</tr>-->
+		<tr>
+			<td>Office Hours</td>
+			<td>By appointment</td>
+			<td><a href="images/PAT_map.png">Physics/Astronomy Tower, room C221</a></td>
+		</tr>
 	</table>
 	<p>
 		<!--Note: for accessibility to students, Marshall will have office hours at the times listed above, since he has
