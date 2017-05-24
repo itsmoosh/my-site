@@ -12,6 +12,24 @@
 ]>
 
 <studentEvals>
+	<excerpt qtr="171" crs="dl" typ="online">
+		<question>
+			What suggestions do you have for improving the class?
+		</question>
+		<response>
+			NONE. Marshall, you're great. I enjoyed having you as a TA very much. You were very clear about assignments and your expectations. You also did an excellent job explaining concepts and things talked about in class. It was evident to me that you really cared about what you were doing, and about your students and whether they learned. You're also very friendly and approachable. Once again, I enjoyed having you as my TA for Astro 150, and I thank you for the awesome quarter!
+		</response>
+	</excerpt>		
+	
+	<excerpt qtr="171" crs="dl" typ="online">
+		<question>
+			What aspects of this class contributed most to your learning?
+		</question>
+		<response>
+			The TA was great! He is very helpful and caring. Its apparent how much he knows about physics and astronomy, which is nice because I know that what he says is very reliable. He cares about his students and whether they learn, and he is very helpful.
+		</response>
+	</excerpt>	
+	
 	<excerpt qtr="163" crs="tut" typ="online">
 		<question>
 			Was this class intellectually stimulating? Did it stretch your thinking? Why or why not?
