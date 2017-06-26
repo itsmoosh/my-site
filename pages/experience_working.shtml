@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en-us">
+<!-- Does Kerbal Space Program count as mission planning experience? -->
+
+	<head>
+		<title>Marshall Styczinski</title>
+		<base href="http://students.washington.edu/mjstyczi/" />	
+		<link rel="shortcut icon" href="logos/vectoricon.ico" />
+		<link rel="stylesheet" href="supporting/styles.css" />
+		<script src="supporting/scripts.js"></script>
+			
+		<meta name="description" content="Personal web page for Marshall Styczinski: experience and qualifications" />
+		<meta name="author" content="Marshall Styczinski" />
+		<meta charset="UTF-8" />
+	</head>
+
+	<body>
+	
+	<!--#include virtual="/mjstyczi/supporting/header.shtml" -->
+	
+	<div class="overall">	
+		
+		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->		
+			
+		<div id="maincontent" class="main">
+
+			<noscript>
+				<p><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the full experience from this website.</strong></p>
+			</noscript>		
+
+			<p>
+				<strong>Note:</strong> This is a narrative version of the sources of my skills and interests. If you&apos;d like just the key points, <a href="documents/Styczinski_CV.pdf">please see my Curriculum Vitae, linked here</a>. <!--#config timefmt="%D" -->Last updated <!--#flastmod virtual="/mjstyczi/documents/Styczinski_CV.pdf" -->. For more details about any item, please contact me at the email address listed at the bottom of this page.
+			</p>
+
+			<h2 id="exp_intro">Who <em>doesn&apos;t</em> want to become an astronaut?</h2>
+			<p>
+				Like most kids, I had lofty goals for my future profession. I wanted nothing less than to become an astronaut and orbit the Earth. While my ultimate path has been a little more grounded, I've never strayed far from the stars.
+			</p>
+			<p>
+				Just as I was beginning to figure out who I was as a child, my grandparents gifted a telescope to my family. We lived in a rural community in the Sierra Nevada mountains, where the skies were often clear and the stars were bright. Our telescope saw a lot of use, especially looking at the planets. My favorites were Jupiter and Saturn, and with the young internet, those giant orbs in the sky captivated my young imagination like nothing else.
+			</p>
+			<p>
+				As I grew older, and pictures from Hubble became more commonplace, astronomy and earth science nestled their way deep into my heart. I dreamt of launching rockets, piloting spacecraft to the planets. My father, a mechanic, shared what he knew about how rockets and aircraft work. But he could only tell me so much, and left me intrigued and fascinated and wanting to know more. I took every science class I could manage.
+			</p>
+			
+			<h2 id="talents">Developing talents</h2>
+			<p>
+				In high school physics, I recognized a talent for helping others learn. The material came easily, partly because I learn better from lectures than most do, partly because I really wanted to help my peers, and partly because I shared a common wavelength with Mr. Womack, the physics/programming/advanced math teacher at my school. Helping others learn cemented my love of physics and planted the seeds for some graduate research in physics education.
+			</p>
+			<p>
+				Ultimately, I decided to major in physics at the University of California, Davis. Before I started my university education, my father helped me to get a brief summer job as an assistant mechanic, working under him. It quickly became apparent that I had a knack for disassembly and repair, which has continued on as something of a hobby. A love of machining and metallic arts and crafts has followed along--see my <a href="pages/personal.shtml">&quot;Personal&quot; page for more about my hobbies.</a>
+			</p>
+			<p>
+				More than just for spare time fun, mechanical skill has also opened a few doors for me. After meeting in the classroom, I began working with Professor Chuck Fadley at Lawrence Berkeley National Laboratory and in his Davis laboratory. At first, most of my time was spent studying one of the primary techniques his group uses, X-ray Photoemission Spectroscopy (XPS). In this technique, materials are examined by shining bright sources of X-rays on them, liberating electrons through the photoelectric effect. The emitted electrons are analyzed to determine chemical properties of the material. Electrons don't get very far in air before colliding with an air molecule, so these experiments must take place in an ultra-high vacuum environment.
+			</p>
+			<p>
+				In finding a project to suit my skills, I settled on restoring and repairing a dormant spectrometer. Many long hours spent volunteering in the lab paid off when the system chugged to life for the first time in a decade. Along the way, I learned a great deal about vacuum systems, cryogens, and X-ray physics, which I detailed in <a target="_blank" href="documents/Styczinski_UG_thesis.pdf">a senior thesis about the project</a>. For the project and thesis I was awarded the &quot;with Highest Honors&quot; distinction along with my Bachelor of Science degree in Physics.
+			</p>
+
+			<h2 id="marines">Different directions</h2>
+			<p>
+				Deciding what to do after graduating from a university is a daunting challenge. Initally, I had supposed that graduate school and working toward a Ph.D. was the next logical step if I was to continue with basic physics research. Many undergraduate students think this way, in alrge part because we are taught by professors who have followed a similar route to their positions. When I came to recognize that grad. school was not for everyone, I concerned that perhaps it was not for me, either. Since most physics departments do not research planetary science, I didn&qpos;t have a specialization I felt convicted about. I also didn&apos;t realize I was eligible to apply to graduate programs outside of physics. To solve the dilemma, I made a drastic pivot to join the Marine Corps.
+			<p>
+				Officer programs in the U.S. military require a bachelor's degree and a long-term commitment. However, . Reflecting back on it now, deep down I saw a career flying planes for the Marines as a long-shot route towards becoming an astronaut. It appealed to my love of .
+			</p>
+			<p>
+				Program impacted so found work in a couple labs in Davis while I waited
+			</p>
+			<p>
+				Repaired indium evaporation setup and was liked, got sent to France to work on Double Chooz experiment
+			</p>
+			<p>
+				Helped Pellett finish magnet irradiation experiment 
+			</p>
+			<p>
+				Made sonic bubble detection mock-up of LUX
+			</p>
+			<p>
+				Ultimately decided not to go into the Marines, decided to work towards a PhD with Nichole
+			</p>
+
+			<h2 id="grad">The path to a PhD</h2>
+			<p>
+				We chose UW for breadth of research and ease of working with faculty in other depts, which turned out to be very important for me
+			</p>
+			<p>
+				Got into PER and enjoyed it
+			</p>
+			<p>
+				Learned about astrobiology, here's where I really belonged. Loved teaching but PER didnt grip me in quite the same way as the study of life in the universe.
+			</p>
+			<p>
+				And now Ive come full circle and returned to my roots, with my head among the stars, studying Europa, moon of Jupiter. I could still become an astronaut some day!
+			</p>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%          OUTLINE        %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+				Intro: Set the scene for complicating action. Growing up with my head in the clouds/stars
+				Complicating action: Aiming for the Marine Corps?
+				Development: The different areas where I've landed and worked, ultimately deciding to get a PhD.
+				Resolution with open door: Getting into current research?
+
+      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        OLD OLD OLD      %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+
+			<h2 id="exp">Experience</h2>
+			<p>			
+				Marshall has a wide range of laboratory, classroom, and collaborative experience. A brief formal summary may be found in his <a href="documents/Styczinski_CV.pdf">Curriculum Vitae, linked here</a>. <!--#config timefmt="%D" -->Last updated <!--#flastmod virtual="/mjstyczi/documents/Styczinski_CV.pdf" -->. For more details about any item, please contact Marshall at the email address listed at the bottom of this page.
+			</p>
+			<p>
+				Ever since beginning his physics education in high school, Marshall has excelled at helping others learn physics. At first, he helped peers to share in the same insights, and over time he has honed his skills in tutoring and teaching with time spent engaged in and studying the teaching of physics. While &quot;there is no substitute for experience,&quot; as the saying goes, Marshall has also supplemented his techniques and practices by studying best practices recommendations in the Physics Education Research (PER) literature and books on the teaching of physics. A primary source for reflection and guidance in this has been Arnold Arons's <em>Teaching Introductory Physics.</em> 
+			</p>
+			<p>
+				Marshall's undergraduate studies at the University of California, Davis (UCD) included a wide variety of curricular and extra-curricular engagements. He offered several hours weekly as a volunteer tutor for introductory physics students, with the student-run Physics Club at UCD's drop-in tutoring program. Employment as a course administrator for the algebra-based physics series at UCD led to Marshall's proficiency with FileMaker database software; his facility with this software has only improved as a result of continuing to use along with his graduate research.
+			</p>
+			<p>
+				For nearly every term as a graduate student at the University of Washington (UW), Marshall has held a teaching assistantship (TA).  Depending on assignment, this usually involves 10-15 hours per week of scheduled in-class time, spent in a teaching role in a classroom or tutoring in the Physics Study Center on campus. Marshall always encourages students to schedule to meet with him or email questions whenever they have cause. Research, self-reflection, student evaluations, and a huge and growing amount of tutoring and teaching experience have helped shape Marshall into a very responsive, insightful, and effective educator who excels at enhancing students' learning of physics. 
+			</p>
+			<p>			
+				While an undergraduate, Marshall restored a complex angle-resolved X-ray photoelectron spectroscopy (ARXPS) system in an ultra-high vacuum chamber to prime operating condition. Deteriorating condition and accidental damage from experimental mistakes had led to the system's dormancy for a decade prior to the restoration project. Upon recommendation for his performance and thorough <a target="_blank" href="documents/Styczinski_UG_thesis.pdf">documentation of this project in an honors thesis,</a> Marshall was awarded the &quot;with Highest Honors&quot; distinction for his B.S. in Physics. 
+			</p>
+			<div class="portrait" style="width:553px; height:581px;">
+				<a href="images/copper_shield.jpg"><img src="images/copper_shield.jpg" class="portrait" style="width:553px; height:581px;" title="A copper shield for protecting a cold space from radiated heat." alt="A shiny copper cylinder sitting on a table, surrounded by tools." /></a>
+			</div>
+			<p>
+				Thanks to reputation earned with specialists working in labs at UC Davis, Marshall was recommended for a paid position as a technician in a different lab. The primary goal of this short-term position was to repair another damaged experimental system operating in high vacuum, but the appointment was extended several times, each time for brief involvement in a different experiment. After successfully restoring that system (an evaporative deposition chamber for indium), Marshall was invited to assist in the delicate construction of one of the Double Chooz neutrino detectors at a nuclear facility in France. Once that work was completed, he was asked to design, build, and carry out a proof-of-concept experiment for assisting the Large Underground Xenon (LUX) direct dark matter detection experiment. Marshall was challenged to sonically track gas bubbles created by controlled heating in a calm liquid nitrogen bath which mimicked the dimensions of the LUX detector.
+			</p>			
+			<p>
+				Following all of these projects, Marshall was offered yet another appointment as a technician, assisting in the final phase of an NSF-funded experiment studying time-resolved radiation damage of permanent magnets. Through each of the experiments with which Marshall has been involved, he has gained experience with a wide variety of software, hardware, safety, and procedural elements.
+			</p>		
+			<p>
+				For a description of Marshall's current research activity, <a href="pages/research.shtml">visit the research page.</a>
+			</p>
+		
+			<h2 id="qual">Professional Qualifications</h2>			
+			<p>			
+				Marshall is proud to host a strong set of technical, communicative, and analytic skills. He has developed these skills through extensive classroom teaching and tutoring experience, personal projects, undergraduate and graduate research, employment, and coursework. Details of Marshall's experience <a href="pages/experience.shtml#exp">may be found below</a>.
+			</p>
+			<h3 id="tech">Technical Skills</h3>
+			<p>
+				With a large body of experience using graphic design, data processing, document preparation software, and many programming languages, Marshall has a well-rounded technical r&eacute;sum&egrave;. His always-growing expertise with the software and languages he uses supports <a href="pages/research.shtml">his research</a> and personal projects, including this website. He also has extensive experience with all major operating systems, including command-line interfaces in Windows, Mac OSX, Ubuntu, and Scientific Linux.
+			</p>
+			<p>
+				Adobe Illustrator is the primary graphic design program used by <a href="http://depts.washington.edu/uwpeg/">the Physics Education Group at the University of Washington (UWPEG)</a> to create figures for printed and online curricular materials. In the course of his past research with UWPEG, Marshall created and refined thousands of carefully-crafted figures for educational works, occasionally involving GIMP for advanced image processing as needed. FileMaker, Origin, and MS Excel have each seen extended use for data processing in Marshall's varied research projects. With MS Word, Vi, and LaTeX, Marshall has constructed hundreds of documents--curricular materials, written coursework, research papers, memoranda for collaborators, personal documents, and more. 
+			</p>
+			<div class="portrait" style="width:625px; height:342px;">
+				<a href="http://www.glowscript.org/#/user/Mesons/folder/ColorPalettes/program/StandardColors"><img src="images/color_palettes.png" class="portrait" style="width:625px; height:342px;" title="A 4-color palette amenable to colorblind users that Marshall developed for use in interactive simulations. Click for more palettes." alt="4 vibrantly colored, highly contrasting boxes with multiple color definitions. The page is headed with Colorblind-Friendly Palettes." /></a>
+			</div>
+			<p>
+				Marshall's programming expertise is both broad and deep. He has worked extensively with C++, Fortran, JavaScript, Python, LabVIEW, and HTML. He has also involved smaller projects utilizing ROOT, C, BASH, Mathematica, jQuery, Assembly, GlowScript, and XML in his coursework, research, employment, and personal time. The wide variety of programming experience Marshall has developed enables him to learn new languages quickly and with ease.
+			</p> 
+			<p>
+				To track changes to curricular materials, UWPEG uses Apache Subversion and Trac issue ticketing; Marshall is now well-versed with both. Recreationally, he has also used Redmine bug tracking software as a volunteer tester for the video games <a href="https://kerbalspaceprogram.com/">Kerbal Space Program</a> and <a href="https://openmw.org/">the OpenMW project</a>. The linux computer Marshall uses to play-test these programs he personally built from component parts. 
+			</p>
+			<p>				 
+				Marshall has also engaged in several hardware projects in a laboratory setting. His background and training includes cryogens; radioactive materials and environments; high- and ultra-high-vacuum systems; oxygen-free environments; experiment design, fabrication and machining, software development, and documentation; and of course, operation, data collection, and analysis. Each experiment has intersected multiple categories. For more information about Marshall's lab experience, see <a href="pages/experience.shtml#exp">the experience section below</a>.
+			</p>
+			
+			<h3>Personal Skills</h2>
+			<p>			
+				Being an effective collaborator, educator, or scientist requires effective communication. Understanding is not delivered by the speaker, so perceptive listening is at least as important as concise speaking. Marshall always pays careful attention to his audience when speaking and even more careful attention when listening, especially when students describe their reasoning. This practice permits <dfn>formative assessment</dfn> during class time, monitoring and guiding student progress through direct in-class discussion. Further aiding classroom efficacy, Marshall is an expert in Socratic dialogue, the art and science of teaching by asking questions.
+			</p>
+			<div class="portrait" style="width:536px; height:365px;">
+				<a href="images/town_hall.jpg"><img src="images/town_hall.jpg" class="portrait" style="width:536px; height:365px;" title="Marshall presents an introduction to his field of research at Town Hall theater" alt="Marshall stands behind a podium with a spotlight trained on him." /></a>
+			</div>
+			<p>
+				Half of science is communicating the results of your experiments. The audience for your results may be other scientists, the public, political leaders, or a more specific population. Marshall is proud to be a member of the board of directors for the <a href="http://engage-science.com">Engage science program,</a> which holds a class at UW each year to help graduate students learn practical skills for communicating their science. Most graduate students have never had formal instruction in communication, so this class provides an excellent opportunity to learn these critical skills. The class culminates in a formal public presentation at Town Hall theater in Seattle. <a href="pages/research.shtml#town_hall">A video of Marshall's Town Hall presentation is available on the Research page.</a> 
+			</p>
+			<p>
+				All scientific research requires well-developed analytical skills. Over the course of Marshall's previous laboratory and practical experience, extensive coursework both in physics and other sciences, current research in physics education, and hobby programming, his logic and reasoning abilities have been honed sharper and sharper. These skills are incredibly useful for extending existing knowledge and approaching new problems in research, the classroom, and daily life.
+			</p>	
+			
+		</div>
+		
+		<hr style="max-width:1024px;" />
+	</div>
+	<div class="footer">
+		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
+	</div>
+	</body>
+</html>
