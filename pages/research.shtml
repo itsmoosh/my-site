@@ -49,17 +49,18 @@
 			</p>
 
 			<h2>Physics Education Research</h2>
-			<div class="logosq" id="peg_logo">
-			<a href="http://depts.washington.edu/uwpeg/" target="_blank"><img src="logos/PEG_wheel.png" class="logosq" style="width:265px; height:265px;" title="University of Washington Physics Education Group logo" alt="A circular logo for UW PEG, with research, instruction, and curriculum written around the edge, implying cyclic interaction." /></a>
-			<p>
-				For several years, my graduate research focused on physics education. As a member of the renowned <a href="http://depts.washington.edu/uwpeg/" target="_blank">Physics Education Group at the University of Washington (UWPEG),</a> I participated heavily in the development of the <a href="http://depts.washington.edu/uwphyttl/" target="_blank"><em>Tutorials in Introductory Physics.</em></a> The <em>Tutorials</em> are a collection of homework and in-class worksheets for groups, designed to help students learn basic physics concepts. Tutorials specifically address common difficulties studied and reported in the scientific literature. All published tutorials, which are widely used in the United States and elsewhere, have been validated by further research by UWPEG to have a measurable impact on student understanding.
-			</p>
+			<div class="logosq" id="peg_logo" style="width:180px; height:180px;">
+				<a href="http://depts.washington.edu/uwpeg/" target="_blank"><img src="logos/PEG_wheel.png" class="logosq" style="width:180px; height:180px;" title="University of Washington Physics Education Group logo" alt="A circular logo for UW PEG, with research, instruction, and curriculum written around the edge, implying cyclic interaction." /></a>
 			</div>
+			<p>
+				For several years, my graduate research focused on physics education. As a member of the renowned <a href="http://depts.washington.edu/uwpeg/" target="_blank">Physics Education Group at the University of Washington (UWPEG),</a> I participated heavily in the development of the <a href="https://sharepoint.washington.edu/phys/ugrad/tutorials/12x/Pages/default.aspx" target="_blank"><em>Tutorials in Introductory Physics.</em></a> The <em>Tutorials</em> are a collection of homework and in-class worksheets for groups, designed to help students learn basic physics concepts. Tutorials specifically address common difficulties studied and reported in the scientific literature. All published tutorials, which are widely used in the United States and elsewhere, have been validated by further research by UWPEG to have a measurable impact on student understanding.
+			</p>
+			
 			<p>
 				My research with UWPEG focused on modifying existing tutorials on electromagnetism to achieve the same--or better--learning outcomes in less time. Working towards these goals, I modified and researched changes to dozens of tutorials, combined tutorials, and introduced several interactive simulations. Each adaptation was geared toward more efficient use of students' time in and out of class to learn established topics.
 			</p>
 			<div class="wrapimg" style="width:374px; height:624px;">
-			<a href="images/AAPT.jpg"><img src="images/AAPT.jpg" class="wrapimg" style="width:374px; height:624px;" title="Marshall presents his research at the American Association of Physics Teachers national conference" alt="Marshall speaking from behind a podium on stage." /></a>
+				<a href="images/AAPT.jpg"><img src="images/AAPT.jpg" class="wrapimg" style="width:374px; height:624px;" title="Marshall presents his research at the American Association of Physics Teachers national conference" alt="Marshall speaking from behind a podium on stage." /></a>
 			</div>			
 			<p>
 				Born out of my experiments combining tutorials, I focused with particular vigor on the topic of Gauss's law. This is a very abstract idea regarding electricity that most students struggle with in introductory physics. Despite its elegance as a physical law, its relevance and utility for the vast majority of students are limited. Its elegance earns a tender spot in the hearts of most physicists, which keeps Gauss's law a standard fixture in introductory physics. However, Gauss's law relies on several other fundamental ideas in the physics of electricity. My studies regarding Gauss's law have suggested the unpopular opinion that the time spent covering this very difficult topic would be better spent helping students understand the underlying ideas.

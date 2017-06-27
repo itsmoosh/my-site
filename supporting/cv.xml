@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cv.xsl"?>
+
+<!DOCTYPE cv [
+	<!ELEMENT cv (item)>
+	<!ELEMENT item (descrip, skills)>
+	<!ATTLIST item yrqtr CDATA #REQUIRED>
+	<!ATTLIST item loc CDATA #REQUIRED>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT descrip (#PCDATA)>
+	<!ELEMENT skills (#PCDATA)>
+]>
+
+<cv>
+	<item yrqtr="063" loc="Portola, California">
+		<title>
+			Assistant mechanic
+		</title>
+		<descrip>
+			A sentence describing what I did for this position and stuff.
+		</descrip>
+		<skills>
+			Skills and stuff I developed during this work.
+		</skills>
+	</item>		
+</cv>

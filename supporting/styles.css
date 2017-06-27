@@ -122,6 +122,11 @@ th {
 	display: block;
 }
 
+.cv-item {
+	font-weight: bold;
+	text-align: left;
+}
+
 #evalQ {
 	height: 2.3em;
 }
