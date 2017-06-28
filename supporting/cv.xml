@@ -14,13 +14,24 @@
 <cv>
 	<item yrqtr="063" loc="Portola, California">
 		<title>
+			
+		</title>
+		<descrip>
+			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
+	<item yrqtr="063" loc="Portola, California">
+		<title>
 			Assistant mechanic
 		</title>
 		<descrip>
-			A sentence describing what I did for this position and stuff.
+			Maintenance and repair tasks for cement mixers 
 		</descrip>
 		<skills>
-			Skills and stuff I developed during this work.
+			Basic technical skills and familiarization
 		</skills>
-	</item>		
+	</item>	
 </cv>

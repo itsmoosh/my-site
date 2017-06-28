@@ -16,7 +16,7 @@
 	<h2>Selected student comments from course evaluations</h2>
 
 		<xsl:for-each select="studentEvals/excerpt">
-			<table style="padding:15px; margin-bottom:20px; width:95%;">
+			<table class="evalTable">
 				<caption>
 					<span style="font-weight:bold;">Quarter: </span>
 						<xsl:if test="substring(@qtr,3) = '1'">
@@ -50,8 +50,8 @@
 					<span style="font-weight:bold;">Eval. type: </span><xsl:value-of select="@typ"/>
 				</caption>			
 				<tr>
-					<td style="padding:15px; background-color:#DDDDDD; width:300px;"><xsl:value-of select="question"/></td>
-					<td style="padding:15px;"><xsl:value-of select="response"/></td>
+					<td class="evalQuestion"><xsl:value-of select="question"/></td>
+					<td class="evalResponse"><xsl:value-of select="response"/></td>
 				</tr>
 			</table>
 		</xsl:for-each>

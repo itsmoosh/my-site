@@ -16,13 +16,35 @@
 	<h2>My experiences (newest first)</h2>
 
 		<xsl:for-each select="cv/item">
-			<table style="padding:15px; margin-bottom:20px; width:95%;">
-				<caption class="cv-item">
-					<xsl:value-of select="title"/>
-				</caption>			
+			<table class="cv-item">
 				<tr>
-					<td style="padding:15px; background-color:#DDDDDD;"></td>
-					<td style="padding:15px;"><xsl:value-of select="descrip"/></td>
+					<th class="cv-title">
+						<xsl:value-of select="title"/>
+					</th>
+					<th class="cv-yrloc">
+						<xsl:if test="substring(@yrqtr,3) = '1'">
+							<span>Winter </span>
+						</xsl:if>
+						<xsl:if test="substring(@yrqtr,3) = '2'">
+							<span>Spring </span>
+						</xsl:if>
+						<xsl:if test="substring(@yrqtr,3) = '3'">
+							<span>Summer </span>
+						</xsl:if>
+						<xsl:if test="substring(@yrqtr,3) = '4'">
+							<span>Autumn </span>
+						</xsl:if>
+						<span>20</span><xsl:value-of select="substring(@yrqtr,1,2)"/>, <xsl:value-of select="@loc"/>
+					</th>
+				</tr>
+				<tr>
+					<td class="cv-descrip">Description:</td>
+					<td class="cv-descrip"><xsl:value-of select="descrip"/></td>
+				</tr>
+							
+				<tr>
+					<td class="cv-skills">Skills developed:</td>
+					<td class="cv-skills"><xsl:value-of select="skills"/></td>
 				</tr>
 			</table>
 		</xsl:for-each>
