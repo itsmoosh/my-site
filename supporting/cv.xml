@@ -3,35 +3,61 @@
 
 <!DOCTYPE cv [
 	<!ELEMENT cv (item)>
-	<!ELEMENT item (descrip, skills)>
-	<!ATTLIST item yrqtr CDATA #REQUIRED>
+	<!ELEMENT item (title, inst, descrip, skills)>
+	<!ATTLIST item qtrStart CDATA #REQUIRED>
+	<!ATTLIST item qtrEnd CDATA #REQUIRED>
 	<!ATTLIST item loc CDATA #REQUIRED>
 	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT inst (#PCDATA)>
 	<!ELEMENT descrip (#PCDATA)>
 	<!ELEMENT skills (#PCDATA)>
 ]>
 
 <cv>
-	<item yrqtr="074" loc="Davis, California">
+	<item qtrStart="083" qtrEnd="103" loc="Davis, California">
 		<title>
-			
+			Reader (Physics 7)
 		</title>
+		<inst>
+			UC Davis Physics Department
+		</inst>
 		<descrip>
-			
+			First 5 months: Sample preparation and processing and data handling for IMPROVE air quality monitoring sites&lt;br/&gt;
+			Next 6 months: Designed and carried out an experiment studying the impact of denuder pre-filtration on air quality sampling data.
 		</descrip>
 		<skills>
-			
+			Use of delicate equipment e.g. mass balances; experiment design, data analysis and interpretation
+		</skills>
+	</item>	
+		
+	<item qtrStart="074" qtrEnd="083" loc="Davis, California">
+		<title>
+			Lab assistant
+		</title>
+		<inst>
+			IMPROVE Air Quality Group (Crocker Nuclear Lab)
+		</inst>
+		<descrip>
+			First 5 months: Sample preparation and processing and data handling for IMPROVE air quality monitoring sites&lt;br/&gt;
+			Next 6 months: Designed and carried out an experiment studying the impact of denuder pre-filtration on air qualirty sampling data.
+		</descrip>
+		<skills>
+			Use of delicate equipment e.g. mass balances; experiment design, data analysis and interpretation
 		</skills>
 	</item>
-	<item yrqtr="063" loc="Portola, California">
+
+	<item qtrStart="063" qtrEnd="063" loc="Portola, California">
 		<title>
 			Assistant mechanic
 		</title>
+		<inst>
+			White Cap Ready Mix
+		</inst>
 		<descrip>
 			Maintenance and repair tasks for cement mixers 
 		</descrip>
 		<skills>
-			Basic technical skills and familiarization
+			Basic technical skills, basic automotive maintenance and repair
 		</skills>
 	</item>	
 </cv>

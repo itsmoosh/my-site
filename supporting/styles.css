@@ -124,6 +124,13 @@ th {
 
 .cv-descrip {
 	padding: 10px;
+	background-color: #EEEEEE;
+}
+
+.cv-inst {
+	padding: 15px;
+	background-color: #DDDDDD;
+	font-size: larger;
 }
 
 .cv-item {
@@ -139,6 +146,7 @@ th {
 .cv-title {
 	padding: 15px;
 	background-color: #DDDDDD;
+	font-size: larger;
 }
 
 .cv-yrloc {

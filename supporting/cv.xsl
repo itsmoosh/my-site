@@ -13,29 +13,79 @@
 		<meta charset="UTF-8" />
 	</head>
 	<body style="width:1024px;">
-	<h2>My experiences (newest first)</h2>
+	<h2>My experiences</h2>
 
 		<xsl:for-each select="cv/item">
 			<table class="cv-item">
 				<tr>
 					<th class="cv-title">
-						<h3><xsl:value-of select="title"/></h3>
+						<xsl:value-of select="title"/>
 					</th>
-					<th class="cv-yrloc">
-						<xsl:if test="substring(@yrqtr,3) = '1'">
-							<span>Winter </span>
-						</xsl:if>
-						<xsl:if test="substring(@yrqtr,3) = '2'">
-							<span>Spring </span>
-						</xsl:if>
-						<xsl:if test="substring(@yrqtr,3) = '3'">
-							<span>Summer </span>
-						</xsl:if>
-						<xsl:if test="substring(@yrqtr,3) = '4'">
-							<span>Autumn </span>
-						</xsl:if>
-						<span>20</span><xsl:value-of select="substring(@yrqtr,1,2)"/>; <xsl:value-of select="@loc"/>
+					<th class="cv-inst">
+						<xsl:value-of select="inst"/>
 					</th>
+				</tr>
+				<tr>
+					<td class="cv-yrloc">When &amp;amp; where:</td>
+					<td class="cv-yrloc">
+						<xsl:choose>
+						<xsl:when test="@qtrStart = @qtrEnd">
+							<xsl:if test="substring(@qtrStart,3) = '1'">
+								<span>Winter </span>
+							</xsl:if>
+							<xsl:if test="substring(@qtrStart,3) = '2'">
+								<span>Spring </span>
+							</xsl:if>
+							<xsl:if test="substring(@qtrStart,3) = '3'">
+								<span>Summer </span>
+							</xsl:if>
+							<xsl:if test="substring(@qtrStart,3) = '4'">
+								<span>Autumn </span>
+							</xsl:if>
+
+							<span>20</span><xsl:value-of select="substring(@qtrStart,1,2)"/>
+						</xsl:when>
+						
+						<xsl:otherwise>
+							<xsl:if test="substring(@qtrStart,1,2) = substring(@qtrEnd,1,2) ">
+								<xsl:if test="substring(@qtrStart,3) = '1'">
+									<span>Winter </span>
+								</xsl:if>
+								<xsl:if test="substring(@qtrStart,3) = '2'">
+									<span>Spring </span>
+								</xsl:if>
+								<xsl:if test="substring(@qtrStart,3) = '3'">
+									<span>Summer </span>
+								</xsl:if>
+								<xsl:if test="substring(@qtrStart,3) = '4'">
+									<span>Autumn </span>
+								</xsl:if>
+								
+								<span>&amp;ndash; </span>
+
+								<xsl:if test="substring(@qtrEnd,3) = '1'">
+									<span>Winter </span>
+								</xsl:if>
+								<xsl:if test="substring(@qtrEnd,3) = '2'">
+									<span>Spring </span>
+								</xsl:if>
+								<xsl:if test="substring(@qtrEnd,3) = '3'">
+									<span>Summer </span>
+								</xsl:if>
+								<xsl:if test="substring(@qtrEnd,3) = '4'">
+									<span>Autumn </span>
+								</xsl:if>
+
+								<span>20</span><xsl:value-of select="substring(@qtrStart,1,2)"/>
+							</xsl:if>
+
+							<xsl:if test="substring(@qtrStart,1,2) != substring(@qtrEnd,1,2)">
+								<span>20</span><xsl:value-of select="substring(@qtrStart,1,2)"/><span> &amp;ndash; 20</span><xsl:value-of select="substring(@qtrEnd,1,2)"/>
+							</xsl:if>
+						</xsl:otherwise>
+						</xsl:choose>
+						<span>; </span><xsl:value-of select="@loc"/>
+					</td>
 				</tr>
 				<tr>
 					<td class="cv-descrip">Description:</td>
