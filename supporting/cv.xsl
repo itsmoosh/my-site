@@ -19,7 +19,7 @@
 			<table class="cv-item">
 				<tr>
 					<th class="cv-title">
-						<xsl:value-of select="title"/>
+						<h3><xsl:value-of select="title"/></h3>
 					</th>
 					<th class="cv-yrloc">
 						<xsl:if test="substring(@yrqtr,3) = '1'">
@@ -34,7 +34,7 @@
 						<xsl:if test="substring(@yrqtr,3) = '4'">
 							<span>Autumn </span>
 						</xsl:if>
-						<span>20</span><xsl:value-of select="substring(@yrqtr,1,2)"/>, <xsl:value-of select="@loc"/>
+						<span>20</span><xsl:value-of select="substring(@yrqtr,1,2)"/>; <xsl:value-of select="@loc"/>
 					</th>
 				</tr>
 				<tr>
