@@ -28,6 +28,21 @@
 			
 		</skills>
 	</item>
+	
+	<item qtrStart="172" qtrEnd="present" loc="Seattle, Washington">
+		<title>
+			Member, Board of Directors
+		</title>
+		<inst>
+			<a href="https://www.ess.washington.edu/people/profile.php?pid=harnett--erika">Harnett Group at U Washington</a>
+		</inst>
+		<descrip>
+			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
 
 	<item qtrStart="124" qtrEnd="present" loc="Seattle, Washington">
 		<title>
@@ -137,7 +152,7 @@
 
 	<item qtrStart="083" qtrEnd="103" loc="Davis, California">
 		<title>
-			Course&nbsp;Reader (Physics&nbsp;7)
+			Course Reader (Physics 7)
 		</title>
 		<inst>
 			<a href="http://physics.ucdavis.edu/">UC Davis Physics Department</a>
@@ -152,14 +167,14 @@
 		
 	<item qtrStart="074" qtrEnd="083" loc="Davis, California">
 		<title>
-			Lab&nbsp;Assistant
+			Lab Assistant
 		</title>
 		<inst>
 			<a href="http://airquality.crocker.ucdavis.edu/">IMPROVE Air Quality Group (Crocker Nuclear Lab)</a>
 		</inst>
 		<descrip>
-			First 5 months: Sample preparation and processing and data handling for IMPROVE air quality monitoring sites<br/>
-			Next 6 months: Designed and carried out an experiment studying the impact of denuder pre-filtration on air qualirty sampling data.
+			First 5 months: Sample preparation and processing and data handling for IMPROVE air quality monitoring sites
+			Next 6 months: Designed and carried out an experiment studying the impact of denuder pre-filtration on air quality sampling data.
 		</descrip>
 		<skills>
 			Use of delicate equipment e.g. mass balances; experiment design, data analysis and interpretation
