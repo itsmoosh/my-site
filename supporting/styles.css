@@ -147,6 +147,7 @@ th {
 	padding: 15px;
 	background-color: #DDDDDD;
 	font-size: larger;
+	min-width: 240px;
 }
 
 .cv-yrloc {

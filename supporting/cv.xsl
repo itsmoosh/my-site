@@ -26,7 +26,7 @@
 					</th>
 				</tr>
 				<tr>
-					<td class="cv-yrloc">When &amp;amp; where:</td>
+					<td class="cv-yrloc">When &amp; where:</td>
 					<td class="cv-yrloc">
 						<xsl:choose>
 						<xsl:when test="@qtrStart = @qtrEnd">
@@ -61,7 +61,7 @@
 									<span>Autumn </span>
 								</xsl:if>
 								
-								<span>&amp;ndash; </span>
+								<span>&ndash; </span>
 
 								<xsl:if test="substring(@qtrEnd,3) = '1'">
 									<span>Winter </span>
@@ -80,7 +80,15 @@
 							</xsl:if>
 
 							<xsl:if test="substring(@qtrStart,1,2) != substring(@qtrEnd,1,2)">
-								<span>20</span><xsl:value-of select="substring(@qtrStart,1,2)"/><span> &amp;ndash; 20</span><xsl:value-of select="substring(@qtrEnd,1,2)"/>
+								<span>20</span><xsl:value-of select="substring(@qtrStart,1,2)"/><span> &ndash; 20</span>
+								<xsl:choose>
+								<xsl:when test="string(number(substring(@qtrEnd,1,2))) = 'NaN'">
+									<xsl:value-of select="substring(@qtrEnd,1,2)"/>
+								</xsl:when>
+								<xsl:otherwise>
+									<xsl:value-of select="@qtrEnd"/>
+								</xsl:otherwise>
+								</xsl:choose>
 							</xsl:if>
 						</xsl:otherwise>
 						</xsl:choose>
