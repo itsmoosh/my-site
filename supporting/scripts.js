@@ -86,6 +86,14 @@ function newEval() {
 	document.getElementById('evalR').innerHTML = currR;
 };
 
+/*	Expands an iframe to fit the page, to remove the annoying scroll bars that plague the default size.
+Inputs:	iframeID, the element ID of the iframe to be resized
+Returns:	none	*/
+function removeScroll(iframeID) {
+	iframeID.width  = iframeID.contentWindow.document.body.scrollWidth;
+    iframeID.height = iframeID.contentWindow.document.body.scrollHeight;
+};
+
 
 /*	Rewrites navigation link for the current page to be highlighted, non-clickable text.
 Inputs:	none
