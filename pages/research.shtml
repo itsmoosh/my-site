@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en-us">
+<!-- Go, Europa! I choose you! -->
 
 	<head>
 		<title>Marshall Styczinski</title>
@@ -22,113 +23,55 @@
 		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->		
 			
 		<div id="maincontent" class="main">
-			<h2>Physics Education Research</h2>
+			<h2>Astrobiology</h2>
 			<p>
-				Marshall's area of specialization is in physics education research (PER).
-				 PER is an example of <dfn>discipline-based education research,</dfn> in that
-				 it is generally conducted by researchers in a physics department, most often
-				 with formal academic training in physics. Physics education researchers are 
-				 uniquely well-suited to study the teaching and learning of physics because
-				 they are intimately well-acquainted with the subject matter, and they are 
-				 scientists first and foremost.
-			</p>
+				No signs of life from outside the Earth have ever been detected. The conditions for life had to be right for life to originate or be transplanted to Earth, billions of years ago, because we are here now. Those same life-starting conditions may exist on other bodies in our solar system, or they may have existed in the past. So where are all the aliens?
+			</p>			
 			<p>
-				As the name suggests, <em>physics</em> education research is primarily 
-				 concerned with improving the teaching and learning of physics. Learning
-				 is very complicated, so there are many sub-fields and specializations under the 
-				 blanket of PER. As with all science, theoretical modeling and experimental
-				 data collection are involved and are rarely independent. Most groups have
-				 a primary thematic focus, like one or more of these examples:
+				The best explanation we have so far is that the surfaces of the planets and moons of our solar system are hostile to life. This could be due to intense cold, intense heat, lack of available water, powerful radiation from space, or other reasons. A hostile surface doesn't mean the entire planet is off-limits to life, however--many moons in the outer solar system are covered in thick shells of ice. Beneath their icy surfaces, we might find warmer conditions, where the ice is kept melted by undersea volcanos.
 			</p>
-			<ul>
-				<li>K-12 teacher training and scientific literacy</li>
-				<li>Progression of development from novice-like to expert-like reasoning</li>
-				<li>Instructional practice and classroom structure</li>
-				<li>Student attitudes toward physics or science</li>
-			</ul>
-			<iframe class="portrait" id="town_hall" style="width:784px; height:441px;" src="https://www.youtube.com/embed/SmGC3uRvmig?start=69" frameborder="0" allowfullscreen></iframe>			
 			<p>	
-				In Spring 2016, Marshall was proud to present an introduction to PER and his research
-				 at Town Hall theater in Seattle as part of the
-				 <a href="https://townhallseattle.org/event_category/uw-science-now/">UW Science now speaker series.</a>
-				 These presentations are meant for everyone, regardless of experience and background.
-				 Marshall's presentation, &quot;Making physics more accessible&quot;, is available
-				 below. Have a watch! 
+				The difficult choice of where to devote my time as a scientist is motivated by the igniting spark of astrobiology, the study of where in the universe life may be found and where it is going. Astrobiology is the key to scientific study of the greatest of all philosophical questions: How did we get here? What will happen to the Earth in a million years? a billion? Are we alone? 
 			</p>
-			<div class="logosq" id="peg_logo">
-				<a href="http://depts.washington.edu/uwpeg/" target="_blank"><img src="logos/PEG_wheel.png" class="logosq" style="width:265px; height:265px;" title="University of Washington Physics Education Group logo" alt="A circular logo for UW PEG, with research, instruction, and curriculum written around the edge, implying cyclic interaction." /></a>
+
+			<h2>Space Physics</h2>
+			<p>
+				Icy moons are excellent places to look for signs of life, or environments where life as we know it could thrive. Interactions between moons keep them fed with heat to melt the ice. All life on Earth requires water to survive, so warm, protected oceans are promising rocks to overturn in the search for life. That's why I study them.
+			</p>
+			<p>
+				More specifically, I study electromagnetic properties of icy moons. The outer solar system is dominated by the gas giants, and icy moons all orbit the gas giants. All gas giants have strong magnetic fields. Melted ice on these moons tends to form salty oceans under the surface. The salt dissolved in water behaves as a conductor, and movement through the parent gas giant's magnetic field induces currents in the salty water through Faraday's law of induction. Spacecraft missions to the outer solar system have sent back measurements confirming induced magnetic fields from several icy moons. Perhaps the most exciting of all these discoveries is the salty ocean of Europa.
+			</p>
+			<p>
+				Europa may hold the most potential for life of any body in the solar system, aside from the Earth of course. It's comparable to Earth's moon in size, and its density suggests that the salty ocean under Europa's ice shell is in contact with a rocky interior. This could provide a source of nutrients and energy that life needs to grow and thrive. The electromagnetic induction of Europa and other icy moons is very helpful for researchers, as it provides a way to probe the interior from space around the moons--magnetic fields act over large distances.
+			</p>
+			<p>
+				At once a blessing and a curse, the magnetic fields around icy moons are complex. Their complexity is owed not only to the field induced from the salty ocean, but also to fields generated by plasmas in the surrounding space environment. Understanding and carefully modeling the plasma environment is crucial to making measurements of the magnetic induction from the salty subsurface oceans. That's where I come in. I model the plasma environment and magnetic induction of icy moons to extract information about their salty subsurface oceans. There's still a lot we can learn from the Galileo mission, which sent back data from Europa around the year 2000. Analysis from upcoming missions, like the Europa Clipper mission, promises to deepen our understanding and raise further questions.
+			</p>
+
+			<h2>Physics Education Research</h2>
+			<div class="logosq" id="peg_logo" style="width:180px; height:180px;">
+				<a href="http://depts.washington.edu/uwpeg/" target="_blank"><img src="logos/PEG_wheel.png" class="logosq" style="width:180px; height:180px;" title="University of Washington Physics Education Group logo" alt="A circular logo for UW PEG, with research, instruction, and curriculum written around the edge, implying cyclic interaction." /></a>
 			</div>
 			<p>
-				The primary focus of the Physics Education Group at the University of Washington
-				 (UWPEG) is understanding and addressing student conceptual difficulties in physics.
-				 Student understanding is probed and researched via carefully constructed pretests
-				 and post-tests; detailed curricular materials are created to help students 
-				 recognize, assess, and build on their own model; researchers are also instructors
-				 in the class and can observe first-hand how students respond to the curricula.
-				 The process of development of curriculum, research, and instruction is rarely
-				 linear, and most often there is a complex inter-play between these three facets.
-			</p>
-			<p>
-				UWPEG has released two primary curricula based on and validated by research, 
-				 <em>Physics by Inquiry</em> and <em>Tutorials in Introductory Physics.</em>
-				 While both are still in active development, these resources are widely used in the
-				 US, with several international sites using them as well. For more information,
-				 <a href="http://depts.washington.edu/uwpeg/" target="_blank">visit the UWPEG web site.</a>
+				For several years, my graduate research focused on physics education. As a member of the renowned <a href="http://depts.washington.edu/uwpeg/" target="_blank">Physics Education Group at the University of Washington (UWPEG),</a> I participated heavily in the development of the <a href="https://sharepoint.washington.edu/phys/ugrad/tutorials/12x/Pages/default.aspx" target="_blank"><em>Tutorials in Introductory Physics.</em></a> The <em>Tutorials</em> are a collection of homework and in-class worksheets for groups, designed to help students learn basic physics concepts. Tutorials specifically address common difficulties studied and reported in the scientific literature. All published tutorials, which are widely used in the United States and elsewhere, have been validated by further research by UWPEG to have a measurable impact on student understanding.
 			</p>
 			
-			<h2>Research Focus: Doing more with less</h2>
 			<p>
-				Budgeting time is challenging. As an instructor, choices about what to cover and
-				 in how much detail are always close at hand. Much of Marshall's research is devoted
-				 to maximizing what students take away from class-related activities, especially in-class
-				 group work and homework. Getting more out of the time spent, or &quot;doing more
-				 with less,&quot; is the main goal. Occupying less time allows for other fruitful in-class
-				 activities, and everyone wants students to learn more from the time they spend.   
-			</p>
-			<p>
-				A strong research tradition precedes Marshall, and he carries it forward with pride.
-				 The <em>Tutorials in Introductory Physics</em> created by current and former members of
-				 UWPEG have seen decades of research, validation, instruction, and gradual improvement.
-				 The research literature is always growing, and there are often golden nuggets to be
-				 found therein that can help enhance the <em>Tutorials.</em> Marshall's recent work
-				 has centered on poring over tutorials from Electricity and Magnetism, aiming to condense
-				 topics to take less in-class time to cover.
+				My research with UWPEG focused on modifying existing tutorials on electromagnetism to achieve the same--or better--learning outcomes in less time. Working towards these goals, I modified and researched changes to dozens of tutorials, combined tutorials, and introduced several interactive simulations. Each adaptation was geared toward more efficient use of students' time in and out of class to learn established topics.
 			</p>
 			<div class="wrapimg" style="width:374px; height:624px;">
 				<a href="images/AAPT.jpg"><img src="images/AAPT.jpg" class="wrapimg" style="width:374px; height:624px;" title="Marshall presents his research at the American Association of Physics Teachers national conference" alt="Marshall speaking from behind a podium on stage." /></a>
 			</div>			
 			<p>
-				The <em>Tutorials</em> are not only based on research on difficult topics, they are also
-				 carefully validated. Careful studies controlling for students' experiences 
-				 demonstrate that each tutorial worksheet has an overall impact, helping many students
-				 learn the concepts better than alternatives like solving textbook problems. To maintain this
-				 research validation, every major change (like combining tutorials) is followed by another
-				 careful validation study&mdash;we want students to learn as well or better than before.
-				 Marshall is in the midst of a study re-validating several tutorials he reconfigured to
-				 take less time.  
+				Born out of my experiments combining tutorials, I focused with particular vigor on the topic of Gauss's law. This is a very abstract idea regarding electricity that most students struggle with in introductory physics. Despite its elegance as a physical law, its relevance and utility for the vast majority of students are limited. Its elegance earns a tender spot in the hearts of most physicists, which keeps Gauss's law a standard fixture in introductory physics. However, Gauss's law relies on several other fundamental ideas in the physics of electricity. My studies regarding Gauss's law have suggested the unpopular opinion that the time spent covering this very difficult topic would be better spent helping students understand the underlying ideas.
 			</p>
 			<p>
-				Supporting his work on improving time spent in-class, Marshall is beginning a project
-				 for characterizing the types of student behavior when working through tutorials in groups.
-				 Understanding how students engage with the questions and their group can be used to 
-				 guide the development of better tutorial worksheets&mdash;by ensuring students are maximizing
-				 effective behaviors like explaining their reasoning to each other, we ensure they get the
-				 most out of their time with their group and instructors.
+				Engaging in physics education research has shaped my teaching philosophy and practices in dramatic ways. For more information, <a href="pages/teaching.shtml">see my teaching page.</a>
 			</p>
-			<p>
-				On the horizon, Marshall will also be studying avenues to combine interactive simulations
-				 with student homework assignments, with the ultimate goal of improving what students
-				 learn from completing homework without spending more time than they do already. Many research
-				 studies show great potential for student learning with 
-				 <a href="https://phet.colorado.edu/" target="_blank">interactive simulations, like the PhETs.</a>
-				 Students are always under a burdensome, stressful workload, however. We can't simply ask them
-				 to spend their free time using a simulation, and cutting out other effective assignments 
-				 might do more harm than good. That's where Marshall's careful research and experience 
-				 rewriting curriculum comes in. He'll be consulting the research literature to form a well-grounded
-				 plan, choosing which exercises to remove or tailor to an added simulation in order for students
-				 to get the most out of the time they spend on homework. 
+			<p>	
+				In Spring 2016, I was proud to present on my field of research at Town Hall theater in Seattle as part of the <a href="https://townhallseattle.org/event_category/uw-science-now/" target="_blank">UW Science now speaker series.</a> These presentations are meant for everyone, regardless of experience and background. My presentation, &quot;Making physics more accessible&quot;, is available below. Have a watch! 
 			</p>
-			
+			<iframe class="portrait" id="town_hall" style="width:784px; height:441px;" src="https://www.youtube.com/embed/SmGC3uRvmig?start=69" frameborder="0" allowfullscreen></iframe>			
 		</div>
 		
 		<hr style="max-width:1024px;" />

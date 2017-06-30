@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Why are you looking here? This is for robots. A site map designed for human use may be found at: http://students.washington.edu/mjstyczi/pages/
-	I tried hard to make that page draw off this one, or vice versa, so that the same information was just being formatted nicely for humans. 
+	I tried hard to make that page draw from this one, or vice versa, so that the same information was just being formatted nicely for humans. 
 	I couldn't get it to work because of the first line below, which specifies the XML namespace (xmlns). 
 	The namespace for robot-readable site maps seems to be incompatible with using your own XML style file (XSLT). 
 	For an example of what that looks like when it works, see my student "testimonials" at: http://students.washington.edu/mjstyczi/supporting/studentEvals.xml -->

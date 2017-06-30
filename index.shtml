@@ -33,25 +33,20 @@
 			
 		<div id="maincontent" class="main">
 			<p>
-				This is the personal website of Marshall &quot;Moosh&quot; Styczinski, a graduate student at the University of Washington.
-				 Marshall is a member of the UW Physics Education Group. Click the links at left to find out more.
+				This is the personal website of Marshall &quot;Moosh&quot; Styczinski, a graduate student at the University of Washington. Marshall studies Jupiter&apos;s moon Europa and its magnetic properties. Click the links at left to find out more.
 				 <noscript>
-				 <br /><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the
-				 full experience from this website.</strong>
+					 <br /><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the full experience from this website.</strong>
 				 </noscript>
 			</p>
 			<p>
-				For a terse introduction, please see his <a href="documents/Styczinski_CV.pdf">Curriculum Vitae.</a>
+				For a terse introduction, please see my <a href="documents/Styczinski_CV.pdf">Curriculum Vitae.</a>
 			</p>
 			<div class="portrait" style="width:534px; height:653px;">
 				<a href="images/galaxy_portrait.jpg"><img src="images/galaxy_portrait.jpg" style="width:534px; height:653px;" class="portrait" title="The author" alt="A portrait of Marshall Styczinski" /></a>
 			</div>
 			<p>
-				If you are a UW student, staff, or faculty member with an active NetID and you'd like your own web page, visit
-				 <a href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW Shared Web Hosting</a>
-				 for information.
-				 <br /><strong>Pro-tip:</strong> To see the HTML code that creates any item on any website, 
-				 right-click the item and select &quot;Inspect Element&quot;.
+				If you are a UW student, staff, or faculty member with an active NetID and you'd like your own web page, visit <a href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW Shared Web Hosting</a> for information.
+				<br /><strong>Pro-tip:</strong> To see the HTML code that creates any item on any website, right-click the item and select &quot;Inspect Element&quot;.
 			</p>
 		</div>
 		

@@ -1,5 +1,7 @@
 <!doctype html>
 <html lang="en-us">
+<!-- Learners gonna learn -->
+<!-- Students gonna stud? -->
 
 	<head>
 		<title>Marshall Styczinski</title>
@@ -24,84 +26,55 @@
 		<div id="maincontent" class="main">
 		
 			<noscript>
-				<p><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the
-				 full experience from this website.</strong></p>
+				<p><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the full experience from this website.</strong></p>
 			</noscript>
 			
 			<!--#include virtual="/mjstyczi/supporting/TA_assign.shtml" -->
 		
-			<h2>Teaching overview</h2>			
+			<h2>Teaching and learning</h2>			
 			<p>
-				Learning is complicated. Everyone responds differently to the same stimuli, including their interactions
-				 with an instructor. A positive learning experience isn't simply related to whether or not a course is
- 				 taught by a &quot;good&quot; instructor. Nevertheless, an experienced, responsive instructor in a
-				 conducive classroom setting can facilitate student learning.
+				Learning is complicated. We all learn in different ways, and the best approach for one person is not likely the best for another. Just like in normal conversation, the best way to communicate an idea is to listen carefully and respond to who you're talking with. I think this is especially true as an instructor in the classroom, or talking science outside the classroom. The teacher isn't the one doing the learning; the most important part of teaching is listening.
 			</p>
 
-			<div class="portrait" style="width:650px; height:344px;">
-				<a href="images/tutorial_checkout.jpg"><img src="images/tutorial_checkout.jpg" class="portrait" style="width:650px; height:344px;" title="Marshall and students discussing their reasoning" alt="Marshall and students discussing their reasoning." /></a>
-			</div>
-			
 			<p>
-				Well-designed instructional materials can also lend a lot of support to the goal of students learning as
-				 much as possible from our time with them. The <cite>Tutorials in Introductory Physics</cite>, researched, developed,
-				 and validated all by the <a href"http://depts.washington.edu/uwpeg/">Physics Education Group</a> at UW,
-				 compose just such a supporting material. All calculus-based introductory physics courses at UW involve
-				 a supplementary <dfn>tutorial</dfn> section, where students work in small groups to discuss a topic covered
-				 in the tutorial workbook.
+				Sharing ideas happens all the time, not just in a classroom. Effective communication of science is as vital as the research itself. I think that all scientists share a common duty to learn effective communication skills, to better share their research with others in their field and even more so with non-experts. To further this mission, I recently became a Science Communication Fellow at Pacific Science Center, part of their &quot;Portal to the Public&quot; program. As a Science Communication Fellow, I created a portable exhibit to share a piece of my research with museum guests. I periodically participate in &quot;Meet a Scientist&quot; events with my exhibit, where guests can come chat with me about my research and learn about Europa. For more information on <a href="FIX ME">Portal to the Public, click here.</a> For more information on my research, <a href="pages/research.shtml">visit my research page.</a>
 			</p>
-			
-			<p>				 
-				In tutorial sections, two teaching assistants (<dfn>TA</dfn>s) act as navigators, guiding up to six groups
-				 of 2&ndash;4 students with reflective questioning. Each week, the TAs meet to work through the tutorials with
-				 an experienced TA so that they are better prepared to address student questions and difficulties during
-				 in-class sessions. Marshall has been a tutorial TA for ten quarters, most often in the Electricity &amp;
-				 Magnetism introductory course. He also leads groups of TAs during weekly preparation meetings. 
-			</p>
-			
-			<h2>Teaching philosophy</h2>
+
+			<!-- An image from Pacific Science Center. -->
+
 			<p>
-				Several studies have convincingly concluded that compared to traditional instructional strategies, learning is
-				 best enhanced when students are actively engaged&mdash;analyzing, interpreting, explaining, or otherwise exploring
-				 the subject matter <em>themselves</em>. In this context, &quot;traditional&quot; implies <dfn>didactic</dfn>
-				 instruction, centered around reading reference textbooks written by experts and frequent lecture presentations
-				 by the instructor, also an expert. A large and growing body of research in physics education has shown that
-				 experts describing their knowledge and making unsubstantiated assertions to students is not an effective way
-				 to encourage learning.
+				My passion for teaching, learning, and communication have been strongly influenced by my past research in physics education. The experience was at once transformative and eye-opening. Getting into that field, I found that there have been many studies examining classroom practice over the years, and the strong consensus among researchers is that students learn best when they are a part of the action: actively engaged. That could be analyzing, interpreting, explaining, or otherwise exploring the subject matter <em>themselves</em>. Talking at people is not a great way to help them learn or understand. I firmly believe that anyone can learn any topic, they just need the right support, mindset, and time.
+			</p>	
+			
+			<h2>In the classroom</h2>
+			<p>
+				Maintaining an equitable classroom is vital to the success of students from underprivileged backgrounds. Some students are more likely to receive unwarranted negative encouragement because of their skin color, gender, socioeconomic class, or other factors. The success of these students will depend on their ability to overcome the unfair barriers placed in their way by racist, sexist, caustic stereotypes. We all benefit when talented students are able to grow and thrive, no matter what their story is. Especially in the classroom or interacting with children, I make a conscious effort to enhance the voice of those groups to reduce the barriers to their success. Every student brings important ideas to the table, and every student should know their contribution is valuable.
+			</p>
+
+			<p>
+				As a graduate student, I've taught a lot of university physics classes. I take my teaching assignments seriously. The primary guiding principle behind my classroom demeanor is always one of the first announcements I make in class:
+			</p>
+				 <blockquote>I am here to help you learn.</blockquote>
+			<p>
+				I encourage students to ask questions by email, day or night. Office hours are also available upon request or during scheduled study center hours (see <a href="pages/teaching.shtml#assignment">the table above</a> for scheduling).
 			</p>
 			
 			<div class="wrapimg" style="width:350px; height:300px;">
 				<a href="images/office_hours.jpg"><img src="images/office_hours.jpg" class="portrait" style="width:350px; height:300px;" title="Marshall encourages all students to visit his office hours!" alt="Marshall in front of a blackboard in his office." /></a>
-			</div>		
+			</div>
 			
-			<p>
-				Marshall takes his teaching seriously. The primary guiding principle behind his classroom demeanor is always
-				 one of the first announcements he makes in class:
-			</p>
-				 <blockquote>I am here to help you learn.</blockquote>
-			<p>
-				Students are encouraged to ask questions by email, day or night. Office hours are also available upon request
-				 or during scheduled study center hours (see <a href="pages/teaching.shtml#assignment">the table above</a> for scheduling).
-			</p>
-							
 			<p>				
-				Marshall aims to keep students engaged and he encourages every student to participate in group discussions.
-				 Engagement is sustained through periodic discussions with students, frequently involving both open-ended
-				 and guiding questions. These questions are intended to not only to help students stay on track, but also
-				 to give students immediate feedback on their explanations. Tutorial assessments (homework and free-response
-				 exams) always require a thorough explanation of reasoning alongside their response to a <dfn>qualitative</dfn>
-				 question, one where the response does not require a numerical calculation. The immediate feedback an attentive
-				 instructor can provide to students during class time can be very valuable to both student and instructor,
-				 especially when students are asked to explain their reasoning in detail.	
+				The backbone of my teaching practice is <dfn>socratic dialogue,</dfn> where practically everything I say is a question. This tried-and-true method can be a little frustrating at times, for student and instructor alike, but the payoff is well worth that cost. Most of my teaching assignments have been in laboratory or discussion classes, where I wander from group to group while students work on experiments or worksheets. This environment is very conducive to use of socratic dialogue. Asking questions of students, rather than giving instructions or a lecture, keeps them involved, thinking, and connecting ideas. The best discussion questions are open-ended, with no right-or-wrong answer. This supports the students learning how to think like a scientist, eventually learning how to ask themselves the same type of questions I would use to guide them through a tough idea.
 			</p>
+			
+			<div class="portrait" style="width:650px; height:344px;">
+				<a href="images/tutorial_checkout.jpg"><img src="images/tutorial_checkout.jpg" class="portrait" style="width:650px; height:344px;" title="Marshall and students discussing their reasoning" alt="Marshall and students discussing their reasoning." /></a>
+			</div>
+
 			
 			<h2>Student testimonials</h2>
 			<p>
-				At the conclusion of each term at UW, the Office of Educational Assessment administers course evaluations. Students'
-				 opinions about their experiences are solicited in a variety of ways, including free-response questions. Marshall
-				 reviews all of his course evaluations, both to get a sense of how he is doing managing the class and to find
-				 suggestions for improvement. A selection of student responses to these evaluations appears in the table below, one
-				 at a time. To see <a href="supporting/studentEvals.xml">the full list of selected student comments, click here.</a>
+				At the conclusion of each term at UW, the Office of Educational Assessment administers course evaluations. Students' opinions about their experiences are solicited in a variety of ways, including free-response questions. I review all of my course evaluations, both to get a sense of how I'm doing managing the class and to find suggestions for improvement. A selection of student responses to these evaluations appears in the table below, one at a time. To see <a href="supporting/studentEvals.xml">the full list of selected student comments, click here.</a>
 			</p>
 			<p>
 				Please note: The following excerpts are transcribed <em>verbatim</em> from anonymous end-of-quarter course evaluations.

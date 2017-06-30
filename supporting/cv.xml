@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cv.xsl"?>
+
+<!DOCTYPE cv [
+	<!ELEMENT cv (item)>
+	<!ELEMENT item (title, inst, descrip, skills)>
+	<!ATTLIST item qtrStart CDATA #REQUIRED>
+	<!ATTLIST item qtrEnd CDATA #REQUIRED>
+	<!ATTLIST item loc CDATA #REQUIRED>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT inst (#PCDATA)>
+	<!ELEMENT descrip (#PCDATA)>
+	<!ELEMENT skills (#PCDATA)>
+	<!ATTLIST inst url CDATA #IMPLIED>
+]>
+
+<cv xmlns:xlink="http://www.w3.org/1999/xlink">
+	<item qtrStart="172" qtrEnd="present" loc="Seattle, Washington">
+		<title>
+			Graduate Student Researcher
+		</title>
+		<inst url="https://www.ess.washington.edu/people/profile.php?pid=harnett--erika">
+			Harnett Group at U Washington
+		</inst>
+		<descrip>
+			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
+	
+	<item qtrStart="162" qtrEnd="present" loc="Seattle, Washington">
+		<title>
+			Member, Board of Directors
+		</title>
+		<inst url="http://engage-science.com/">
+			Engage program at U Washington
+		</inst>
+		<descrip>
+			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
+
+	<item qtrStart="124" qtrEnd="present" loc="Seattle, Washington">
+		<title>
+			Graduate Teaching Assistant
+		</title>
+		<inst url="https://www.washington.edu/">
+			University of Washington
+		</inst>
+		<descrip>
+			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
+
+	<item qtrStart="141" qtrEnd="172" loc="Seattle, Washington">
+		<title>
+			Graduate Student Researcher
+		</title>
+		<inst url="http://depts.washington.edu/uwpeg/">
+			Physics Education Group at the University of Washington (UWPEG)
+		</inst>
+		<descrip>
+			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
+
+	<item qtrStart="132" qtrEnd="141" loc="Seattle, Washington">
+		<title>
+			Graduate Research Assistant
+		</title>
+		<inst url="http://faculty.washington.edu/seidler/">
+			Seidler Group, U Washington and Argonne National Lab
+		</inst>
+		<descrip>
+			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
+
+	<item qtrStart="111" qtrEnd="123" loc="Davis, California">
+		<title>
+			Development Technician
+		</title>
+		<inst url="http://sanfordlab.org/experiment/lux-experiment">
+			Large Underground Xenon (LUX) experiment
+			UC Davis interconnect research group
+		</inst>
+		<descrip>
+			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
+
+	<item qtrStart="111" qtrEnd="114" loc="Davis, California">
+		<title>
+			Junior Specialist
+		</title>
+		<inst url="https://www6.slac.stanford.edu/">
+			Stanford Linear Accelerator Center (SLAC) Linear Collider Research and Development (LCRD)
+		</inst>
+		<descrip>
+			http://www.hep.uiuc.edu/LCRD/LCRD_UCLC_proposal_FY06/2_09_Pellett_BigDocFile.pdf			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
+
+	<item qtrStart="104" qtrEnd="111" loc="Chooz, France">
+		<title>
+			Development Technician
+		</title>
+		<inst url="http://doublechooz.in2p3.fr/">
+			Double Chooz neutrino experiment
+		</inst>
+		<descrip>
+			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
+
+	<item qtrStart="082" qtrEnd="104" loc="Davis and Berkeley, California">
+		<title>
+			Undergraduate Research Assistant
+		</title>
+		<inst url="http://fadley.physics.ucdavis.edu/">
+			Fadley group, UC Davis and Lawrence Berkeley National Lab
+		</inst>
+		<descrip>
+			
+		</descrip>
+		<skills>
+			
+		</skills>
+	</item>
+
+	<item qtrStart="083" qtrEnd="103" loc="Davis, California">
+		<title>
+			Course Reader (Physics 7)
+		</title>
+		<inst url="http://physics.ucdavis.edu/">
+			UC Davis Physics Department
+		</inst>
+		<descrip>
+			Quiz handling, including scanning, data entry, and score calculation from grading codes; printing copies of in-class worksheets for thousands of students
+		</descrip>
+		<skills>
+			Scripting in FileMaker database software; large course administration
+		</skills>
+	</item>	
+		
+	<item qtrStart="074" qtrEnd="083" loc="Davis, California">
+		<title>
+			Lab Assistant
+		</title>
+		<inst url="http://airquality.crocker.ucdavis.edu/">
+			IMPROVE Air Quality Group (Crocker Nuclear Lab)
+		</inst>
+		<descrip>
+			First 5 months: Sample preparation and processing and data handling for IMPROVE air quality monitoring sites
+			Next 6 months: Designed and carried out an experiment studying the impact of denuder pre-filtration on air quality sampling data.
+		</descrip>
+		<skills>
+			Use of delicate equipment e.g. mass balances; experiment design, data analysis and interpretation
+		</skills>
+	</item>
+
+	<item qtrStart="063" qtrEnd="063" loc="Portola, California">
+		<title>
+			Assistant Mechanic
+		</title>
+		<inst url="http://www.whitecapreadymix.com/">
+			White Cap Ready-Mix
+		</inst>
+		<descrip>
+			Maintenance and repair tasks for cement mixers 
+		</descrip>
+		<skills>
+			Basic technical skills, basic automotive maintenance and repair
+		</skills>
+	</item>	
+</cv>

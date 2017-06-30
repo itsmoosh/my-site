@@ -1,6 +1,6 @@
 <h2>Current teaching assignments</h2>
 	<table id="assignment">
-		<caption>Quarter: Spring 2017</caption>
+		<caption>Quarter: Summer 2017</caption>
 		<tr>
 			<th>Course</th>
 			<th>Allotment</th>
@@ -12,35 +12,35 @@
 			<td>First time teaching ASTR 150!</td>
 		</tr>-->
 		<tr>
-			<td><a href="http://depts.washington.edu/uwphyttl/">122 Tutorials</a></td>
-			<td><a href="http://depts.washington.edu/uwphyttl/CurrentSchedules/122_tut_sched.pdf">4 in-class sections</a></td>
-			<td>Head TA</td>
+			<td><a href="https://sharepoint.washington.edu/phys/ugrad/tutorials/12x/Pages/Courses.aspx?cid=122%20Ahttp://depts.washington.edu/uwphyttl/">122 Tutorials</a></td>
+			<td><a href="https://sharepoint.washington.edu/phys/ugrad/tutorials/12x/Pages/Tutorial-Schedule.aspx?cid=122">3 in-class sections</a></td>
+			<td> </td>
 		</tr>
 		<tr>
-			<td><a href="http://courses.washington.edu/phys432/">432 Senior Labs</a></td>
-			<td>1 in-class section</td>
-			<td>First time teaching!</td>
+			<td><a href="https://canvas.uw.edu/courses/1146944">231 laboratory</a></td>
+			<td>Grading and HW solutions</td>
+			<td> </td>
 		</tr>
 		<!--<tr>
 			<td><a href="http://courses.washington.edu/phys122z/">122 Laboratory</a></td>
 			<td><a href="http://courses.washington.edu/phys122z/TAinfo.php">1 in-class section</a></td>
 			<td>Head TA</td>
 		</tr>-->
-		<!--<tr>
-			<td><a href="http://faculty.washington.edu/ljrberg/AUT15_PHYS321/">321 Tutorials</a></td>
-			<td><a href="http://depts.washington.edu/uwphyttl/tiap/EM/321/">2 in-class sections</a></td>
-			<td> </td>
-		</tr>-->
-		<!--<tr>
-			<td><a href="https://sharepoint.washington.edu/phys/ugrad/1xx/Pages/Study-Center.aspx">Study Center</a></td>
-			<td>TBD</td>
-			<td>Physics Study Center, room AM018</td>
-		</tr>-->
 		<tr>
+			<td>PHYS 116</td>
+			<td>Lecture tutorial TA, exam grading</td>
+			<td> </td>
+		</tr>
+		<tr>
+			<td><a href="https://sharepoint.washington.edu/phys/ugrad/1xx/Pages/Study-Center.aspx">Study Center</a></td>
+			<td>Tue 12:00p − 1:00p<br>Wed 3:30p − 4:30p</td>
+			<td>Physics Study Center, room PAA AM018</td>
+		</tr>
+		<!--<tr>
 			<td>Office Hours</td>
 			<td>By appointment</td>
-			<td><a href="images/PAT_map.png">Physics/Astronomy Tower, room C221</a></td>
-		</tr>
+			<td><a href="images/JHN_map.png">Johnson Hall, room 275B</a></td>
+		</tr>-->
 	</table>
 	<p>
 		<!--Note: for accessibility to students, Marshall will have office hours at the times listed above, since he has

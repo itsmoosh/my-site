@@ -122,6 +122,38 @@ th {
 	display: block;
 }
 
+.cv-descrip {
+	padding: 10px;
+	background-color: #EEEEEE;
+}
+
+.cv-inst {
+	padding: 15px;
+	background-color: #DDDDDD;
+	font-size: larger;
+}
+
+.cv-item {
+	padding: 15px;
+	margin-bottom: 20px;
+	width: 80%;
+}
+
+.cv-skills {
+	padding: 10px;
+}
+
+.cv-title {
+	padding: 15px;
+	background-color: #DDDDDD;
+	font-size: larger;
+	width: 300px;
+}
+
+.cv-yrloc {
+	padding: 10px;
+}
+
 #evalQ {
 	height: 2.3em;
 }
@@ -131,13 +163,29 @@ th {
 	width: 90px;
 }
 
+.evalQuestion {
+	padding: 15px;
+	background-color: #DDDDDD;
+	width: 300px;
+}
+
 #evalR {
 	height: 8.0em;
+}
+
+.evalResponse {
+	padding: 15px;
 }
 
 #evalRhdr {
 	height: 2.5em;
 	width: 90px;
+}
+
+.evalTable {
+	padding: 15px;
+	margin-bottom: 20px;
+	width: 95%;
 }
 
 .extlinks {
