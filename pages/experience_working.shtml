@@ -32,7 +32,7 @@
 				<strong>Note:</strong> This page is essentially an extended version of my curriculum vitae. <a href="documents/Styczinski_CV.pdf">Click here for the brief, official version.</a> <!--#config timefmt="%D" -->Last updated <!--#flastmod virtual="/mjstyczi/documents/Styczinski_CV.pdf" -->. For more details about any item, please contact me at the email address listed at the bottom of this page.
 			</p>
 
-			<iframe id="cv" src="supporting/cv.xml" scrolling="no" frameborder="0"/>
+			<iframe id="cv" src="supporting/cv.xml" scrolling="no" frameborder="0"></iframe>
 			
 		</div>
 		
