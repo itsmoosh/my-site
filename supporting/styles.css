@@ -136,7 +136,7 @@ th {
 .cv-item {
 	padding: 15px;
 	margin-bottom: 20px;
-	width: 80%;
+	max-width: 80%;
 }
 
 .cv-skills {
