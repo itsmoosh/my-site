@@ -112,9 +112,7 @@
 					<td class="cv-skills"><xsl:value-of select="skills"/></td>
 				</tr>
 			</table>
-		</xsl:for-each>
-	<hr style="margin-bottom:20px;" />
-	
+		</xsl:for-each>	
 	</body>
 	</html>
 </xsl:template>
