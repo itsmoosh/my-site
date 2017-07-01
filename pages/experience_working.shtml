@@ -32,11 +32,12 @@
 				<strong>Note:</strong> This page is essentially an extended version of my curriculum vitae. <a href="documents/Styczinski_CV.pdf">Click here for the brief, official version.</a> <!--#config timefmt="%D" -->Last updated <!--#flastmod virtual="/mjstyczi/documents/Styczinski_CV.pdf" -->. For more details about any item, please contact me at the email address listed at the bottom of this page.
 			</p>
 			
-			<div id="cv-box">
-				<iframe id="cv" src="supporting/cv.xml" frameborder="0"></iframe>
+			<div id="iframe-box">
+				<iframe id="cv" src="supporting/cv.xml" scrolling="no" style="height:3000px;" frameborder="0"></iframe>
 			</div>
 			<script>
-				removeScroll("cv");
+				function gofunc(){ removeScroll("cv"); }
+				window.onload = gofunc;
 			</script>
 			
 		</div>

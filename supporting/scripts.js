@@ -86,12 +86,16 @@ function newEval() {
 	document.getElementById('evalR').innerHTML = currR;
 };
 
-/*	Expands an iframe to fit the page, to remove the annoying scroll bars that plague the default size.
+/*	Expands an iframe to fit the page, to remove the annoying scroll bar that plagues the default size.
+@@@Important@@@: Execute only after window.onload has fired. Use another in-line function to call--parentheses after a function name trigger it immediately. (See pages/experience.shtml for an example.)
 Inputs:	iframeID, the element ID of the iframe to be resized
 Returns:	none	*/
 function removeScroll(iframeID) {
-	iframeID.width  = iframeID.contentWindow.document.body.scrollWidth;
-    iframeID.height = iframeID.contentWindow.document.body.scrollHeight;
+	var iframeEl = document.getElementById(iframeID);
+	var innerDoc = iframeEl.contentDocument;	// Grabs the HTML document pulled into the iframe
+	var fullHeight = innerDoc.firstChild.scrollHeight + "px";	// Reads the height of the body element inside the iframe
+
+	iframeEl.style.height = fullHeight;	// Set iframe viewing port to the size of interior contents
 };
 
 

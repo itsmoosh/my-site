@@ -12,7 +12,7 @@
 		<meta name="description" content="Personal web page for Marshall Styczinski: experience page (data)" />
 		<meta charset="UTF-8" />
 	</head>
-	<body style="max-width:1024px;">
+	<body id="cv-body" style="max-width:800px;">
 	<h2>My experiences</h2>
 
 		<xsl:for-each select="cv/item">
