@@ -12,7 +12,7 @@
 		<meta name="description" content="Personal web page for Marshall Styczinski: experience page (data)" />
 		<meta charset="UTF-8" />
 	</head>
-	<body style="width:1024px;">
+	<body id="cv-body" style="max-width:800px;">
 	<h2>My experiences</h2>
 
 		<xsl:for-each select="cv/item">
@@ -112,9 +112,7 @@
 					<td class="cv-skills"><xsl:value-of select="skills"/></td>
 				</tr>
 			</table>
-		</xsl:for-each>
-	<hr style="margin-bottom:20px;" />
-	
+		</xsl:for-each>	
 	</body>
 	</html>
 </xsl:template>
