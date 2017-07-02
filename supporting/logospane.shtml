@@ -1,7 +1,7 @@
 <div id="logospane" class="logospane-yel">
 	<a href="pages/"><img id="my-logo" title="Marshall Styczinski Site Map" src="logos/Vector.png" alt="Marshall Styczinski logo" class="logosq" /></a>
 	<a href="http://www.washington.edu/"><img id="uw-logo" title="UW main site" src="logos/UW_Seal.png" alt="University of Washington seal" class="logosq" /></a>
-	<a href="http://depts.washington.edu/uwpeg/"><img id="uwpeg-logo" title="UW PEG site" src="logos/PEG_wheel.png" alt="UW Physics Education Group logo" class="logosq" /></a>
+	<a href="http://www.nasa.gov/"><img id="nasa-logo" title="NASA website" src="logos/NASA.jpg" alt="NASA logo" class="logosq"  style="width:143px;" /></a>
 	<a href="http://depts.washington.edu/astrobio/"><img id="uwab-logo" title="UW Astrobiology home" src="logos/UW-AB_yel.png" alt="UW Astrobiology logo" class="logosq" style="width:174px;" /></a>
 	<a href="http://www.nsf.gov/"><img id="nsf-logo" title="NSF home" src="logos/NSF.png" alt="National Science Foundation logo" class="logosq" /></a>
 </div>
