@@ -25,15 +25,20 @@
 		<div id="maincontent" class="main">
 
 			<noscript>
-				<p><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the full experience from this website.</strong></p>
+				<p><strong>JavaScript is currently disabled in your browser. Please enable JavaScript to get the full experience from this website.</strong></p>
 			</noscript>		
 
 			<p>
-				<strong>Note:</strong> This page is essentially an extended version of my curriculum vitae, in reverse chronological order. <a href="documents/Styczinski_CV.pdf">Click here for the brief, official version.</a>. <!--#config timefmt="%D" -->Last updated <!--#flastmod virtual="/mjstyczi/documents/Styczinski_CV.pdf" -->. For more details about any item, please contact me at the email address listed at the bottom of this page.
+				<strong>Note:</strong> This page is essentially an extended version of my curriculum vitae. <a href="documents/Styczinski_CV.pdf">Click here for the brief, official version.</a> <!--#config timefmt="%D" -->Last updated <!--#flastmod virtual="/mjstyczi/documents/Styczinski_CV.pdf" -->. For more details about any item, please contact me at the email address listed at the bottom of this page.
 			</p>
-
-			<h2>My experiences (newest first)</h2>
 			
+			<div id="iframe-box">
+				<iframe id="cv" src="supporting/cv.xml" scrolling="no" style="height:3000px;" frameborder="0"></iframe>
+			</div>
+			<script>
+				function gofunc(){ removeScroll("cv"); }
+				window.onload = gofunc;
+			</script>
 			
 		</div>
 		

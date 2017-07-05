@@ -9,11 +9,6 @@ h1 {
 	text-align: center;
 }
 
-iframe {
-	width: 800px;
-	height: 1726px;
-}
-
 table {
 	margin-left: auto;
 	margin-right: auto;
@@ -122,6 +117,11 @@ th {
 	display: block;
 }
 
+#cv {
+	display: block;
+	width: 100%;
+}
+
 .cv-descrip {
 	padding: 10px;
 	background-color: #EEEEEE;
@@ -136,7 +136,7 @@ th {
 .cv-item {
 	padding: 15px;
 	margin-bottom: 20px;
-	width: 80%;
+	width: 95%;
 }
 
 .cv-skills {
@@ -147,7 +147,7 @@ th {
 	padding: 15px;
 	background-color: #DDDDDD;
 	font-size: larger;
-	min-width: 240px;
+	width: 200px;
 }
 
 .cv-yrloc {
@@ -222,6 +222,12 @@ th {
 	text-align: center;	
 }
 
+.iframe-box {
+	width: auto;
+	height: auto;
+	overflow-x: hidden;
+}
+
 .liclogo {
 	width: 88px;
 	height: 31px;
@@ -244,7 +250,7 @@ th {
 	white-space: nowrap;	
 	
 	background-color: #a8d7fe;
-	width: 695px;
+	width: 700px;
 	height: 120px;
 	
 	padding: 10px;
@@ -266,7 +272,7 @@ th {
 	white-space: nowrap;	
 	
 	background-color: #7fd3a1;
-	width: 695px;
+	width: 700px;
 	height: 120px;
 	
 	padding: 10px;
@@ -288,7 +294,7 @@ th {
 	white-space: nowrap;	
 	
 	background-color: #f5f5c5;
-	width: 695px;
+	width: 700px;
 	height: 120px;
 	
 	padding: 10px;
@@ -308,6 +314,7 @@ th {
 }
 
 .main {
+	position: relative;
 	text-align: left;
 	padding: 10px;
 	margin-left: 220px;
