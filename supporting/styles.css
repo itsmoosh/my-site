@@ -425,6 +425,10 @@ th {
 	margin: 5px;
 }
 
+#pop {
+	float: right;
+}
+
 .porthole {
 	width: 85px;
 	height: 85px;
