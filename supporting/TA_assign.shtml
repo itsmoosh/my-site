@@ -1,46 +1,51 @@
 <h2>Current teaching assignments</h2>
 	<table id="assignment">
-		<caption>Quarter: Summer 2017</caption>
+		<caption>Quarter: Autumn 2017</caption>
 		<tr>
 			<th>Course</th>
 			<th>Allotment</th>
 			<th>Notes</th>
+		</tr>
+		<tr>
+			<td><a href="http://earthweb.ess.washington.edu/ess-102/">ESS 102 section</a></td>	
+			<td>3 in-class sections<!--br><a href="documents/ess102_syllabus.pdf">Click for TA syllabus</a--></td>
+			<td>First time teaching ESS 102!</td>
 		</tr>
 		<!--<tr>
 			<td><a href="https://canvas.uw.edu/courses/1097188">ASTR 150 discussion</a></td>	
 			<td>2 in-class sections<br><a href="documents/astr150_syllabus.pdf">Click for TA syllabus</a></td>
 			<td>First time teaching ASTR 150!</td>
 		</tr>-->
-		<tr>
+		<!--tr>
 			<td><a href="https://sharepoint.washington.edu/phys/ugrad/tutorials/12x/Pages/Courses.aspx?cid=122%20Ahttp://depts.washington.edu/uwphyttl/">122 Tutorials</a></td>
 			<td><a href="https://sharepoint.washington.edu/phys/ugrad/tutorials/12x/Pages/Tutorial-Schedule.aspx?cid=122">3 in-class sections</a></td>
 			<td> </td>
-		</tr>
-		<tr>
+		</tr-->
+		<!--tr>
 			<td><a href="https://canvas.uw.edu/courses/1146944">231 laboratory</a></td>
 			<td>Grading and HW solutions</td>
 			<td> </td>
-		</tr>
+		</tr-->
 		<!--<tr>
 			<td><a href="http://courses.washington.edu/phys122z/">122 Laboratory</a></td>
 			<td><a href="http://courses.washington.edu/phys122z/TAinfo.php">1 in-class section</a></td>
 			<td>Head TA</td>
 		</tr>-->
-		<tr>
+		<!--tr>
 			<td>PHYS 116</td>
 			<td>Lecture tutorial TA, exam grading</td>
 			<td> </td>
-		</tr>
-		<tr>
+		</tr-->
+		<!--tr>
 			<td><a href="https://sharepoint.washington.edu/phys/ugrad/1xx/Pages/Study-Center.aspx">Study Center</a></td>
-			<td>Tue 12:00p − 1:00p<br>Wed 3:30p − 4:30p</td>
+			<td>Tue 12:00p − 1:00p<br/>Wed 3:30p − 4:30p</td>
 			<td>Physics Study Center, room PAA AM018</td>
-		</tr>
-		<!--<tr>
+		</tr-->
+		<tr>
 			<td>Office Hours</td>
-			<td>By appointment</td>
-			<td><a href="images/JHN_map.png">Johnson Hall, room 275B</a></td>
-		</tr>-->
+			<td>Wed 12:30p - 1:30p<br/>Thu 2:30p - 3:30p</td>
+			<td><a href="images/JHN_map.png">Johnson Hall, room 240</a></td>
+		</tr>
 	</table>
 	<p>
 		<!--Note: for accessibility to students, Marshall will have office hours at the times listed above, since he has

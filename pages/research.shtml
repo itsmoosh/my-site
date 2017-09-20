@@ -38,6 +38,11 @@
 			<p>
 				Icy moons are excellent places to look for signs of life, or environments where life as we know it could thrive. Interactions between moons keep them fed with heat to melt the ice. All life on Earth requires water to survive, so warm, protected oceans are promising rocks to overturn in the search for life. That's why I study them.
 			</p>
+
+			<div class="portrait" style="width:920px; height:680px;">
+				<a href="images/europa.jpg"><img src="images/europa.jpg" class="portrait" style="width:920px; height:680px;" title="Europa, one of Jupiter's moons. Image credit: NASA" alt="An image of Jupiter's moon Europa, taken by a NASA spacecraft." /></a>
+			</div>
+
 			<p>
 				More specifically, I study electromagnetic properties of icy moons. The outer solar system is dominated by the gas giants, and icy moons all orbit the gas giants. All gas giants have strong magnetic fields. Melted ice on these moons tends to form salty oceans under the surface. The salt dissolved in water behaves as a conductor, and movement through the parent gas giant's magnetic field induces currents in the salty water through Faraday's law of induction. Spacecraft missions to the outer solar system have sent back measurements confirming induced magnetic fields from several icy moons. Perhaps the most exciting of all these discoveries is the salty ocean of Europa.
 			</p>

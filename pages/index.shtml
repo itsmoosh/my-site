@@ -51,13 +51,16 @@
 			</ul>
 			<br />
 			<ul class="navlist">
-				<li>External Links (included due to affiliation)
+				<li>External Links (included due to past or present affiliation)
 				<ul class="navlist">				
-					<li><a class="mapnavlink" href="http://www.washington.edu/">University of Washington (UW) main site</a></li>					
-					<li><a class="mapnavlink" href="http://depts.washington.edu/uwpeg/">UW Physics Education Group (PEG) site</a></li>
-					<li><a class="mapnavlink" href="http://depts.washington.edu/astrobio/">UW Astrobiology website</a></li>
-					<li><a class="mapnavlink" href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW web hosting information</a></li>
+					<li><a class="mapnavlink" href="http://depts.washington.edu/uwpeg/">UW Physics Education Group (PEG) site</a></li>					
+					<li><a class="mapnavlink" href="http://www.washington.edu/">University of Washington (UW) main site</a></li>
 					<li><a class="mapnavlink" href="http://www.nsf.gov/">National Science Foundation website</a></li>
+					<li><a class="mapnavlink" href="http://www.pacificsciencecenter.org/">Pacific Science Center website</a></li>
+					<li><a class="mapnavlink" href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW web hosting information</a></li>		
+					<li><a class="mapnavlink" href="http://depts.washington.edu/astrobio/">UW Astrobiology website</a></li>
+					<li><a class="mapnavlink" href="https://courses.washington.edu/engageuw/">Engage website</a></li>
+					<li><a class="mapnavlink" href="http://www.nasa.gov/">NASA website</a></li>
 				</ul></li>
 			</ul>
 			</div>
