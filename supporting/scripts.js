@@ -214,34 +214,20 @@ function setHeader() {
 };
 
 
-/*	The following block of functions add animated mouseover behavior for the visual site map.
+/*	Sets animated mouseover behavior for the visual site map.
+Inputs:	sector, a text string matching a pageName that specified which region to highlight
+Returns:	none	*/
+function siteMap(sector) {
+	document.getElementById('site-map-planets').src = "supporting/graphics/site_map_" + sector + ".gif"
+};
+
+
+/*	Reverts site map to static image.
 Inputs:	none
 Returns:	none	*/
-	function siteMapExperience() {
-		document.getElementById('site-map-planets').src = "supporting/graphics/site_map_experience.gif"
-	};
-	function siteMapBlog() {
-		document.getElementById('site-map-planets').src = "supporting/graphics/site_map_blog.gif"
-	};	
-	function siteMapHome() {
-		document.getElementById('site-map-planets').src = "supporting/graphics/site_map_home.gif"
-	};
-	function siteMapPersonal() {
-		document.getElementById('site-map-planets').src = "supporting/graphics/site_map_personal.gif"
-	};
-	function siteMapResearch() {
-		document.getElementById('site-map-planets').src = "supporting/graphics/site_map_research.gif"
-	};
-	function siteMapResources() {
-		document.getElementById('site-map-planets').src = "supporting/graphics/site_map_resources.gif"
-	};
-	function siteMapTeaching() {
-		document.getElementById('site-map-planets').src = "supporting/graphics/site_map_teaching.gif"
-	};
-	
-	function siteMapRevert() {
-		document.getElementById('site-map-planets').src = "supporting/graphics/site_map.png"
-	};
+function siteMapRevert() {
+	document.getElementById('site-map-planets').src = "supporting/graphics/site_map.png"
+};
 
 
 /*	Toggles animation for screen capture of electromagnetic waves simulation.

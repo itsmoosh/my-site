@@ -1,11 +1,11 @@
 <img id="site-map-planets" src="supporting/graphics/site_map.png" style="width:902; height:990; border:none;" usemap="#site_map" onmouseleave="siteMapRevert();">
 
 <map name="site_map">
-	<area shape="circle" coords="451,495,175" alt="Link to home page" title="Go to home page" href="" onmouseenter="siteMapHome();">
-	<area shape="circle" coords="451,150,150" alt="Link to teaching page" title="Go to teaching page" href="pages/teaching.shtml" onmouseenter="siteMapTeaching();">
-	<area shape="circle" coords="752,323,150" alt="Link to experience page" title="Go to experience page" href="pages/experience.shtml" onmouseenter="siteMapExperience();">
-	<area shape="circle" coords="752,667,150" alt="Link to helpful resources page" title="Go to helpful resources page" href="pages/helpful.shtml" onmouseenter="siteMapResources();">
-	<area shape="circle" coords="451,840,150" alt="Link to personal page" title="Go to personal page" href="pages/personal.shtml" onmouseenter="siteMapPersonal();">
-	<area shape="circle" coords="150,667,150" alt="Link to personal blog" title="Go to personal blog" href="pages.blog.shtml" onmouseenter="siteMapBlog();">
-	<area shape="circle" coords="150,323,150" alt="Link to research page" title="Go to research page" href="pages/research.shtml" onmouseenter="siteMapResearch();">
+	<area shape="circle" coords="451,495,175" alt="Link to home page" title="Go to home page" href="" onmouseenter="siteMap('home');">
+	<area shape="circle" coords="451,150,150" alt="Link to teaching page" title="Go to teaching page" href="pages/teaching.shtml" onmouseenter="siteMap('teaching');">
+	<area shape="circle" coords="752,323,150" alt="Link to experience page" title="Go to experience page" href="pages/experience.shtml" onmouseenter="siteMap('experience');">
+	<area shape="circle" coords="752,667,150" alt="Link to helpful resources page" title="Go to helpful resources page" href="pages/helpful.shtml" onmouseenter="siteMap('resources');">
+	<area shape="circle" coords="451,840,150" alt="Link to personal page" title="Go to personal page" href="pages/personal.shtml" onmouseenter="siteMap('personal');">
+	<area shape="circle" coords="150,667,150" alt="Link to personal blog" title="Go to personal blog" href="pages.blog.shtml" onmouseenter="siteMap('blog');">
+	<area shape="circle" coords="150,323,150" alt="Link to research page" title="Go to research page" href="pages/research.shtml" onmouseenter="siteMap('research');">
 </map>
