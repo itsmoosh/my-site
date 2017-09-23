@@ -7,7 +7,7 @@
 Inputs:	none
 Returns:	none	*/
 function addSiteMapRevert() {
-	document.body.onmouseenter = function(){ siteMapRevert(); };
+	document.body.onmouseover = function(){ siteMapRevert(); };
 };
 
 
