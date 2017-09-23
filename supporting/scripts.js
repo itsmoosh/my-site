@@ -214,15 +214,15 @@ function setHeader() {
 };
 
 
-/*	Sets animated mouseover behavior for the visual site map.
+/*	Sets highlighting mouseover behavior for the visual site map.
 Inputs:	sector, a text string matching a pageName that specified which region to highlight
 Returns:	none	*/
 function siteMap(sector) {
-	document.getElementById('site-map-planets').src = "supporting/graphics/site_map_" + sector + ".gif"
+	document.getElementById('site-map-planets').src = "supporting/graphics/site_map_" + sector + ".png"
 };
 
 
-/*	Reverts site map to static image.
+/*	Reverts site map to base image.
 Inputs:	none
 Returns:	none	*/
 function siteMapRevert() {
