@@ -1,4 +1,4 @@
-<img id="site-map-planets" src="supporting/graphics/site_map.png" style="width:902; height:990; border:none;" usemap="#site_map" onmouseleave="siteMapRevert();">
+<img id="site-map-planets" src="supporting/graphics/site_map.png" style="width:902; height:990; border:none;" usemap="#site_map">
 
 <map name="site_map">
 	<area shape="circle" coords="449,495,175" alt="Link to home page" title="Go to home page" href="" onmouseenter="siteMap('home');">
@@ -9,3 +9,7 @@
 	<area shape="circle" coords="155,665,150" alt="Link to personal blog" title="Go to personal blog" href="pages.blog.shtml" onmouseenter="siteMap('blog');">
 	<area shape="circle" coords="155,326,150" alt="Link to research page" title="Go to research page" href="pages/research.shtml" onmouseenter="siteMap('research');">
 </map>
+
+<script>
+	addSiteMapRevert();
+</script>

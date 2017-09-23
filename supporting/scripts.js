@@ -3,6 +3,14 @@
 /*	Welcome to my lair.	*/
 
 
+/*	Adds onmouseenter function to document body, for responsive image map revert
+Inputs:	none
+Returns:	none	*/
+function addSiteMapRevert() {
+	document.getElementByTag('body').onmouseenter = function(){ siteMapRevert(); };
+};
+
+
 /*	Pulls the most recent post from my personal blog to display on the blog page. Expects blog post to be read in via iframe to the current page.
 Inputs:	none
 Returns: none	*/
