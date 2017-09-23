@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en-us">
-<!-- Pardon the dust. Businesses still open during construction. -->
+<!-- Does Kerbal Space Program count as mission planning experience? -->
 
 	<head>
 		<title>Marshall Styczinski</title>
@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="supporting/styles.css" />
 		<script src="supporting/scripts.js"></script>
 			
-		<meta name="description" content="Personal web page for Marshall Styczinski: this page under construction" />
+		<meta name="description" content="Personal web page for Marshall Styczinski: experience" />
 		<meta name="author" content="Marshall Styczinski" />
 		<meta charset="UTF-8" />
 	</head>
@@ -19,25 +19,37 @@
 	<!--#include virtual="/mjstyczi/supporting/header.shtml" -->
 	
 	<div class="overall">	
-	
+		
 		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->		
 			
 		<div id="maincontent" class="main">
-			<div class="warning">
-				<img src="images/working.gif" class="warning" title="under construction" alt="construction warning sign" />
-			</div>
-			<br />
+
+			<noscript>
+				<p><strong>JavaScript is currently disabled in your browser. Please enable JavaScript to get the full experience from this website.</strong></p>
+			</noscript>		
+
 			<p>
-				This page is not yet ready to see the light of day. While you wait, please enjoy this lovely gif from Kerbal Space Program, <a href="https://redd.it/1wccwy">thanks to Reddit user Jankygoatsmugla:</a>
+				<strong>Note:</strong> This page is essentially an extended version of my curriculum vitae.<br/>
+				<a href="documents/Styczinski_CV.pdf">Click here for the brief, formal version.</a> <!--#config timefmt="%D" -->Last updated <!--#flastmod virtual="/mjstyczi/documents/Styczinski_CV.pdf" -->.
 			</p>
-			<div class="portrait" style="width:320px; height:180px;">
-				<img src="http://i.imgur.com/ElQCDd8.gif" class="portrait" style="width:320px; height:180px;" />
-			</div>
+			<p>
+				For more details about any item, please contact me at the email address listed at the bottom of this page.
+			</p>
 			
-			<div class="footer">
-				<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
+			<div id="iframe-box">
+				<iframe id="cv" src="supporting/cv.xml" scrolling="no" style="height:3000px;" frameborder="0"></iframe>
 			</div>
+			<script>
+				function cleanFrame(){ removeScroll("cv"); }
+				window.onload = cleanFrame;
+			</script>
+			
 		</div>
+		
+		<hr style="max-width:1024px;" />
+	</div>
+	<div class="footer">
+		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>

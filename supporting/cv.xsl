@@ -104,12 +104,12 @@
 				</tr>
 				<tr>
 					<td class="cv-descrip">Description:</td>
-					<td class="cv-descrip"><xsl:value-of select="descrip"/></td>
+					<td class="cv-descrip"><xsl:copy-of select="descrip"/></td>
 				</tr>
 							
 				<tr>
 					<td class="cv-skills">Skills developed:</td>
-					<td class="cv-skills"><xsl:value-of select="skills"/></td>
+					<td class="cv-skills"><xsl:copy-of select="skills"/></td>
 				</tr>
 			</table>
 		</xsl:for-each>	
