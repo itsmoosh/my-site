@@ -23,16 +23,9 @@
 		<div id="maincontent" class="mapmain">
 			<h2>Visual</h2>			
 			<div class="middiv">
-				<img src="supporting/graphics/site_map.png" style="width:620; height:692; border:none;" usemap="#site_map" />
-				<map name="site_map">
-					<area shape="circle" coords="310,345,140" alt="Link to home page" title="Go to home page" href="" />
-					<area shape="poly" coords="95,0,251,218,369,218,525,0" alt="Link to teaching page" title="Go to teaching page" href="pages/teaching.shtml" />
-					<area shape="poly" coords="369,218,525,0,619,0,619,345,450,345" alt="Link to experience page" title="Go to experience page" href="pages/experience.shtml" />
-					<area shape="poly" coords="450,345,619,345,619,691,525,691,369,472" alt="Link to helpful resources page" title="Go to helpful resources page" href="pages/helpful.shtml" />
-					<area shape="poly" coords="369,472,525,691,95,691,251,472" alt="Link to personal page" title="Go to personal page" href="pages/personal.shtml" />
-					<area shape="poly" coords="95,691,0,691,0,345,170,345,251,472" alt="Link to personal blog" title="Go to personal blog" href="pages/blog.shtml" />
-					<area shape="poly" coords="0,345,170,345,251,218,95,0,0,0" alt="Link to research page" title="Go to research page" href="pages/research.shtml" />
-				</map>
+			
+				<!--#include virtual="/mjstyczi/supporting/site_map.shtml" -->
+				
 			</div>
 			<br />
 			<hr style="max-width:1024px;" />
@@ -53,6 +46,7 @@
 			<ul class="navlist">
 				<li>External Links (included due to past or present affiliation)
 				<ul class="navlist">				
+					<li><a class="mapnavlink" href="https://www.jpl.nasa.gov/">NASA Jet Propulsion Laboratory website</a></li>
 					<li><a class="mapnavlink" href="http://depts.washington.edu/uwpeg/">UW Physics Education Group (PEG) site</a></li>					
 					<li><a class="mapnavlink" href="http://www.washington.edu/">University of Washington (UW) main site</a></li>
 					<li><a class="mapnavlink" href="http://www.nsf.gov/">National Science Foundation website</a></li>
@@ -60,7 +54,6 @@
 					<li><a class="mapnavlink" href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW web hosting information</a></li>		
 					<li><a class="mapnavlink" href="http://depts.washington.edu/astrobio/">UW Astrobiology website</a></li>
 					<li><a class="mapnavlink" href="https://courses.washington.edu/engageuw/">Engage website</a></li>
-					<li><a class="mapnavlink" href="http://www.nasa.gov/">NASA website</a></li>
 				</ul></li>
 			</ul>
 			</div>
