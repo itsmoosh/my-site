@@ -29,15 +29,19 @@
 			</noscript>		
 
 			<p>
-				<strong>Note:</strong> This page is essentially an extended version of my curriculum vitae. <a href="documents/Styczinski_CV.pdf">Click here for the brief, official version.</a> <!--#config timefmt="%D" -->Last updated <!--#flastmod virtual="/mjstyczi/documents/Styczinski_CV.pdf" -->. For more details about any item, please contact me at the email address listed at the bottom of this page.
+				<strong>Note:</strong> This page is essentially an extended version of my curriculum vitae.<br/>
+				<a href="documents/Styczinski_CV.pdf">Click here for the brief, formal version.</a> <!--#config timefmt="%D" -->Last updated <!--#flastmod virtual="/mjstyczi/documents/Styczinski_CV.pdf" -->.
+			</p>
+			<p>
+				For more details about any item, please contact me at the email address listed at the bottom of this page.
 			</p>
 			
 			<div id="iframe-box">
 				<iframe id="cv" src="supporting/cv.xml" scrolling="no" style="height:3000px;" frameborder="0"></iframe>
 			</div>
 			<script>
-				function gofunc(){ removeScroll("cv"); }
-				window.onload = gofunc;
+				function cleanFrame(){ removeScroll("cv"); }
+				window.onload = cleanFrame;
 			</script>
 			
 		</div>
