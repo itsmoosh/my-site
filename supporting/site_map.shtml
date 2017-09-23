@@ -1,0 +1,11 @@
+<img src="supporting/graphics/site_map.png" style="width:902; height:990; border:none;" usemap="#site_map">
+
+<map name="site_map">
+	<area shape="circle" coords="451,495,400" alt="Link to home page" title="Go to home page" href="">
+	<area shape="poly" coords="451,495,682,110,682,0,220,0,220,110,451,495" alt="Link to teaching page" title="Go to teaching page" href="pages/teaching.shtml">
+	<area shape="poly" coords="451,495,902,495,902,110,682,110,451,495" alt="Link to experience page" title="Go to experience page" href="pages/experience.shtml">
+	<area shape="poly" coords="451,495,682,880,902,880,902,495,451,495" alt="Link to helpful resources page" title="Go to helpful resources page" href="pages/helpful.shtml">
+	<area shape="poly" coords="451,495,220,880,220,990,682,990,682,880,451,495" alt="Link to personal page" title="Go to personal page" href="pages/personal.shtml">
+	<area shape="poly" coords="451,495,0,495,0,880,220,880,451,495" alt="Link to personal blog" title="Go to personal blog" href="pages.blog.shtml">
+	<area shape="poly" coords="451,495,220,110,0,110,0,495,451,495" alt="Link to research page" title="Go to research page" href="pages/research.shtml">
+</map>

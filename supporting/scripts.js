@@ -45,7 +45,7 @@ function loadXMLDoc(fileURL) {
 
 /*	Generates raised pane full of logos for site map and affiliated organizations.
 Inputs:	none
-Returns:	none	*/
+Returns:	colorNum, an index for the selected color	*/
 function logosPane() {
 	var colorNum = Math.floor(Math.random()*3);	// choose an integer index in the range [0, 3) (3 colors created)
 	
@@ -67,6 +67,7 @@ function logosPane() {
 			document.getElementById('uwab-logo').src = "logos/UW-AB_yel.png";
 			break;
 	}
+	return colorNum;
 };
 
 
@@ -85,6 +86,48 @@ function newEval() {
 	document.getElementById('evalQ').innerHTML = currQ;
 	document.getElementById('evalR').innerHTML = currR;
 };
+
+
+/*	Adds onmouseenter and onmouseleave actions to logospane logo. Animates the logo on mouseover.
+Inputs:	colorNum, an index indicating the background color (gifs don't support transparency).
+Returns:	none	*/
+function paneLogoAnim(colorNum) {
+	switch(colorNum){
+		case 0:
+			document.getElementById('my-logo').onmouseenter = function(){
+				this.src = "logos/site_map_blu.gif";
+			};
+			document.getElementById('my-logo').onmouseleave = function(){
+				this.src = "logos/Vector.png";
+			};
+			break;
+		case 1:
+			document.getElementById('my-logo').onmouseenter = function(){
+				this.src = "logos/site_map_grn.gif";
+			};
+			document.getElementById('my-logo').onmouseleave = function(){
+				this.src = "logos/Vector.png";
+			};
+			break;
+		case 2:
+			document.getElementById('my-logo').onmouseenter = function(){
+				this.src = "logos/site_map_yel.gif";
+			};
+			document.getElementById('my-logo').onmouseleave = function(){
+				this.src = "logos/Vector.png";
+			};
+			break;
+		default:
+			document.getElementById('my-logo').onmouseenter = function(){
+				this.src = "logos/site_map_yel.gif";
+			};
+			document.getElementById('my-logo').onmouseleave = function(){
+				this.src = "logos/Vector.png";
+			};
+			break;
+	}
+};
+
 
 /*	Expands an iframe to fit the page, to remove the annoying scroll bar that plagues the default size.
 @@@Important@@@: Execute only after window.onload has fired. Use another in-line function to call--parentheses after a function name trigger it immediately. (See pages/experience.shtml for an example.)
@@ -160,6 +203,13 @@ function setHeader() {
 	banner = "url('banners/" + banner + "')";	// formats banner string to be of the form 'url(banners/the_image.jpg)'
 	document.getElementById('headbanner').style.backgroundImage = banner;
 	document.getElementById('pagetitle').innerHTML = pageTitle;
+	
+	document.getElementById('site-map-logo').onmouseenter = function(){
+		this.src = "logos/site_map_wht.gif";
+	};
+	document.getElementById('site-map-logo').onmouseleave = function(){
+		this.src = "logos/Vector.png";
+	};
 };
 
 

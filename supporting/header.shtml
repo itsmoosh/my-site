@@ -1,5 +1,5 @@
 <div class="homelogo">
-	<a href="pages/"><img src="logos/Vector.png" class="logosq" title="Marshall Styczinski site map" alt="vector creative logo" /></a>
+	<a href="pages/"><img id="site-map-logo" src="logos/Vector.png" onmouseenter="logoAnimate();" onmouseleave="logoRevert();" class="logosq" title="Marshall Styczinski site map" alt="vector creative logo" /></a>
 </div>
 
 <div id="heading">

@@ -5,4 +5,7 @@
 	<a href="http://depts.washington.edu/astrobio/"><img id="uwab-logo" title="UW Astrobiology home" src="logos/UW-AB_yel.png" alt="UW Astrobiology logo" class="logosq" style="width:174px;" /></a>
 	<a href="https://www.pacificsciencecenter.org/"><img id="psc-logo" title="Pacific Science Center" src="logos/psc.png" alt="Pacific Science Center logo" class="logosq" style="width:96px;" /></a>
 </div>
-<script>logosPane();</script>
+<script>
+	var colorIndex = logosPane();
+	paneLogoAnim(colorIndex);
+</script>
