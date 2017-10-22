@@ -1,0 +1,17 @@
+<a href="http://sethrobertson.github.io/GitFixUm/fixup.html" class="reslink" target="_blank">
+	<div id="git-fix">
+		<table class="resdiv">
+		<tr>
+			<td class="resource">
+				<img class="resimg" title="This page doesn't have a logo." alt="Generic text logo" src="logos/text.png" />
+			</td>
+			<td class="resource">
+				<p>
+					<strong>A helpful person named Seth Robertson</strong> has created this lovely GitHub problem-solving page, styled after a Choose-Your-Own-Adventure.
+					I stumbled across it while trying to sort out a pile of issues with a GitHub repository; since then, it&apos;s helped me find efficient solutions in a jiffy. 
+				</p>
+			</td>
+		</tr>
+		</table>
+	</div>
+</a>

@@ -47,6 +47,8 @@
 			
 			<!--#include virtual="/mjstyczi/supporting/resources/stackexchange.shtml" -->
 			
+			<!--#include virtual="/mjstyczi/supporting/resources/git-cyoa.shtml" -->
+			
 			<!--#include virtual="/mjstyczi/supporting/resources/chasteen.shtml" -->
 			
 		</div>
