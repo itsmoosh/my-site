@@ -24,7 +24,7 @@
 					<th class="cv-inst">
 						<xsl:choose>
 						<xsl:when test="inst/@url">
-							<a href="{inst/@url}"><xsl:value-of select="inst"/></a>
+							<a href="{inst/@url}" target="_blank"><xsl:value-of select="inst"/></a>
 						</xsl:when>
 						<xsl:otherwise>
 							<xsl:value-of select="inst"/>
