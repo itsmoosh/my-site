@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-us">
+<html lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 <!-- Go, Europa! I choose you! -->
 
 	<head>
@@ -12,6 +12,13 @@
 		<meta name="description" content="Personal web page for Marshall Styczinski: Research" />
 		<meta name="author" content="Marshall Styczinski" />
 		<meta charset="UTF-8" />
+		
+		<meta property="og:title" content="Marshall Styczinski" />		
+		<meta property="og:url" content="http://students.washington.edu/mjstyczi/research.shtml" />		
+		<meta property="og:description" content="Personal web page of Marshall Styczinski. Marshall is a graduate student at the University of Washington." />
+		<meta property="og:image" content="http://students.washington.edu/mjstyczi/images/preview.jpg" />
+		<meta property="og:image:width" content="1874" />
+		<meta property="og:image:height" content="937" />
 	</head>
 
 	<body>
