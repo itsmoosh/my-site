@@ -23,10 +23,10 @@
 			Harnett Group at U Washington
 		</inst>
 		<descrip>
-			
+			Characterization of oceans on Europa, a moon of Jupiter. Comparison of spacecraft data to simulations of electromagnetic induction and the surrounding plasma environment.
 		</descrip>
 		<skills>
-			
+			Fortran programming, <a href="https://pds.nasa.gov/index.shtml">NASA Planetary Data System (PDS),</a> Matlab, space plasma physics, plasma fluid modeling
 		</skills>
 	</item>
 	
@@ -38,10 +38,11 @@
 			Engage program at U Washington
 		</inst>
 		<descrip>
-			
+			The Engage Board of Directors manages and runs the Engage science communication course.<br/>
+			Roles: Webmaster, curriculum committee, application and screening committee, workshop facilitator
 		</descrip>
 		<skills>
-			
+			Program administration, science communication training, PHP web management
 		</skills>
 	</item>
 
@@ -53,10 +54,12 @@
 			University of Washington
 		</inst>
 		<descrip>
-			
+			Lead small-classroom discussion, tutorial, and laboratory meetings with undergraduate students.<br/>
+			Three years as head TA for large (700-student) introductory physics classes, managing TAs, classroom operations, and TA training.
 		</descrip>
 		<skills>
-			
+			Formative assessment, Socratic dialogue, student engagement, classroom management<br/>
+			As head TA: Course administration and training of TAs; iterative development for courses, curricula, test questions, and grading rubrics
 		</skills>
 	</item>
 
@@ -68,10 +71,13 @@
 			Physics Education Group at the University of Washington (UWPEG)
 		</inst>
 		<descrip>
-			
+			Study of student difficulties with flux and Gauss&apos;s law, curriculum development to address these difficulties.<br/>
+			Study of student difficulties with interpreting diagrams representing three dimensions, development of interactive computing resources to address these difficulties.<br/>
+			Webmaster
 		</descrip>
 		<skills>
-			
+			Human subjects research and ethics, physics education research, curriculum development, exam design for research, Adobe Illustrator, vPython, HTML, Javascript, jQuery, MS Excel<br/>
+			Drupal, PHP web management
 		</skills>
 	</item>
 
@@ -83,10 +89,10 @@
 			Seidler Group, U Washington and Argonne National Lab
 		</inst>
 		<descrip>
-			
+			Study of <a href="http://cars9.uchicago.edu/xafs_school/APS_2005/Bare_XANES.pdf">X-ray absorption near-edge structure (XANES).</a> Data collection at <a href="https://www1.aps.anl.gov/">the Advanced Photon Source at ANL;</a> analysis of XANES data from molybdenum under high pressures (30 GPa), working toward characterization of shocked samples and <a href="http://www.lanl.gov/projects/dense-plasma-theory/background/warm-dense-matter.php">warm dense matter.</a>
 		</descrip>
 		<skills>
-			
+			Python programming, hard X-ray spectroscopy R&amp;D, XANES, warm dense matter research
 		</skills>
 	</item>
 
@@ -95,14 +101,15 @@
 			Development Technician
 		</title>
 		<inst url="http://sanfordlab.org/experiment/lux-experiment">
-			Large Underground Xenon (LUX) experiment
-			UC Davis interconnect research group
+			Large Underground Xenon (LUX) experiment,
+			UC Davis Interconnect Research Group
 		</inst>
 		<descrip>
-			
+			Designed, built, studied, and analyzed a 1:2 scale analog of the LUX dark matter detector, for a proof-of-concept using piezoelectric microphones to triangulate bubble positions in cryogenic fluids.<br/>
+			Restored and upgraded a damaged indium evaporation chamber used for <a href="http://www.palomartechnologies.com/blog/bid/28476/Solder-Bump-Bonding-Ball-Bumps-and-Wire-Bonds">bump bonding.</a>
 		</descrip>
 		<skills>
-			
+			Cryogenic insulation and dewar design (still fluid, no boiling), cryogenic electronics, vacuum system fabrication, hardware interface design and fabrication, LabVIEW data recording and analysis
 		</skills>
 	</item>
 
@@ -114,11 +121,10 @@
 			Stanford Linear Accelerator Center (SLAC) Linear Collider Research and Development (LCRD)
 		</inst>
 		<descrip>
-			http://www.hep.uiuc.edu/LCRD/LCRD_UCLC_
-			proposal_FY06/2_09_Pellett_BigDocFile.pdf			
+			Characterization of radiation damage of permanent magnets, analogous to use in linear collider beamlines. <a href="http://www.hep.uiuc.edu/LCRD/LCRD_UCLC_proposal_FY06/2_09_Pellett_BigDocFile.pdf">Click here for project summary.</a>
 		</descrip>
 		<skills>
-			
+			ROOT and C++ data analysis and visualization, LabVIEW data recording, radioactive sample handling, radiation environment protocol
 		</skills>
 	</item>
 
@@ -130,10 +136,10 @@
 			Double Chooz neutrino experiment
 		</inst>
 		<descrip>
-			
+			Shift leader, Double Chooz &quot;far&quot; detector filling operations. Simultaneous filling of thin-walled, concentric containers for liquid scintillators.
 		</descrip>
 		<skills>
-			
+			International collaboration and teamwork, clean room protocol, LabVIEW experiment monitoring
 		</skills>
 	</item>
 
@@ -145,10 +151,12 @@
 			Fadley group, UC Davis and Lawrence Berkeley National Lab
 		</inst>
 		<descrip>
-			
+			Restored an angle-resolved X-ray photoemission spectroscopy (ARXPS) system in disrepair to working order.<br/>
+			Analyzed silicon wafers with ARXPS to determine surface oxide layer thickness<br/>
+			<strong>Note:</strong> For more information, see my <a href="http://students.washington.edu/mjstyczi/documents/Styczinski_UG_thesis.pdf">undergraduate honors thesis.</a>
 		</descrip>
 		<skills>
-			
+			Ultra-high vacuum systems (10<sup>-9</sup> Torr), X-ray photoemission spectroscopy (XPS), cryogen handling, angle-resolved photoemission materials characterization, LaTeX typesetting
 		</skills>
 	</item>
 
@@ -163,7 +171,7 @@
 			Quiz handling, including scanning, data entry, and score calculation from grading codes; printing copies of in-class worksheets for thousands of students
 		</descrip>
 		<skills>
-			Scripting in FileMaker database software; large course administration
+			Scripting in FileMaker database software; large (1500-student) course administration
 		</skills>
 	</item>	
 		

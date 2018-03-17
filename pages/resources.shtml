@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-us">
+<html lang="en-us" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
 <!-- forums.kerbalspaceprogram.com (A great set of resources!) -->
 
 	<head>
@@ -12,6 +12,13 @@
 		<meta name="description" content="Personal web page for Marshall Styczinski: helpful resources" />
 		<meta name="author" content="Marshall Styczinski" />
 		<meta charset="UTF-8" />
+		
+		<meta property="og:title" content="Marshall Styczinski" />		
+		<meta property="og:url" content="http://students.washington.edu/mjstyczi/resources.shtml" />		
+		<meta property="og:description" content="Personal web page of Marshall Styczinski. Marshall is a graduate student at the University of Washington." />
+		<meta property="og:image" content="http://students.washington.edu/mjstyczi/images/preview.jpg" />
+		<meta property="og:image:width" content="1874" />
+		<meta property="og:image:height" content="937" />
 	</head>
 
 	<body>
@@ -26,7 +33,7 @@
 			
 			<!--#include virtual="/mjstyczi/supporting/logospane.shtml" -->			
 			<p>
-				The icons in this pane link to the home page of this site, the primary University of Washington (UW) site, the Pacific Science Center Portal to the Public site, the UW Astrobiology site, and the primary National Science Foundation site. I use most of these very frequently for checking policies, finding files and guide pages, and other looking-stuff-up sorts of activities.
+				The icons in this pane link to the site map of this site, the primary University of Washington (UW) site, the NASA Jet Propulsion Laboratory website, the UW Astrobiology site, and the Pacific Science Center Portal to the Public site. I use most of these very frequently for checking policies, finding files and guide pages, and other looking-stuff-up sorts of activities.
 			</p>
 			
 			<p>
@@ -46,6 +53,8 @@
 			<!--#include virtual="/mjstyczi/supporting/resources/latex.shtml" -->
 			
 			<!--#include virtual="/mjstyczi/supporting/resources/stackexchange.shtml" -->
+			
+			<!--#include virtual="/mjstyczi/supporting/resources/git-cyoa.shtml" -->
 			
 			<!--#include virtual="/mjstyczi/supporting/resources/chasteen.shtml" -->
 			

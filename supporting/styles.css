@@ -3,7 +3,6 @@ body {
 	font-family: sans-serif;
 	margin-left: auto;	/*	centers content	*/
 	margin-right: auto;
-	background-color: #FFFFFF;
 }
 
 h1 {
@@ -62,6 +61,17 @@ th {
 	background-position: center;
 }
 
+.bannercontainer {
+	margin-top: 6px;
+	margin-bottom: 6px;
+	width: 520px;
+	height: 160px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+}
+
 .blog-button-g {
 	display: flex;
 	flex-direction: column;
@@ -85,16 +95,6 @@ th {
 .blog-title a:visited {color:#007710; background-color:transparent; text-decoration:none;}
 .blog-title a:hover {color:#11cc44; background-color:transparent; text-decoration:none;}
 .blog-title a:active {color:red; background-color:transparent; text-decoration:underline;}
-
-.bannercontainer {
-	margin-top: 6px;
-	margin-bottom: 6px;
-	width: 520px;
-	height: 160px;
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
-}
 
 .col-third {
 	width: 239px;
