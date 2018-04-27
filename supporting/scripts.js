@@ -1,6 +1,6 @@
 "use strict";
 
-/*	Welcome to my lair.	*/
+/*	Welcome to my lair. I can't take full credit for all of the coding strategies here, but the comments are all my own efforts.	*/
 
 
 /*	Adds onmouseenter function to document body, for responsive image map revert
