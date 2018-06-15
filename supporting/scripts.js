@@ -59,16 +59,16 @@ function logosPane() {
 	
 	switch(colorNum){	// chooses which color to set colored elements to
 		case 0:
-			document.getElementById('logospane').className = "logospane-blu";	// sets panel background to match images
+			document.getElementById('logospane').className = "logospane-all logospane-blu";	// sets panel background to match images
 			break;
 		case 1:
-			document.getElementById('logospane').className = "logospane-grn";
+			document.getElementById('logospane').className = "logospane-all logospane-grn";
 			break;
 		case 2:
-			document.getElementById('logospane').className = "logospane-yel";
+			document.getElementById('logospane').className = "logospane-all logospane-yel";
 			break;
 		default:
-			document.getElementById('logospane').className = "logospane-yel";
+			document.getElementById('logospane').className = "logospane-all logospane-yel";
 			break;
 	}
 	return colorNum;
