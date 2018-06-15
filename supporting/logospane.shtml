@@ -2,7 +2,7 @@
 	<a href="pages/"><img id="my-logo" title="Marshall Styczinski Site Map" src="logos/Vector.png" alt="Marshall Styczinski logo" class="logosq" /></a>
 	<a href="http://www.washington.edu/"><img id="uw-logo" title="UW main site" src="logos/UW_Seal.png" alt="University of Washington seal" class="logosq" /></a>
 	<a href="https://www.jpl.nasa.gov/"><img id="nasa-logo" title="NASA JPL website" src="logos/nasa.png" alt="NASA logo" class="logosq"  style="width:143px;" /></a>
-	<a href="http://depts.washington.edu/astrobio/"><img id="uwab-logo" title="UW Astrobiology home" src="logos/UW-AB_yel.png" alt="UW Astrobiology logo" class="logosq" style="width:174px;" /></a>
+	<a href="http://depts.washington.edu/astrobio/"><img id="uwab-logo" title="UW Astrobiology home" src="logos/UW-AB.png" alt="UW Astrobiology logo" class="logosq" style="width:174px;" /></a>
 	<a href="https://www.pacificsciencecenter.org/"><img id="psc-logo" title="Pacific Science Center" src="logos/psc.png" alt="Pacific Science Center logo" class="logosq" style="width:96px;" /></a>
 </div>
 <script>
