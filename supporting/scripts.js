@@ -1,6 +1,6 @@
 "use strict";
 
-/*	Welcome to my lair.	*/
+/*	Welcome to my lair. I can't take full credit for all of the coding strategies here, but the comments are all my own efforts.	*/
 
 
 /*	Adds onmouseenter function to document body, for responsive image map revert
@@ -60,19 +60,15 @@ function logosPane() {
 	switch(colorNum){	// chooses which color to set colored elements to
 		case 0:
 			document.getElementById('logospane').className = "logospane-blu";	// sets panel background to match images
-			document.getElementById('uwab-logo').src = "logos/UW-AB_blu.png";	// rewrites colored-BG image to match
 			break;
 		case 1:
 			document.getElementById('logospane').className = "logospane-grn";
-			document.getElementById('uwab-logo').src = "logos/UW-AB_grn.png";
 			break;
 		case 2:
 			document.getElementById('logospane').className = "logospane-yel";
-			document.getElementById('uwab-logo').src = "logos/UW-AB_yel.png";
 			break;
 		default:
 			document.getElementById('logospane').className = "logospane-yel";
-			document.getElementById('uwab-logo').src = "logos/UW-AB_yel.png";
 			break;
 	}
 	return colorNum;
