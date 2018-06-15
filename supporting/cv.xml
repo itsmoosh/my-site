@@ -23,10 +23,26 @@
 			Harnett Group at U Washington
 		</inst>
 		<descrip>
-			Characterization of oceans on Europa, a moon of Jupiter. Comparison of spacecraft data to simulations of electromagnetic induction and the surrounding plasma environment.
+			Characterization of oceans on Europa, a moon of Jupiter. Comparison of spacecraft data to simulations of electromagnetic induction and the surrounding plasma environment.<br/>
+			Awarded a <a href="https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=627857&amp;solicitationId={0682B593-3472-F449-C368-BBB0A2C41962}&amp;viewSolicitationDocument=1">NASA Earth and Space Science Fellowship</a> for autumn 2018 − summer 2021
 		</descrip>
 		<skills>
-			Fortran programming, <a href="https://pds.nasa.gov/index.shtml">NASA Planetary Data System (PDS),</a> Matlab, space plasma physics, plasma fluid modeling
+			Fortran programming, <a href="https://pds.nasa.gov/index.shtml">NASA Planetary Data System (PDS),</a> Matlab, space plasma physics, plasma fluid modeling, proposal writing
+		</skills>
+	</item>
+	
+	<item qtrStart="183" qtrEnd="183" loc="Pasadena, California">
+		<title>
+			Summer Intern
+		</title>
+		<inst url="https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/">
+			JPL Space Grant Summer Internship Program
+		</inst>
+		<descrip>
+			Close interaction with collaborator and NASA Staff Scientist Steve Vance. Sharing research with Europa Clipper instrument teams. Meeting potential future collaborators with research overlap. 
+		</descrip>
+		<skills>
+			Interdisciplinary collaboration, research at a NASA center, Matlab, Fortran
 		</skills>
 	</item>
 	
@@ -46,7 +62,7 @@
 		</skills>
 	</item>
 
-	<item qtrStart="124" qtrEnd="present" loc="Seattle, Washington">
+	<item qtrStart="124" qtrEnd="182" loc="Seattle, Washington">
 		<title>
 			Graduate Teaching Assistant
 		</title>
