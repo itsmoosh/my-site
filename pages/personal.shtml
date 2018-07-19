@@ -87,8 +87,8 @@
 					I frequently create programs and graphics for sharing my research, and sometimes completely for fun. When I think others might enjoy or benefit from that products I create, I add them to <a href="https://github.com/itsmoosh/fun/">my &apos;fun&apos; GitHub repository!</a> Here's an example of a diagram I created of the solar system, on a logarithmic scale, for the day I married Nichole:
 				</p>
 
-				<div class="portrait" style="width:500px; height:500px;">
-					<a href="images/day_we_married.png"><img src="images/day_we_married.png" class="portrait" style="width:500px; height:500px;" title="Log-scale solar system diagram for 2012-07-21" alt="Concentric ellipses with black dots representing the positions of the planets and scattered asteroids." /></a>
+				<div class="portrait no-shadow" style="width:500px; height:500px;">
+					<a href="images/day_we_married.png"><img src="images/day_we_married.png" class="portrait no-shadow" style="width:500px; height:500px;" title="Log-scale solar system diagram for 2012-07-21" alt="Concentric ellipses with black dots representing the positions of the planets and scattered asteroids." /></a>
 				</div>
 
 				<p>

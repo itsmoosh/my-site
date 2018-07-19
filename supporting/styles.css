@@ -380,6 +380,10 @@ th {
 	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_8link.jpg");
 }
 
+.no-shadow {
+		box-shadow: 0px 0px 0px #FFFFFF;
+}
+
 .overall {
 	position: relative;
 	max-width: 1024px;
