@@ -36,9 +36,9 @@
 				<p><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the full experience from this website.</strong></p>
 			</noscript>
 			
-			<!--#include virtual="/mjstyczi/supporting/TA_assign.shtml" -->
+			<!--!!!!! virtual="/mjstyczi/supporting/TA_assign.shtml" -->
 		
-			<h2>Teaching and learning</h2>			
+			<h2>Teaching philosophy</h2>			
 			<p>
 				Learning is complicated. We all learn in different ways, and the best approach for one person is not likely the best for another. Just like in normal conversation, the best way to communicate an idea is to listen carefully and respond to who you're talking with. I think this is especially true as an instructor in the classroom, or talking science outside the classroom. The teacher isn't the one doing the learning; the most important part of teaching is listening.
 			</p>
