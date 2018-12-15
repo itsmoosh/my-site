@@ -33,14 +33,20 @@
 			
 		<div id="maincontent" class="main">
 			<p>
-				This is the personal website of Marshall &quot;Moosh&quot; Styczinski, a doctoral candidate at the University of Washington. Marshall studies magnetic interactions between Jupiter and its moons. Click the links at left to find out more.
+				This is the personal website of Marshall &quot;Moosh&quot; Styczinski, a doctoral candidate at the University of Washington. Marshall studies magnetic interactions between Jupiter and its moon Europa; his research is funded by a NASA Earth and Space Science Fellowship. Click the links at left to find out more.
 				 <noscript>
 					 <br /><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the full experience from this website.</strong>
 				 </noscript>
 			</p>
+			<hr>
 			<p>
 				For a terse introduction, please see my <a href="documents/Styczinski_CV.pdf">Curriculum Vitae.</a>
 			</p>
+			
+			<div class="portrait" style="width:534px; height:653px;">
+				<a href="images/galaxy_portrait.jpg"><img src="images/galaxy_portrait.jpg" style="width:534px; height:653px;" class="portrait" title="The author" alt="A portrait of Marshall Styczinski" /></a>
+			</div>
+
 			<p>
 				Also see my social media pages! 		
 			<ul>
@@ -50,9 +56,6 @@
 			</ul>
 			</p>
 			
-			<div class="portrait" style="width:534px; height:653px;">
-				<a href="images/galaxy_portrait.jpg"><img src="images/galaxy_portrait.jpg" style="width:534px; height:653px;" class="portrait" title="The author" alt="A portrait of Marshall Styczinski" /></a>
-			</div>
 			<p>
 				If you are a UW student, staff, or faculty member with an active NetID and you'd like your own web page, visit <a href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW Shared Web Hosting</a> for information.
 				<br /><strong>Pro-tip:</strong> To see the HTML code that creates any item on any website, right-click the item and select &quot;Inspect Element&quot;.

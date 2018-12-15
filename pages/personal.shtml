@@ -81,6 +81,19 @@
 				<p>
 					This program is used to demonstrate how electric and magnetic fields oscillate in waves of light. <a href="http://www.glowscript.org/#/user/Mesons/folder/Simulations/program/EMPlaneWave">Click here for the interactive program.</a>
 				</p>
+
+				<h4>More fun coding projects</h4>
+				<p>
+					I frequently create programs and graphics for sharing my research, and sometimes completely for fun. When I think others might enjoy or benefit from that products I create, I add them to <a href="https://github.com/itsmoosh/fun/">my &apos;fun&apos; GitHub repository!</a> Here's an example of a diagram I created of the solar system, on a logarithmic scale, for the day I married Nichole:
+				</p>
+
+				<div class="plain-img" style="width:500px; height:500px;">
+					<a href="images/day_we_married.png"><img src="images/day_we_married.png" class="plain-img" style="width:500px; height:500px;" title="Log-scale solar system diagram for 2012-07-21" alt="Concentric ellipses with black dots representing the positions of the planets and scattered asteroids." /></a>
+				</div>
+
+				<p>
+					The Python code for this diagram <a href="https://github.com/itsmoosh/fun/tree/master/log_scale_orrery">can be found here,</a> in my &apos;fun&apos; GitHub repository. The program will accept any date, so download it and plot the planets for your special day!
+				</p>
 				
 				<h3>Electronic Entertainment</h3>
 				<p>
