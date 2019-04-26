@@ -241,7 +241,7 @@ th {
 	margin-right: auto;
 }
 
-.logospane-blu {
+.logospane-all {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
@@ -250,61 +250,30 @@ th {
 	vertical-align: middle;
 	white-space: nowrap;	
 	
-	background-color: #a8d7fe;
-	width: 700px;
+	width: 715px;
 	height: 120px;
 	
-	padding: 10px;
+	padding: 30px 10px 30px 10px;
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_blu.png");
 	border-image-slice: 60;
 	border-image-width: 4;
 	border-image-outset: 0;
 	border-image-repeat: round;
+}
+
+.logospane-blu {
+	background-color: #a8d7fe;
+	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_blu.png");
 }
 
 .logospane-grn {
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	text-align: center;
-	vertical-align: middle;
-	white-space: nowrap;	
-	
 	background-color: #7fd3a1;
-	width: 700px;
-	height: 120px;
-	
-	padding: 10px;
-	border: 10px solid transparent;
 	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_grn.png");
-	border-image-slice: 60;
-	border-image-width: 4;
-	border-image-outset: 0;
-	border-image-repeat: round;
 }
 
 .logospane-yel {
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	text-align: center;
-	vertical-align: middle;
-	white-space: nowrap;	
-	
 	background-color: #f5f5c5;
-	width: 700px;
-	height: 120px;
-	
-	padding: 10px;
-	border: 10px solid transparent;
 	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_yel.png");
-	border-image-slice: 60;
-	border-image-width: 4;
-	border-image-outset: 0;
-	border-image-repeat: round;
 }
 
 .logosq {
@@ -424,6 +393,16 @@ th {
 	height: 265px;
 	float: right;
 	margin: 5px;
+}
+
+.plain-img {
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 457px;
+	height: 653px;
+	border: 0px;
 }
 
 #pop {
