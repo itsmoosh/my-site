@@ -10,7 +10,7 @@
 		<script src="supporting/scripts.js"></script>
 			
 		<meta name="description" content="Personal web page for Marshall Styczinski: personal information" />
-		<meta name="author" content="Marshall Styczinski" />
+		<meta name="author" content="Marshall" />
 		<meta charset="UTF-8" />
 		
 		<meta property="og:title" content="Marshall Styczinski" />		
@@ -41,7 +41,7 @@
 			</p>
 			
 			<p>
-				The Lake City neighborhood of Seattle is where I call home, along with my cat Nutmeg, and temporarily, my sister&apos;s cat Sydney.
+				The Greenwood neighborhood of Seattle is where I call home, along with my cat Nutmeg, and temporarily, my sister&apos;s cat Sydney.
 			</p>
 			<div class="portrait" style="width:558px; height:314px;">
 				<a href="images/sydney_and_nutmeg.jpg"><img src="images/sydney_and_nutmeg.jpg" class="portrait" style="width:558px; height:314px;" title="The author's immediate family" alt="A portrait of the author and his immediate family" /></a>
