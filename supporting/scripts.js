@@ -12,6 +12,7 @@ function addSiteMapRevert() {
 
 
 /*	Pulls the most recent post from my personal blog to display on the blog page. Expects blog post to be read in via iframe to the current page.
+	No longer necessary, as my blog is defunct and not included on my website.
 Inputs:	none
 Returns: none	*/
 function getBlog() {
@@ -192,8 +193,8 @@ function setHeader() {
 			pageTitle = "Personal Information";
 			banner = "under_muckross_head.jpg";
 			break;
-		case "blog":
-			pageTitle = "Blog";
+		case "audio":
+			pageTitle = "Audio Recordings";
 			banner = "croagh_patrick_peek.jpg";
 			break;
 		case "sitemap":

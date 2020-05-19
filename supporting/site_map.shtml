@@ -6,7 +6,7 @@
 	<area shape="circle" coords="741,327,150" alt="Link to experience page" title="Go to experience page" href="pages/experience.shtml" onmouseenter="siteMap('experience');">
 	<area shape="circle" coords="744,663,150" alt="Link to helpful resources page" title="Go to helpful resources page" href="pages/resources.shtml" onmouseenter="siteMap('resources');">
 	<area shape="circle" coords="449,835,150" alt="Link to personal page" title="Go to personal page" href="pages/personal.shtml" onmouseenter="siteMap('personal');">
-	<area shape="circle" coords="155,665,150" alt="Link to personal blog" title="Go to personal blog" href="pages/blog.shtml" onmouseenter="siteMap('blog');">
+	<area shape="circle" coords="155,665,150" alt="Link to audio recordings page" title="Go to audio recordings page" href="pages/audio.shtml" onmouseenter="siteMap('audio');">
 	<area shape="circle" coords="155,326,150" alt="Link to research page" title="Go to research page" href="pages/research.shtml" onmouseenter="siteMap('research');">
 </map>
 
