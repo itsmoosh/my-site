@@ -190,7 +190,7 @@ function setHeader() {
 			break;
 		case "personal":
 			pageTitle = "Personal Information";
-			banner = "croagh_patrick_together.jpg";
+			banner = "under_muckross_head.jpg";
 			break;
 		case "blog":
 			pageTitle = "Blog";
