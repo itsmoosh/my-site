@@ -45,15 +45,15 @@
 
 				<hr style="max-width:840px;" />
 
-				<!--#include virtual="/mjstyczi/audio/nasa_science_plan2014/nasa_science_plan2014.shtml" -->
+				<!--#include virtual="/mjstyczi/supporting/audio_includes/nasa_science_plan2014.shtml" -->
 
-				<!--#include virtual="/mjstyczi/audio/new_frontiers4/new_frontiers4.shtml" -->
+				<!--#include virtual="/mjstyczi/supporting/audio_includes/new_frontiers4.shtml" -->
 
 			<h2>Public Science Documents</h2>
 
 				<hr style="max-width:840px;" />
 
-				<!--#include virtual="/mjstyczi/audio/decadal2013/decadal2013.shtml" -->
+				<!--#include virtual="/mjstyczi/supporting/audio_includes/decadal2013.shtml" -->
 		
 		</div>
 		
