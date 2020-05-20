@@ -5,8 +5,7 @@
     <p>
         <a href="https://solarsystem.nasa.gov/resources/598/vision-and-voyages-for-planetary-science-in-the-decade-2013-2022/">Original document.</a>
     </p>
-    <noscript>
-        <p><a href="audio/decadal2013/">Decadal survey 2013 audio recordings.</a></p>
-    </noscript>
-    <!--#exec cmd="ls *.mp3" -->
+    <p>
+        <a href="audio/decadal2013/">Decadal survey 2013 audio files.</a>
+    </p>
 </div>

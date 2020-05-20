@@ -5,8 +5,7 @@
     <p>
         <a href="https://science.nasa.gov/about-us/science-strategy#2014">Original document.</a>
     </p>
-    <noscript>
-        <p><a href="audio/nasa_science_plan2014/">NASA 2014 Science Plan audio recordings.</a></p>
-    </noscript>
-    <!--#exec cmd="ls" -->
+    <p>
+         <a href="audio/nasa_science_plan2014/">NASA 2014 Science Plan audio files.</a>
+    </p>
 </div>
