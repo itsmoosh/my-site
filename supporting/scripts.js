@@ -154,10 +154,8 @@ function selfNav() {
 	var pageURL = window.location.pathname;	// gets current page URL
 	var selfName = getPage(pageURL);	// converts URL to filename, sans extension
 	
-	//if( selfName !== "audio" ){
-		document.getElementById(selfName).className = "navcurrent";	// sets class of current page's link to be highlighted
-		document.getElementById(selfName).innerHTML = selfName;	// removes a tag from current page entry in nav list
-	//}
+	document.getElementById(selfName).className = "navcurrent";	// sets class of current page's link to be highlighted
+	document.getElementById(selfName).innerHTML = selfName;	// removes a tag from current page entry in nav list
 };
 
 
