@@ -27,11 +27,26 @@
 			Awarded a <a href="https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=627857&amp;solicitationId={0682B593-3472-F449-C368-BBB0A2C41962}&amp;viewSolicitationDocument=1">NASA Earth and Space Science Fellowship</a> for autumn 2018 − summer 2021
 		</descrip>
 		<skills>
-			Fortran programming, <a href="https://pds.nasa.gov/index.shtml">NASA Planetary Data System (PDS),</a> Matlab, space plasma physics, plasma fluid modeling, proposal writing
+			Fortran, IDL, and Python programming, <a href="https://pds.nasa.gov/index.shtml">NASA Planetary Data System (PDS),</a> Matlab, space plasma physics, plasma fluid modeling, proposal writing
 		</skills>
 	</item>
 
-	<item qtrStart="192" qtrEnd="present" loc="Eugene, Oregon">
+	<item qtrStart="202" qtrEnd="203" loc="Virtual">
+		<title>
+			PSSS Participant
+		</title>
+		<inst url="https://www.jpl.nasa.gov/edu/intern/apply/nasa-science-mission-design-schools/">
+			JPL Planetary Science Summer School
+		</inst>
+		<descrip>
+			A 10-week course with experienced JPL mission personnel designed to train future mission leaders. Typically culminates with a week at JPL honing a proposal for NASA&apos;s New Frontiers-class missions; virtual due to COVID-19 pandemic.
+		</descrip>
+		<skills>
+			Mission design leadership, proposal crafting, mission formulation, development, and management
+		</skills>
+	</item>
+
+	<item qtrStart="192" qtrEnd="163" loc="Eugene, Oregon">
 		<title>
 			Visiting Scholar
 		</title>
@@ -46,7 +61,7 @@
 		</skills>
 	</item>
 	
-	<item qtrStart="183" qtrEnd="183" loc="Pasadena, California">
+	<item qtrStart="183" qtrEnd="183" loc="JPL, Pasadena, California">
 		<title>
 			Summer Intern
 		</title>
