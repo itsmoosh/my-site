@@ -1,4 +1,4 @@
-<div class="navpane navpane7">
+<div class="navpane navpane6">
 	<h3 class="navlabel">Navigation</h3>
 	<ul class="navlist">
 		<li id="home"><a class="navlink" href="">Home</a></li>
@@ -7,7 +7,6 @@
 		<li id="experience"><a class="navlink" href="pages/experience.shtml">Experience</a></li>
 		<li id="resources"><a class="navlink" href="pages/resources.shtml">Resources</a></li>		
 		<li id="personal"><a class="navlink" href="pages/personal.shtml">Personal</a></li>
-		<li id="audio"><a class="navlink" href="pages/audio.shtml">Audio</a></li>
 	</ul>
 		
 	<script>
