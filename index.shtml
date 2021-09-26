@@ -24,11 +24,11 @@
 
 	<body>
 	
-	<!--#include virtual="supporting/header.shtml" -->
+	<!--#include virtual="/supporting/header.shtml" -->
 	
 	<div class="overall">	
 		
-		<!--#include virtual="supporting/navpane.shtml" -->
+		<!--#include virtual="/supporting/navpane.shtml" -->
 		<script>selfNav();</script>		
 			
 		<div id="maincontent" class="main">
@@ -59,12 +59,12 @@
 		</div>
 		
 		<hr style="max-width:1024px;" />
-		<!--#include virtual="supporting/logospane.shtml" -->
+		<!--#include virtual="/supporting/logospane.shtml" -->
 		<hr style="max-width:1024px;" />
 		
 	</div>
 	<div class="footer">
-		<!--#include virtual="supporting/footer.shtml" -->
+		<!--#include virtual="/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>
