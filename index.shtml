@@ -4,19 +4,19 @@
 
 	<head>
 		<title>Marshall Styczinski</title>
-		<base href="http://students.washington.edu/mjstyczi/" />	
+		<base href="https://moosh.run/" />
 		<link rel="icon" href="logos/vectoricon.ico" />
 		<link rel="stylesheet" href="supporting/styles.css" />
 		<script src="supporting/scripts.js"></script>
 			
-		<meta name="description" content="Personal web page of Marshall Styczinski. Marshall is a graduate student at the University of Washington." />
+		<meta name="description" content="Personal web page of Marshall Styczinski. Marshall is a NASA Postdoctoral Fellow at the Jet Propulsion Laboratory." />
 		<meta name="author" content="Marshall Styczinski" />
 		<meta charset="UTF-8" />
 		
 		<meta property="og:title" content="Marshall Styczinski" />		
-		<meta property="og:url" content="http://students.washington.edu/mjstyczi/" />		
-		<meta property="og:description" content="Personal web page of Marshall Styczinski. Marshall is a graduate student at the University of Washington." />
-		<meta property="og:image" content="http://students.washington.edu/mjstyczi/images/preview.jpg" />
+		<meta property="og:url" content="https://moosh.run/" />
+		<meta property="og:description" content="Personal web page of Marshall Styczinski. Marshall is a NASA Postdoctoral Fellow at the Jet Propulsion Laboratory." />
+		<meta property="og:image" content="https://moosh.run/images/preview.jpg" />
 		<meta property="og:image:width" content="400" />
 		<meta property="og:image:height" content="200" />
 	</head>
@@ -24,16 +24,16 @@
 
 	<body>
 	
-	<!--#include virtual="/mjstyczi/supporting/header.shtml" -->
+	<!--#include virtual="/supporting/header.shtml" -->
 	
 	<div class="overall">	
 		
-		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->
+		<!--#include virtual="/supporting/navpane.shtml" -->
 		<script>selfNav();</script>		
 			
 		<div id="maincontent" class="main">
 			<p>
-				This is the personal website of Marshall &quot;Moosh&quot; Styczinski, a doctoral candidate at the University of Washington. Marshall studies magnetic interactions between Jupiter and its moon Europa; his research is funded by a NASA Earth and Space Science Fellowship. Click the links at left to find out more.
+				This is the personal website of Marshall &quot;Moosh&quot; Styczinski, a NASA Postdoctoral Fellow at the Jet Propulsion Laboratory. Marshall studies magnetic interactions between the giant planets and their moons, especially Jupiter's moon Europa. Click the links at left to find out more.
 				 <noscript>
 					 <br /><strong>Note: JavaScript is currently disabled in your browser. Please enable JavaScript to get the full experience from this website.</strong>
 				 </noscript>
@@ -56,20 +56,15 @@
 				<li><a href="https://www.instagram.com/moosh.in.space/">Instagram</a></li>
 			</ul>
 			</p>
-			
-			<p>
-				If you are a UW student, staff, or faculty member with an active NetID and you'd like your own web page, visit <a href="http://www.washington.edu/itconnect/connect/web-publishing/shared-hosting/">UW Shared Web Hosting</a> for information.
-				<br /><strong>Pro-tip:</strong> To see the HTML code that creates any item on any website, right-click the item and select &quot;Inspect Element&quot;.
-			</p>
 		</div>
 		
 		<hr style="max-width:1024px;" />
-		<!--#include virtual="/mjstyczi/supporting/logospane.shtml" -->
+		<!--#include virtual="/supporting/logospane.shtml" -->
 		<hr style="max-width:1024px;" />
 		
 	</div>
 	<div class="footer">
-		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
+		<!--#include virtual="/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>
