@@ -55,7 +55,7 @@ th {
 	
 	padding: 0px;
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/porthole_border_Cu.png");
+	border-image-source: url("https://moosh.run/supporting/graphics/porthole_border_Cu.png");
 	border-image-slice: 60;
 	border-image-width: 35px;
 	border-image-outset: 0;
@@ -267,17 +267,17 @@ th {
 
 .logospane-blu {
 	background-color: #a8d7fe;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_blu.png");
+	border-image-source: url("https://moosh.run/supporting/graphics/logo_border_blu.png");
 }
 
 .logospane-grn {
 	background-color: #7fd3a1;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_grn.png");
+	border-image-source: url("https://moosh.run/supporting/graphics/logo_border_grn.png");
 }
 
 .logospane-yel {
 	background-color: #f5f5c5;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_yel.png");
+	border-image-source: url("https://moosh.run/supporting/graphics/logo_border_yel.png");
 }
 
 .logosq {
@@ -359,13 +359,13 @@ th {
 	line-height: 40px;
 	text-align: left;
 	vertical-align: middle;
-	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_6link.jpg");
+	background-image: url("https://moosh.run/supporting/graphics/navBG_6link.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	
 	padding: 5px;
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/porthole_border_Cu.png");
+	border-image-source: url("https://moosh.run/supporting/graphics/porthole_border_Cu.png");
 	border-image-slice: 60;
 	border-image-width: 35px;
 	border-image-outset: 0;
@@ -373,15 +373,15 @@ th {
 }
 
 .navpane6 {
-	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_6link.jpg");
+	background-image: url("https://moosh.run/supporting/graphics/navBG_6link.jpg");
 }
 
 .navpane7 {
-	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_7link.jpg");
+	background-image: url("https://moosh.run/supporting/graphics/navBG_7link.jpg");
 }
 
 .navpane8 {
-	background-image: url("http://students.washington.edu/mjstyczi/supporting/graphics/navBG_8link.jpg");
+	background-image: url("https://moosh.run/supporting/graphics/navBG_8link.jpg");
 }
 
 .overall {
@@ -421,7 +421,7 @@ th {
 	
 	padding: 0px;
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/porthole_border_Cu.png");
+	border-image-source: url("https://moosh.run/supporting/graphics/porthole_border_Cu.png");
 	border-image-slice: 60;
 	border-image-width: 35px;
 	border-image-outset: 0;
@@ -439,7 +439,7 @@ th {
 	background-color: #DBDBDB;
 	
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/logo_border_gry.png");
+	border-image-source: url("https://moosh.run/supporting/graphics/logo_border_gry.png");
 	border-image-slice: 60;
 	border-image-width: 4;
 	border-image-outset: 0;
@@ -497,7 +497,7 @@ th {
 	margin-bottom: 5px;
 	
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
+	border-image-source: url("https://moosh.run/supporting/graphics/resource_border.png");
 	border-image-slice: 60;
 	border-image-width: 4;
 	border-image-outset: 0;
@@ -513,7 +513,7 @@ th {
 	width: auto;
 	
 	border: 10px solid transparent;
-	border-image-source: url("http://students.washington.edu/mjstyczi/supporting/graphics/resource_border.png");
+	border-image-source: url("https://moosh.run/supporting/graphics/resource_border.png");
 	border-image-slice: 60;
 	border-image-width: 4;
 	border-image-outset: 0;

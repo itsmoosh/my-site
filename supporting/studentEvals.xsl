@@ -5,7 +5,7 @@
 <xsl:template match="/">
 	<html lang="en-us">
 	<head>
-		<base href="http://students.washington.edu/mjstyczi/" />
+		<base href="https://moosh.run/" />
 		<link rel="stylesheet" href="supporting/styles.css" />
 		<title>Marshall Styczinski</title>
 		<link rel="shortcut icon" href="logos/vectoricon.ico" />

@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Why are you looking here? This is for robots. A site map designed for human use may be found at: http://students.washington.edu/mjstyczi/pages/
+<!-- Why are you looking here? This is for robots. A site map designed for human use may be found at: https://moosh.run/pages/
 	I tried hard to make that page draw from this one, or vice versa, so that the same information was just being formatted nicely for humans. 
 	I couldn't get it to work because of the first line below, which specifies the XML namespace (xmlns). 
 	The namespace for robot-readable site maps seems to be incompatible with using your own XML style file (XSLT). 
-	For an example of what that looks like when it works, see my student "testimonials" at: http://students.washington.edu/mjstyczi/supporting/studentEvals.xml -->
+	For an example of what that looks like when it works, see my student "testimonials" at: https://moosh.run/supporting/studentEvals.xml -->
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://students.washington.edu/mjstyczi/</loc>
+		<loc>https://moosh.run/</loc>
 		<changefreq>monthly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	
 	<url>
-		<loc>http://students.washington.edu/mjstyczi/pages/</loc>
+		<loc>https://moosh.run/pages/</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	
 	<url>
-		<loc>http://students.washington.edu/mjstyczi/pages/teaching.shtml</loc>
+		<loc>https://moosh.run/pages/teaching.shtml</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.9</priority>
 	</url>
 	
 	<url>
-		<loc>http://students.washington.edu/mjstyczi/pages/research.shtml</loc>
+		<loc>https://moosh.run/pages/research.shtml</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
 	
 	<url>
-		<loc>http://students.washington.edu/mjstyczi/pages/experience.shtml</loc>
+		<loc>https://moosh.run/pages/experience.shtml</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	
 	<url>
-		<loc>http://students.washington.edu/mjstyczi/pages/resources.shtml</loc>
+		<loc>https://moosh.run/pages/resources.shtml</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.4</priority>
 	</url>
 	
 	<url>
-		<loc>http://students.washington.edu/mjstyczi/pages/personal.shtml</loc>
+		<loc>https://moosh.run/pages/personal.shtml</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	
 	<url>
-		<loc>http://students.washington.edu/mjstyczi/pages/blog.shtml</loc>
+		<loc>https://moosh.run/pages/blog.shtml</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.8</priority>
 	</url>
