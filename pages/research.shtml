@@ -15,7 +15,7 @@
 		
 		<meta property="og:title" content="Marshall Styczinski" />		
 		<meta property="og:url" content="https://moosh.run/research.shtml" />		
-		<meta property="og:description" content="Personal web page of Marshall Styczinski. Marshall is a graduate student at the University of Washington." />
+		<meta property="og:description" content="Personal web page of Marshall Styczinski. Marshall is a NASA Postdoctoral Fellow at the Jet Propulsion Laboratory in Pasadena." />
 		<meta property="og:image" content="https://moosh.run/images/preview.jpg" />
 		<meta property="og:image:width" content="400" />
 		<meta property="og:image:height" content="200" />
@@ -23,11 +23,11 @@
 
 	<body>
 	
-	<!--#include virtual="/mjstyczi/supporting/header.shtml" -->
+	<!--#include virtual="/supporting/header.shtml" -->
 	
 	<div class="overall">	
 		
-		<!--#include virtual="/mjstyczi/supporting/navpane.shtml" -->		
+		<!--#include virtual="/supporting/navpane.shtml" -->		
 			
 		<div id="maincontent" class="main">
 			<h2>Astrobiology</h2>
@@ -104,7 +104,7 @@
 		<hr style="max-width:1024px;" />
 	</div>
 	<div class="footer">
-		<!--#include virtual="/mjstyczi/supporting/footer.shtml" -->
+		<!--#include virtual="/supporting/footer.shtml" -->
 	</div>
 	</body>
 </html>
