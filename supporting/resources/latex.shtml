@@ -1,7 +1,7 @@
 <div id="latex" class="columns">
-	<!--#include virtual="/mjstyczi/supporting/resources/doc-template.shtml" -->
+	<!--#include virtual="/supporting/resources/doc-template.shtml" -->
 	
-	<!--#include virtual="/mjstyczi/supporting/resources/beamer-template.shtml" -->
+	<!--#include virtual="/supporting/resources/beamer-template.shtml" -->
 	
-	<!--#include virtual="/mjstyczi/supporting/resources/getlatex.shtml" -->
+	<!--#include virtual="/supporting/resources/getlatex.shtml" -->
 </div>
