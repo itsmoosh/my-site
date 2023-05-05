@@ -15,7 +15,24 @@
 ]>
 
 <cv xmlns:xlink="http://www.w3.org/1999/xlink">
-	<item qtrStart="172" qtrEnd="present" loc="Seattle, Washington">
+	<item qtrStart="214" qtrEnd="present" loc="Pasadena, California">
+		<title>
+			NASA Postdoctoral Program Fellow
+		</title>
+		<inst url="https://science.jpl.nasa.gov/people/marshall-styczinski/">
+			Planetary Interiors and Geophysics group at the NASA Jet Propulsion Laboratory
+		</inst>
+		<descrip>
+			Magnetic investigation of solar system bodies, especially moons in the outer solar system.
+			Geophysical models of planetary interiors and connections to spacecraft measurements.
+			Mission design and analysis of requirements for scientific study of icy moons and their possible subsurface oceans.
+		</descrip>
+		<skills>
+			Fortran, IDL, Python, and Matlab programming, <a href="https://pds.nasa.gov/index.shtml">NASA Planetary Data System (PDS),</a> interior geophysical models, space plasma physics, plasma fluid modeling, proposal writing
+		</skills>
+	</item>
+
+	<item qtrStart="172" qtrEnd="213" loc="Seattle, Washington">
 		<title>
 			Graduate Student Researcher
 		</title>
@@ -23,11 +40,11 @@
 			Harnett Group at U Washington
 		</inst>
 		<descrip>
-			Characterization of oceans on Europa, a moon of Jupiter. Comparison of spacecraft data to simulations of electromagnetic induction and the surrounding plasma environment.<br/>
+			Characterization of oceans inside icy moons, especially Europa. Comparison of spacecraft data to simulations of electromagnetic induction and the surrounding plasma environment.<br/>
 			Awarded a <a href="https://nspires.nasaprs.com/external/viewrepositorydocument?cmdocumentid=627857&amp;solicitationId={0682B593-3472-F449-C368-BBB0A2C41962}&amp;viewSolicitationDocument=1">NASA Earth and Space Science Fellowship</a> for autumn 2018 − summer 2021
 		</descrip>
 		<skills>
-			Fortran, IDL, and Python programming, <a href="https://pds.nasa.gov/index.shtml">NASA Planetary Data System (PDS),</a> Matlab, space plasma physics, plasma fluid modeling, proposal writing
+			Fortran, IDL, Python, and Matlab programming, <a href="https://pds.nasa.gov/index.shtml">NASA Planetary Data System (PDS),</a> interior geophysical models, space plasma physics, plasma fluid modeling, proposal writing
 		</skills>
 	</item>
 
