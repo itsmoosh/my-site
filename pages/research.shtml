@@ -78,7 +78,7 @@
 			<h2>Open Science</h2>
 
 			<div class="wrapimg" style="width:204px; height:264px;">
-				<a href="images/TOPS_pride.png"><img src="https://zenodo.org/record/5296672" class="wrapimg" style="width:204px; height:264px;" title="NASA Transform to Open Science logo" alt="A logo for the NASA Transform to Open Science program." /></a>
+				<a href="https://zenodo.org/record/5296672"><img src="images/TOPS_pride.png" class="wrapimg" style="width:204px; height:264px;" title="NASA Transform to Open Science logo" alt="A logo for the NASA Transform to Open Science program." /></a>
 			</div>
 			<p>
 				In order to be reproducible, scientific methods and procedures must be shared openly. This includes software and data involved in research. I am involved in the NASA Transform to Open Science program, which supports open sharing of scientific practices, methods, software, and data. In response to mandates from the White House Office of Science and Technology Policy, NASA created a new policy for open sharing of scientific results, including source code, data, and publications. This policy is called SPD-41. Because the way the policy affects me and other researchers is important to me, I decided to comb through the policy and condense the key points for scientists into a presentation. The presentation slides are <a href="https://doi.org/10.5281/zenodo.8213393" target="_blank">available here.</a>
