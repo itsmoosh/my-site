@@ -77,7 +77,7 @@
 
 			<h2>Open Science</h2>
 
-			<div class="wrapimg" style="width:204px; height:264px;">
+			<div class="wrapimg" style="width:204px; height:264px; box-shadow:none;">
 				<a href="https://zenodo.org/record/5296672"><img src="images/TOPS_pride.png" class="wrapimg" style="width:204px; height:264px;" title="NASA Transform to Open Science logo" alt="A logo for the NASA Transform to Open Science program." /></a>
 			</div>
 			<p>
