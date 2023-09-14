@@ -15,7 +15,24 @@
 ]>
 
 <cv xmlns:xlink="http://www.w3.org/1999/xlink">
-	<item qtrStart="214" qtrEnd="present" loc="Pasadena, California">
+	<item qtrStart="233" qtrEnd="present" loc="Pasadena, California">
+		<title>
+			Affiliate Research Scientist
+		</title>
+		<inst url="https://bmsis.org/people/">
+			Blue Marble Space Institute of Science
+		</inst>
+		<descrip>
+			Magnetic investigation of solar system bodies, especially moons in the outer solar system.
+			Geophysical models of planetary interiors and connections to spacecraft measurements.
+			Laboratory analog studies supporting magnetic sounding.
+		</descrip>
+		<skills>
+			Python and Matlab programming, interior geophysical models, spacecraft data analysis, project management, open science
+		</skills>
+	</item>
+	
+	<item qtrStart="214" qtrEnd="233" loc="Pasadena, California">
 		<title>
 			NASA Postdoctoral Program Fellow
 		</title>
@@ -28,7 +45,7 @@
 			Mission design and analysis of requirements for scientific study of icy moons and their possible subsurface oceans.
 		</descrip>
 		<skills>
-			Fortran, IDL, Python, and Matlab programming, <a href="https://pds.nasa.gov/index.shtml">NASA Planetary Data System (PDS),</a> interior geophysical models, space plasma physics, plasma fluid modeling, proposal writing
+			Fortran, IDL, Python, and Matlab programming, laboratory experimental design, <a href="https://pds.nasa.gov/index.shtml">NASA Planetary Data System (PDS),</a> interior geophysical models, space plasma physics, plasma fluid modeling, proposal writing, LaTeX templating
 		</skills>
 	</item>
 
