@@ -15,7 +15,21 @@
 ]>
 
 <cv xmlns:xlink="http://www.w3.org/1999/xlink">
-	<item qtrStart="233" qtrEnd="present" loc="Pasadena, California">
+	<item qtrStart="244" qtrEnd="present" loc="Monrovia, California">
+		<title>
+			Software Engineer
+		</title>
+		<inst url="https://chromologic.com/">
+			ChromoLogic
+		</inst>
+		<descrip>
+			Algorithm development for machine vision.
+		</descrip>
+		<skills>
+			Python and C++ programming, algorithm development, machine learning applications
+		</skills>
+	</item>
+	<item qtrStart="233" qtrEnd="243" loc="Pasadena, California">
 		<title>
 			Affiliate Research Scientist
 		</title>
