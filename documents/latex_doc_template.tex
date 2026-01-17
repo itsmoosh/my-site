@@ -5,22 +5,75 @@
 % Example constructs are commented out so that this document immediately compiles for full-featured Latex installations.
 % Visit https://www.latex-project.org/get/ for information on how to install Latex.
 % I recommend TexStudio for writing latex documents on all major operating systems.
+\errorcontextlines=1000 % Make error log more verbose
 
 
 \usepackage{wrapfig}                % For text-wrapping figures
 \usepackage{graphicx}        % For making figures (.png, .jpg, and .pdf supported)
-\usepackage{color}        % For a variety of text recoloring options
+\usepackage[dvipsnames]{xcolor} % Text coloring
 \usepackage{amsmath}        % For non-italic \text{} in subscripts--included if using mhchem
+\usepackage{upgreek}  % Upright Greek letters
 \usepackage{mathtools}        % For declaring paired delimiters
 \usepackage{multirow}        % For tables with rows taller than 1 line
-\usepackage[version=3]{mhchem}        % For typesetting chemical formulae
+\usepackage[version=4]{mhchem}        % For typesetting chemical formulae
+\usepackage{siunitx} % For easy printing of units in upright font
 \usepackage{setspace}        % For configuring line spacing
-%\usepackage[ampersand]{easylist}        % For making lists easily
-\usepackage{pifont}        % For using wingdings (check and X, specifically)
+\usepackage[ampersand]{easylist}  % For making lists easily
+\usepackage[notextcomp]{stix}  % Set STIX font, a serif font with high readability and well-matched math mode and standard text. https://www.stixfonts.org/
+\usepackage{tabularray}  % Conveniently make tables
 \usepackage[top=1in, left=1.25in, bottom=1in, right=1.25in]{geometry}        % Sets margins
 
+% Cross-references and bib refs are links
+\usepackage[breaklinks=true,colorlinks=true,citecolor=red]{hyperref}
+\newcommand{\nlhref}[1]{\href{#1}{\nolinkurl{#1}}} % Automatically create exact url with href
+\hypersetup{
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=blue,
+    citecolor=gray
+} % Set link colors for refs and cross-refs
+\usepackage{cleveref} % Advanced cross-ref formatting
 
-\newcommand{\ch}{\textcolor{green}{\ding{51}}}        % Insert a green check mark by typing {\ch}
+% Format of section, figure, and table references
+\newcommand{\Eq}{Eq.~}
+\newcommand{\Eqs}{Eqs.~}
+\newcommand{\F}{Figure~}
+\newcommand{\Fs}{Figures~}
+\newcommand{\T}{Table~}
+\newcommand{\Ts}{Tables~}
+\crefformat{equation}{\color{eqcol}#2\Eq#1#3}
+\crefrangeformat{equation}{\color{eqcol}#3{\Eqs}#1#4#5\,--\,#2#6}
+\crefmultiformat{equation}{\color{eqcol}#2\Eqs#1#3}{ \color{eqcol}#2and~#1#3}{\color{eqcol}, #2#1#3}{\color{eqcol}, #2and~#1#3}
+\crefformat{figure}{\color{figcol}#2\F#1#3}
+\crefrangeformat{figure}{\color{figcol}#3\Fs#1#4#5\,--\,#2#6}
+\crefmultiformat{figure}{\color{figcol}#2\Fs#1#3}{ \color{figcol}#2and~#1#3}{\color{figcol}, #2#1#3}{\color{figcol}, #2and~#1#3}
+\crefformat{table}{\color{tabcol}#2\T#1#3}
+\crefrangeformat{table}{\color{tabcol}#3\Ts#1#4#5\,--\,#2#6}
+\crefmultiformat{table}{\color{tabcol}#2\Ts#1#3}{ \color{tabcol}#2and~#1#3}{\color{tabcol}, #2#1#3}{\color{tabcol}, #2and~#1#3}
+\crefformat{section}{#2\S#1#3}
+\crefformat{subsection}{#2\S#1#3}
+\crefformat{subsubsection}{#2\S#1#3}
+
+% Configure display of numbers with units
+\sisetup{range-phrase=-, range-units=single, tight-spacing=true}
+
+% Color definitions
+\definecolor{objcol}{HTML}{007700}
+\definecolor{invcol}{HTML}{000000}
+\definecolor{taskcol}{HTML}{0D4DB5}
+\definecolor{tabcol}{HTML}{0000FF}
+\definecolor{figcol}{HTML}{0000FF}
+\definecolor{eqcol}{HTML}{0000FF}
+\definecolor{wtcol}{HTML}{229922}
+% Define variable size
+\newcommand{\tablesize}{\footnotesize}
+
+% Custom commands
+\newcommand{\conf}{$\Pi$} % Conference
+\newcommand{\mile}{$\diamond$} % Milestone
+\newcommand{\fin}{$\sqbullet$} % Finish of Task
+\newcommand{\pub}{$\star$} % Publication
+\newcommand{\meet}{$\diamond$} % Team meeting
 
 
 \title{A Nice Big Long Title\\ \vspace{0.25cm} \large{Subtitled as such}}
@@ -34,56 +87,63 @@
 \onehalfspacing
 
 
-%\begin{easylist}[itemize]        % Change [itemize] to [enumerate] for numbered easylists
-%        & Item 1
-%        & Item 2
-%        && Item 2a
-%        & Item 3
-%\end{easylist}
-
-
 %\begin{figure}[t]\begin{center}
 %        \includegraphics[width=0.95\textwidth]{picname.png}
-%        \caption{A picture as y’like.}\label{thelabel}
+%        \caption{A picture as y'like.}\label{thelabel}
 %\end{center}\end{figure}
 
 
 %\begin{wrapfigure}{r}{0.5\textwidth}
 %        \begin{center}
-%                \includegraphics[width=0.48\textwidth]{smallfig.png}        % Note: actual size for .png files can usually be specified by changing [width= … ] to [scale=1.0]
+%                \includegraphics[width=0.48\textwidth]{smallfig.png}        % Note: actual size for .png files can usually be specified by changing [width= ... ] to [scale=1.0]
 %                \caption{A smaller figure, with text wrapped around it.}\label{wraplabel}
 %        \end{center}
 %\end{wrapfigure}
 
 
-%\begin{table}[t]
-%\begin{center}
-%\bgroup
-%\def\arraystretch{1.0}	% Increase this number to pad cells in this table. 1.0 is equivalent to the default.
-%\begin{tabular}{ c | l }
-%Mark & Meaning\\
-%\hline
-%\ch & Correct answer with correct reasoning\\
-%\hline
-%X & Incorrect answer with incorrect or incomplete reasoning\\
-%\hline
-%R & Correct answer with incorrect reasoning\\
-%\hline
-%\multirow{2}{*}\C & Incorrect answer, but consistently extended from previous\\& answers %(superposition)\\
-%\hline
-%I & No explanation given or part of experimental setup ignored\\
-%\hline
-%Par & Incorrect answer with partially correct reasoning\\
-%\hline
-%\end{tabular}
-%\caption{Student response categories for the administered pretest.}\label{nicetable}
-%\egroup
-%\end{table}
+\begin{table}[b!]
+\centering
+\tablesize
+\begin{tblr}{
+    colspec={|l|c|*{4}{c}|*{4}{c}|*{4}{c}|},
+    colsep=2pt,
+    rowsep=1.5pt,
+    row{odd}={blue9}, row{even}={blue8}, row{1-2}={blue6},
+    % Year 1 is columns  3, 4, 5, 6
+    % Year 2 is columns  7, 8, 9,10
+    % Year 3 is columns 11,12,13,14
+    cell{3}{3-6} = {wtcol},
+    cell{4}{4-12} = {wtcol},
+}
+\hline
+    \SetCell{c}\textbf{TASK} & \SetCell{c}\textbf{Lead} & \SetCell[c=4]{c}\textbf{Year 1} &&& & \SetCell[c=4]{c}\textbf{Year 2} &&& & \SetCell[c=4]{c}\textbf{Year 3} &&& \\
+     && Q1 & Q2 & Q3 & Q4 & Q1 & Q2 & Q3 & Q4 & Q1 & Q2 & Q3 & Q4\\ \hline
+\hline
+    A thing & Person A & &&\mile& \\
+    Another thing & Persion B & &&\conf&\pub \\
+\hline
+\end{tblr}
+\caption{
+    Work Plan.
+    Brief explanation of the timeline.
+    \meet:~annual team meeting.
+    \conf:~major science meeting.
+    \pub:~publication.
+}\label{tab:exref}
+\end{table}
 
 
+Here is the body text.
+\ce{H2O} does a body good.
+Walk $\SI{5}{km}$ a day.
+Check out \cref{tab:exref}!
 
-
-Here is the body text. \ce{H2O} does a body good.
+\begin{easylist}[itemize]        % Change [itemize] to [enumerate] for numbered easylists
+    & Item 1
+    & Item 2
+        && Item 2a
+    & Item 3
+\end{easylist}
 
 
 %\bibliographystyle{plain}
